@@ -14,8 +14,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schnee',de,Wetterereignisse,#e81818,#e51515,2,0.8958692759090909
 'Wein',de,Landwirtschaft,#18e818,#15e515,2,0.8913198763636363
 'Wohnungslose',de,Stadt,#ffff00,#ffff99,2,0.8867688418181818
-'Ackerbau',de,Landwirtschaft,#18e818,#15e515,2,0.8795373015217391
 'Not',de,Stadt,#ffff00,#ffff99,2,0.8731635581818181
 'Wärmebus',de,Stadt,#fff00,#ffff99,1,0.85
+'Ackerbau',de,Landwirtschaft,#18e818,#15e515,2,0.7510570512934782
 'Tau',de,Wetterereignisse,#e81818,#e51515,2,0.7455135730326086
 'Folientunnel',de,Landwirtschaft,#18e818,#15e515,1,0.6145109135874999
