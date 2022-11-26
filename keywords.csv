@@ -1,7 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wein',de,Landwirtschaft,#18e818,#15e515,2,0.8913198763636363
 'Not',de,Stadt,#ffff00,#ffff99,2,0.8731635581818181
-'Rohrbruch',de,Energie,#1818e8,#1515e5,2,0.8516651665
 'Gas',de,Energie,#1818e8,#1515e5,3,0.8265533937727273
 'Wind',de,Wetterereignisse,#e81818,#e51515,3,0.8251043294090907
 'Schnee',de,Wetterereignisse,#e81818,#e51515,2,0.8164497745227273
@@ -12,6 +11,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiekosten',de,Energie,#1818e8,#1515e5,2,0.780512258865909
 'Bewässerung',de,Landwirtschaft,#15e815,#15e515,2,0.7800677264090907
 'Wohnungslose',de,Stadt,#ffff00,#ffff99,2,0.7768860537272727
+'Rohrbruch',de,Energie,#1818e8,#1515e5,2,0.7743654365249999
 'Ackerbau',de,Landwirtschaft,#18e818,#15e515,2,0.7510570512934782
 'ÖPNV',de,Stadt,#ffff00,#ffff99,3,0.7469538979795454
 'Tau',de,Wetterereignisse,#e81818,#e51515,2,0.7455135730326086
