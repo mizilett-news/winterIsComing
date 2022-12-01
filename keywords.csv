@@ -9,11 +9,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiekosten',de,Energie,#1818e8,#1515e5,3,0.7093171009451136
 'Landwirtschaft',de,Landwirtschaft,#18e818,#15e515,4,0.7067837605977272
 'Kälte',de,Wetterereignisse,#e81818,#e51515,3,0.7036930039818181
-'Schnee',de,Wetterereignisse,#e81818,#e51515,3,0.7011083856381249
 'Notunterkunft',de,Stadt,#ffff00,#ffff99,2,0.6966644944988636
 'Wohnungslose',de,Stadt,#ffff00,#ffff99,2,0.6918537906681819
 'Wind',de,Wetterereignisse,#e81818,#e51515,3,0.6773791747935226
 'Ackerbau',de,Landwirtschaft,#18e818,#15e515,2,0.6481488685994564
+'Schnee',de,Wetterereignisse,#e81818,#e51515,3,0.6463587182469517
 'Heizung',de,Energie,#1818e8,#1515e5,3,0.592254455426017
 'Rohrbruch',de,Energie,#1818e8,#1515e5,1,0.5598616111393124
 'Folientunnel',de,Landwirtschaft,#18e818,#15e515,1,0.5224842915493749
