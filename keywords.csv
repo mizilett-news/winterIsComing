@@ -5,7 +5,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Landwirtschaft',de,Landwirtschaft,#18e818,#15e515,3,0.6648183855989771
 'Dürre',de,Wetterereignisse,#e81818,#e51515,3,0.6477460369325
 'Schnee',de,Wetterereignisse,#e81818,#e51515,3,0.6463587182469517
-'Not',de,Stadt,#ffff00,#ffff99,3,0.643050183393409
 'Energiekosten',de,Energie,#1818e8,#1515e5,3,0.6351650780760738
 'Tau',de,Wetterereignisse,#e81818,#e51515,1,0.6336870170777172
 'ÖPNV',de,Stadt,#ffff00,#ffff99,3,0.6329355506311307
@@ -14,6 +13,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wind',de,Wetterereignisse,#e81818,#e51515,3,0.612561195392676
 'Wohnungslose',de,Stadt,#ffff00,#ffff99,2,0.6033627457043181
 'Heizung',de,Energie,#1818e8,#1515e5,3,0.592254455426017
+'Not',de,Stadt,#ffff00,#ffff99,3,0.5743021636116704
 'Ackerbau',de,Landwirtschaft,#18e818,#15e515,2,0.4952652403900303
 'Rohrbruch',de,Energie,#1818e8,#1515e5,1,0.4761823994684155
 'Folientunnel',de,Landwirtschaft,#18e818,#15e515,1,0.4442616628169686
