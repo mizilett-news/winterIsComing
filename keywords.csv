@@ -2,8 +2,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Notunterkunft',de,Stadt,#ffff00,#ffff99,2,0.6287308949394187
 'Heizung',de,Energie,#1818e8,#1515e5,3,0.592254455426017
 'Schnee',de,Wetterereignisse,#e81818,#e51515,3,0.5836782749334225
-'Kälte',de,Wetterereignisse,#e81818,#e51515,3,0.5771497924223182
 'Not',de,Stadt,#ffff00,#ffff99,3,0.5743021636116704
+'Kälte',de,Wetterereignisse,#e81818,#e51515,3,0.5728160858316977
 'Wohnungslose',de,Stadt,#ffff00,#ffff99,2,0.5678091288486704
 'Energiekosten',de,Energie,#1818e8,#1515e5,3,0.5630424445464809
 'Dürre',de,Wetterereignisse,#e81818,#e51515,3,0.5594313642064584
