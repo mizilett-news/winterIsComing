@@ -2,10 +2,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas',de,Energie,#1818e8,#1515e5,3,0.5500983547476412
 'ÖPNV',de,Stadt,#ffff00,#ffff99,3,0.5330346841858885
 'Wind',de,Wetterereignisse,#e81818,#e51515,3,0.5213171662166629
-'Heizung',de,Energie,#1818e8,#1515e5,3,0.5193717318180245
 'Not',de,Stadt,#ffff00,#ffff99,3,0.5158654167971926
 'Wohnungslose',de,Stadt,#ffff00,#ffff99,2,0.5103159622486426
 'Kälte',de,Wetterereignisse,#e81818,#e51515,3,0.5097557492545732
+'Heizung',de,Energie,#1818e8,#1515e5,3,0.5055288861362299
 'Schnee',de,Wetterereignisse,#e81818,#e51515,3,0.5034008383893976
 'Dürre',de,Wetterereignisse,#e81818,#e51515,3,0.4986509077573078
 'Notunterkunft',de,Stadt,#ffff00,#ffff99,2,0.4963379852073664
