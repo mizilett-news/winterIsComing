@@ -10,10 +10,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiekosten',de,Energie,#1818e8,#1515e5,3,0.4271331394291218
 'Heizung',de,Energie,#1818e8,#1515e5,3,0.4210346078243352
 'Tau',de,Wetterereignisse,#e81818,#e51515,2,0.4163463202487226
-'Schnee',de,Wetterereignisse,#e81818,#e51515,3,0.4098914201540509
 'Notunterkunft',de,Stadt,#ffff00,#ffff99,3,0.40741809661483
 'Wohnungslose',de,Stadt,#ffff00,#ffff99,3,0.3973503923443566
 'Bewässerung',de,Landwirtschaft,#15e815,#15e515,2,0.3855296645725002
+'Schnee',de,Wetterereignisse,#e81818,#e51515,3,0.3715628053127614
 'Rohrbruch',de,Energie,#1818e8,#1515e5,1,0.3494458322586415
 'Ackerbau',de,Landwirtschaft,#18e818,#15e515,2,0.2259824531833039
 'Wärmebus',de,Stadt,#ffff00,#ffff99,1,0.2007673262869578
