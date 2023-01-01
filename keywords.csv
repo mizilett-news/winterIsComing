@@ -11,8 +11,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiekosten',de,Energie,#1818e8,#1515e5,3,0.3862026811466313
 'Bewässerung',de,Landwirtschaft,#15e815,#15e515,2,0.3855296645725002
 'Dürre',de,Wetterereignisse,#e81818,#e51515,3,0.3812012911787293
-'Schnee',de,Wetterereignisse,#e81818,#e51515,3,0.3640221097021064
 'Tau',de,Wetterereignisse,#e81818,#e51515,2,0.3580947922114141
+'Schnee',de,Wetterereignisse,#e81818,#e51515,3,0.35075774961042683
 'Wein',de,Landwirtschaft,#18e818,#15e515,3,0.2942952569782827
 'Rohrbruch',de,Energie,#1818e8,#1515e5,1,0.2552498913068683
 'Ackerbau',de,Landwirtschaft,#18e818,#15e515,1,0.1740175865170423
