@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
+'Wind',de,Wetterereignisse,#e81818,#e51515,3,0.41850413943895143
 'Bewässerung',de,Landwirtschaft,#15e815,#15e515,2,0.3855296645725002
 'ÖPNV',de,Stadt,#ffff00,#ffff99,3,0.3817128801082237
-'Wind',de,Wetterereignisse,#e81818,#e51515,3,0.3742077105698894
 'Heizung',de,Energie,#1818e8,#1515e5,3,0.3656615166758094
 'Landwirtschaft',de,Landwirtschaft,#18e818,#15e515,3,0.3608687651101581
 'Schnee',de,Wetterereignisse,#e81818,#e51515,3,0.3507577496104268
