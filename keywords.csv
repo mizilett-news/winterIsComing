@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'ÖPNV',de,Stadt,#ffff00,#ffff99,3,0.3885018671828992
 'Notunterkunft',de,Stadt,#ffff00,#ffff99,3,0.3685134914860328
 'Heizung',de,Energie,#1818e8,#1515e5,3,0.3656615166758094
+'ÖPNV',de,Stadt,#ffff00,#ffff99,3,0.3624543693781916
 'Landwirtschaft',de,Landwirtschaft,#18e818,#15e515,3,0.3608687651101581
 'Energiekosten',de,Energie,#1818e8,#1515e5,3,0.3468752626110002
 'Dürre',de,Wetterereignisse,#e81818,#e51515,3,0.3426098161382835
