@@ -8,12 +8,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wind',de,Wetterereignisse,#e81818,#e51515,3,0.3308872338128241
 'Bewässerung',de,Landwirtschaft,#15e815,#15e515,2,0.3292008598866252
 'Energiekosten',de,Energie,#1818e8,#1515e5,3,0.3270823604920774
-'Heizung',de,Energie,#1818e8,#1515e5,3,0.32486794326534707
+'Heizung',de,Energie,#1818e8,#1515e5,3,0.324867943265347
 'Not',de,Stadt,#ffff00,#ffff99,3,0.3206113027059134
 'Wohnungslose',de,Stadt,#ffff00,#ffff99,3,0.3182908990142521
 'Kälte',de,Wetterereignisse,#e81818,#e51515,3,0.3050684986144413
-'Wein',de,Landwirtschaft,#18e818,#15e515,3,0.2942952569782827
 'Tau',de,Wetterereignisse,#e81818,#e51515,2,0.2814524717359945
+'Wein',de,Landwirtschaft,#18e818,#15e515,3,0.26419801252244934
 'Ackerbau',de,Landwirtschaft,#18e818,#15e515,1,0.1405824059728487
 'Rohrbruch',de,Energie,#1818e8,#1515e5,1,0.1380729528671308
 'Kältebus',de,Stadt,#ffff00,#ffff99,1,0.1338380777465197
