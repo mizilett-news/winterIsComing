@@ -15,7 +15,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wein',de,Landwirtschaft,#18e818,#15e515,3,0.2641980125224493
 'Tau',de,Wetterereignisse,#e81818,#e51515,2,0.2487305805210499
 'Ackerbau',de,Landwirtschaft,#18e818,#15e515,1,0.1405824059728487
-'Wärmebus',de,Stadt,#ffff00,#ffff99,1,0.1267694565434779
 'Rohrbruch',de,Energie,#1818e8,#1515e5,1,0.1185621299370611
 'Kältebus',de,Stadt,#ffff00,#ffff99,1,0.1167626660845417
+'Wärmebus',de,Stadt,#ffff00,#ffff99,1,0.10835409806195621
 'Folientunnel',de,Landwirtschaft,#18e818,#15e515,1,0.0882103780621419
