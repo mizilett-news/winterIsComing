@@ -8,10 +8,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Not',de,Stadt,#ffff00,#ffff99,3,0.3206113027059134
 'Wohnungslose',de,Stadt,#ffff00,#ffff99,3,0.3182908990142521
 'Notunterkunft',de,Stadt,#ffff00,#ffff99,3,0.3181875477631278
+'Dürre',de,Wetterereignisse,#e81818,#e51515,3,0.3151073573190007
 'Schnee',de,Wetterereignisse,#e81818,#e51515,3,0.3124004276162606
 'Kälte',de,Wetterereignisse,#e81818,#e51515,3,0.3050684986144413
-'Wind',de,Wetterereignisse,#e81818,#e51515,3,0.30441089692271867
-'Dürre',de,Wetterereignisse,#e81818,#e51515,3,0.3007163032629955
+'Wind',de,Wetterereignisse,#e81818,#e51515,3,0.3044108969227186
 'Wein',de,Landwirtschaft,#18e818,#15e515,3,0.288615219734991
 'Tau',de,Wetterereignisse,#e81818,#e51515,2,0.2487305805210499
 'Ackerbau',de,Landwirtschaft,#18e818,#15e515,1,0.1405824059728487
