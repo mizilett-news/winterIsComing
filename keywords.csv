@@ -1,9 +1,9 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Gas',de,Energie,#1818e8,#1515e5,3,0.342054205054409
 'Landwirtschaft',de,Landwirtschaft,#18e818,#15e515,3,0.3414928371329983
 'ÖPNV',de,Stadt,#ffff00,#ffff99,3,0.3364951628302888
 'Heizung',de,Energie,#1818e8,#1515e5,3,0.324867943265347
 'Energiekosten',de,Energie,#1818e8,#1515e5,3,0.3238940973273567
+'Gas',de,Energie,#1818e8,#1515e5,3,0.3230149265689749
 'Not',de,Stadt,#ffff00,#ffff99,3,0.3206113027059134
 'Wohnungslose',de,Stadt,#ffff00,#ffff99,3,0.3182908990142521
 'Notunterkunft',de,Stadt,#ffff00,#ffff99,3,0.3181875477631278
