@@ -13,9 +13,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wohnungslose',de,Stadt,#ffff00,#ffff99,2,0.2545790357423426
 'Wind',de,Wetterereignisse,#e81818,#e51515,3,0.2533794995521056
 'Energiekosten',de,Energie,#1818e8,#1515e5,3,0.2428170929825265
-'Tau',de,Wetterereignisse,#e81818,#e51515,2,0.2123215784428924
+'Tau',de,Wetterereignisse,#e81818,#e51515,2,0.18137392667645855
 'Folientunnel',de,Landwirtschaft,#18e818,#15e515,2,0.1739160243751759
 'Ackerbau',de,Landwirtschaft,#18e818,#15e515,2,0.1608092814405577
 'Rohrbruch',de,Energie,#1818e8,#1515e5,1,0.0494667793020417
-'Kältebus',de,Stadt,#ffff00,#ffff99,1,0.043906290442682676
+'Kältebus',de,Stadt,#ffff00,#ffff99,1,0.0439062904426826
 'Wärmebus',de,Stadt,#ffff00,#ffff99,1,0.0220817765174296
