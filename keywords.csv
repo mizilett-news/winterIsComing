@@ -16,6 +16,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Tau',de,Wetterereignisse,#e81818,#e51515,2,0.1813739266764585
 'Folientunnel',de,Landwirtschaft,#18e818,#15e515,2,0.1739160243751759
 'Ackerbau',de,Landwirtschaft,#18e818,#15e515,2,0.1608092814405577
-'Kältebus',de,Stadt,#ffff00,#ffff99,1,0.0439062904426826
-'Rohrbruch',de,Energie,#1818e8,#1515e5,1,0.042946852406735445
+'Rohrbruch',de,Energie,#1818e8,#1515e5,1,0.0429468524067354
+'Kältebus',de,Stadt,#ffff00,#ffff99,1,0.03867048187628021
 'Wärmebus',de,Stadt,#ffff00,#ffff99,1,0.0220817765174296
