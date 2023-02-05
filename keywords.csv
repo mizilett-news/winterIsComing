@@ -6,13 +6,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Not',de,Stadt,#ffff00,#ffff99,3,0.2647964948765416
 'Heizung',de,Energie,#1818e8,#1515e5,3,0.2546047480335883
 'Wohnungslose',de,Stadt,#ffff00,#ffff99,2,0.2545790357423426
+'Kälte',de,Wetterereignisse,#e81818,#e51515,3,0.2525674304465083
 'Landwirtschaft',de,Landwirtschaft,#18e818,#15e515,3,0.2515081569587509
 'ÖPNV',de,Stadt,#ffff00,#ffff99,3,0.2498572790328885
-'Kälte',de,Wetterereignisse,#e81818,#e51515,3,0.2378266352846622
 'Bewässerung',de,Landwirtschaft,#15e815,#15e515,2,0.2210084112551464
 'Notunterkunft',de,Stadt,#ffff00,#ffff99,2,0.2167191044696965
 'Energiekosten',de,Energie,#1818e8,#1515e5,3,0.2113573240351475
-'Dürre',de,Wetterereignisse,#e81818,#e51515,3,0.21127104729672802
+'Dürre',de,Wetterereignisse,#e81818,#e51515,3,0.211271047296728
 'Tau',de,Wetterereignisse,#e81818,#e51515,2,0.1682093317658988
 'Ackerbau',de,Landwirtschaft,#18e818,#15e515,2,0.148938609224474
 'Folientunnel',de,Landwirtschaft,#18e818,#15e515,2,0.1479786357188995
