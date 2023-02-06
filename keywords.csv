@@ -15,7 +15,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Dürre',de,Wetterereignisse,#e81818,#e51515,3,0.211271047296728
 'Tau',de,Wetterereignisse,#e81818,#e51515,2,0.157019366091923
 'Ackerbau',de,Landwirtschaft,#18e818,#15e515,2,0.148938609224474
-'Folientunnel',de,Landwirtschaft,#18e818,#15e515,2,0.1259318553610645
+'Folientunnel',de,Landwirtschaft,#18e818,#15e515,2,0.10719209205690482
 'Kältebus',de,Stadt,#ffff00,#ffff99,1,0.0597096001556123
 'Rohrbruch',de,Energie,#1818e8,#1515e5,1,0.0542728537924376
-'Wärmebus',de,Stadt,#ffff00,#ffff99,1,0.01876951003981516
+'Wärmebus',de,Stadt,#ffff00,#ffff99,1,0.0187695100398151
