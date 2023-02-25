@@ -6,11 +6,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wind',de,Wetterereignisse,#e81818,#e51515,3,0.223547207294472
 'Wein',de,Landwirtschaft,#18e818,#15e515,3,0.2195346696614234
 'Landwirtschaft',de,Landwirtschaft,#18e818,#15e515,3,0.2149461647356687
-'ÖPNV',de,Stadt,#ffff00,#ffff99,3,0.2122844034394817
 'Energiekosten',de,Energie,#1818e8,#1515e5,3,0.2113573240351475
 'Not',de,Stadt,#ffff00,#ffff99,3,0.209026733197503
 'Kälte',de,Wetterereignisse,#e81818,#e51515,3,0.2071149009521476
 'Bewässerung',de,Landwirtschaft,#15e815,#15e515,2,0.1960816236040654
+'ÖPNV',de,Stadt,#ffff00,#ffff99,3,0.19448752701446853
 'Wohnungslose',de,Stadt,#ffff00,#ffff99,3,0.1909301529435783
 'Tau',de,Wetterereignisse,#e81818,#e51515,2,0.1435849729963163
 'Ackerbau',de,Landwirtschaft,#18e818,#15e515,2,0.118784686675552
