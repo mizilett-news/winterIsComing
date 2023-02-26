@@ -1,8 +1,8 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas',de,Energie,#1818e8,#1515e5,3,0.2661600379499343
 'Schnee',de,Wetterereignisse,#e81818,#e51515,3,0.2503484240565219
-'Dürre',de,Wetterereignisse,#e81818,#e51515,3,0.2466075691419716
-'Heizung',de,Energie,#1818e8,#1515e5,3,0.23471157915529445
+'Dürre',de,Wetterereignisse,#e81818,#e51515,3,0.24638704558885766
+'Heizung',de,Energie,#1818e8,#1515e5,3,0.2347115791552944
 'Wind',de,Wetterereignisse,#e81818,#e51515,3,0.223547207294472
 'Wein',de,Landwirtschaft,#18e818,#15e515,3,0.2195346696614234
 'Landwirtschaft',de,Landwirtschaft,#18e818,#15e515,3,0.2149461647356687
