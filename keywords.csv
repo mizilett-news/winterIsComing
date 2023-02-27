@@ -8,10 +8,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiekosten',de,Energie,#1818e8,#1515e5,3,0.2113573240351475
 'Kälte',de,Wetterereignisse,#e81818,#e51515,3,0.2071149009521476
 'Dürre',de,Wetterereignisse,#e81818,#e51515,3,0.2008129568243132
-'Bewässerung',de,Landwirtschaft,#15e815,#15e515,2,0.1960816236040654
 'ÖPNV',de,Stadt,#ffff00,#ffff99,3,0.1944875270144685
 'Wohnungslose',de,Stadt,#ffff00,#ffff99,3,0.1909301529435783
 'Not',de,Stadt,#ffff00,#ffff99,3,0.1872032177633321
+'Bewässerung',de,Landwirtschaft,#15e815,#15e515,2,0.16786999506345557
 'Tau',de,Wetterereignisse,#e81818,#e51515,2,0.1435849729963163
 'Ackerbau',de,Landwirtschaft,#18e818,#15e515,2,0.118784686675552
 'Wärmebus',de,Stadt,#ffff00,#ffff99,1,0.1186360100855629
