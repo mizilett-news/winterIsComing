@@ -17,5 +17,5 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wärmebus',de,Stadt,#ffff00,#ffff99,1,0.1186360100855629
 'Notunterkunft',de,Stadt,#ffff00,#ffff99,2,0.1153961326910008
 'Kältebus',de,Stadt,#ffff00,#ffff99,1,0.0845514922594967
-'Folientunnel',de,Landwirtschaft,#18e818,#15e515,2,0.0488898781956063
+'Folientunnel',de,Landwirtschaft,#18e818,#15e515,2,0.041856426466265355
 'Rohrbruch',de,Energie,#1818e8,#1515e5,1,0.0142776075696431
