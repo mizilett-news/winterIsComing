@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas',de,Energie,#1818e8,#1515e5,3,0.3271475283001471
 'Heizung',de,Energie,#1818e8,#1515e5,3,0.3257765571496517
-'Wind',de,Wetterereignisse,#e81818,#e51515,3,0.2231448621603993
+'Wind',de,Wetterereignisse,#e81818,#e51515,3,0.2355549637454303
 'Landwirtschaft',de,Landwirtschaft,#18e818,#15e515,3,0.2111365230057924
 'Kälte',de,Wetterereignisse,#e81818,#e51515,3,0.2071149009521476
 'Schnee',de,Wetterereignisse,#e81818,#e51515,3,0.207112128310054
@@ -10,7 +10,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Dürre',de,Wetterereignisse,#e81818,#e51515,3,0.2008129568243132
 'ÖPNV',de,Stadt,#ffff00,#ffff99,3,0.1944875270144685
 'Not',de,Stadt,#ffff00,#ffff99,3,0.1872032177633321
-'Bewässerung',de,Landwirtschaft,#15e815,#15e515,2,0.17036786353120992
+'Bewässerung',de,Landwirtschaft,#15e815,#15e515,2,0.1703678635312099
 'Notunterkunft',de,Stadt,#ffff00,#ffff99,2,0.1290610909984346
 'Wohnungslose',de,Stadt,#ffff00,#ffff99,2,0.1268607143649468
 'Tau',de,Wetterereignisse,#e81818,#e51515,2,0.1048529975450964
