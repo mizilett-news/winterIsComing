@@ -1,8 +1,8 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas',de,Energie,#1818e8,#1515e5,2,0.329910157765038
-'Heizung',de,Energie,#1818e8,#1515e5,3,0.31500497749516876
+'Heizung',de,Energie,#1818e8,#1515e5,3,0.3150049774951687
 'ÖPNV',de,Stadt,#ffff00,#ffff99,3,0.2821847837679535
-'Kälte',de,Wetterereignisse,#e81818,#e51515,3,0.2400953549002345
+'Kälte',de,Wetterereignisse,#e81818,#e51515,3,0.27267365530156296
 'Dürre',de,Wetterereignisse,#e81818,#e51515,3,0.2385835904236359
 'Energiekosten',de,Energie,#1818e8,#1515e5,3,0.2196507825531412
 'Wind',de,Wetterereignisse,#e81818,#e51515,3,0.2174924536296038
