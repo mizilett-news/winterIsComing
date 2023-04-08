@@ -7,9 +7,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wind',de,Wetterereignisse,#e81818,#e51515,3,0.2237474344216439
 'Energiekosten',de,Energie,#1818e8,#1515e5,3,0.2234811869883518
 'Kälte',de,Wetterereignisse,#e81818,#e51515,3,0.2229930552735609
-'Dürre',de,Wetterereignisse,#e81818,#e51515,3,0.2195977284492032
 'Gas',de,Energie,#1818e8,#1515e5,3,0.2092837515473448
 'Wein',de,Landwirtschaft,#18e818,#15e515,3,0.204209564426672
+'Dürre',de,Wetterereignisse,#e81818,#e51515,3,0.19615818872727725
 'Bewässerung',de,Landwirtschaft,#15e815,#15e515,2,0.1763413617422082
 'Notunterkunft',de,Stadt,#ffff00,#ffff99,2,0.1348703242473582
 'Tau',de,Wetterereignisse,#e81818,#e51515,2,0.1043570077263321
