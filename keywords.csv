@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Schnee',de,Wetterereignisse,#e81818,#e51515,3,0.27019587492828284
+'Schnee',de,Wetterereignisse,#e81818,#e51515,3,0.2701958749282828
 'Not',de,Stadt,#ffff00,#ffff99,3,0.2594447106067347
 'Heizung',de,Energie,#1818e8,#1515e5,3,0.2588965763832377
 'Wind',de,Wetterereignisse,#e81818,#e51515,3,0.2269761510765791
@@ -14,7 +14,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Notunterkunft',de,Stadt,#ffff00,#ffff99,2,0.1348703242473582
 'Ackerbau',de,Landwirtschaft,#18e818,#15e515,1,0.1087432085668464
 'Wohnungslose',de,Stadt,#ffff00,#ffff99,1,0.1001334826395435
-'Tau',de,Wetterereignisse,#e81818,#e51515,1,0.0887038615673822
+'Tau',de,Wetterereignisse,#e81818,#e51515,2,0.07944868733227486
 'Rohrbruch',de,Energie,#1818e8,#1515e5,1,0.0465981143989319
 'Kältebus',de,Stadt,#ffff00,#ffff99,1,0.0121201933526179
 'Wärmebus',de,Stadt,#ffff00,#ffff99,1,0.0061331418462689
