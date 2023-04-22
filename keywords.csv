@@ -1,8 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiekosten',de,Energie,#1818e8,#1515e5,3,0.2176458216673717
 'ÖPNV',de,Stadt,#ffff00,#ffff99,3,0.2169258357726613
-'Kälte',de,Wetterereignisse,#e81818,#e51515,3,0.21164251679878407
-'Schnee',de,Wetterereignisse,#e81818,#e51515,3,0.2103848060460134
+'Kälte',de,Wetterereignisse,#e81818,#e51515,3,0.211642516798784
 'Gas',de,Energie,#1818e8,#1515e5,3,0.2092837515473448
 'Heizung',de,Energie,#1818e8,#1515e5,3,0.2051033704747649
 'Wind',de,Wetterereignisse,#e81818,#e51515,3,0.2009183986301011
@@ -10,6 +9,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Dürre',de,Wetterereignisse,#e81818,#e51515,3,0.1961581887272772
 'Not',de,Stadt,#ffff00,#ffff99,3,0.1918407127468154
 'Landwirtschaft',de,Landwirtschaft,#18e818,#15e515,3,0.1898335976811762
+'Schnee',de,Wetterereignisse,#e81818,#e51515,3,0.18378659513911139
 'Bewässerung',de,Landwirtschaft,#15e815,#15e515,3,0.1684777211172406
 'Wärmebus',de,Stadt,#ffff00,#ffff99,1,0.1306038908695054
 'Notunterkunft',de,Stadt,#ffff00,#ffff99,2,0.1304663331323526
