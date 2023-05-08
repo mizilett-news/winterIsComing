@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas',de,Energie,#1818e8,#1515e5,3,0.3082808632647821
-'Dürre',de,Wetterereignisse,#e81818,#e51515,3,0.2101631340001135
+'Dürre',de,Wetterereignisse,#e81818,#e51515,3,0.21086577117282373
 'Wein',de,Landwirtschaft,#18e818,#15e515,3,0.1994364130040175
 'Heizung',de,Energie,#1818e8,#1515e5,3,0.1870102142324722
 'Energiekosten',de,Energie,#1818e8,#1515e5,3,0.1851637264205234
@@ -16,6 +16,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wohnungslose',de,Stadt,#ffff00,#ffff99,1,0.1001334826395435
 'Folientunnel',de,Landwirtschaft,#18e818,#15e515,1,0.0720694640287116
 'Tau',de,Wetterereignisse,#e81818,#e51515,2,0.0644815613664022
-'Wärmebus',de,Stadt,#ffff00,#ffff99,1,0.05961869116287583
+'Wärmebus',de,Stadt,#ffff00,#ffff99,1,0.0596186911628758
 'Kältebus',de,Stadt,#ffff00,#ffff99,1,0.0169995336550309
 'Rohrbruch',de,Energie,#1818e8,#1515e5,1,0.0140751537891133
