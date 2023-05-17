@@ -15,7 +15,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ackerbau',de,Landwirtschaft,#18e818,#15e515,1,0.1055308102252608
 'Wohnungslose',de,Stadt,#ffff00,#ffff99,1,0.1001334826395435
 'Folientunnel',de,Landwirtschaft,#18e818,#15e515,1,0.0525471845037852
-'Tau',de,Wetterereignisse,#e81818,#e51515,2,0.0503386345872255
+'Tau',de,Wetterereignisse,#e81818,#e51515,2,0.04653821439914167
 'Wärmebus',de,Stadt,#ffff00,#ffff99,1,0.0439070876151777
 'Rohrbruch',de,Energie,#1818e8,#1515e5,1,0.0387275921499708
 'Kältebus',de,Stadt,#ffff00,#ffff99,1,0.0118334779558957
