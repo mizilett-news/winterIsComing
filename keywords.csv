@@ -11,9 +11,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'ÖPNV',de,Stadt,#ffff00,#ffff99,3,0.1707161342938918
 'Energiekosten',de,Energie,#1818e8,#1515e5,3,0.1638712016469765
 'Wohnungslose',de,Stadt,#ffff00,#ffff99,1,0.1461470635769453
+'Ackerbau',de,Landwirtschaft,#18e818,#15e515,2,0.13228196847408036
 'Not',de,Stadt,#ffff00,#ffff99,3,0.1282206880331785
-'Ackerbau',de,Landwirtschaft,#18e818,#15e515,1,0.1055308102252608
-'Notunterkunft',de,Stadt,#ffff00,#ffff99,1,0.10233405430176107
+'Notunterkunft',de,Stadt,#ffff00,#ffff99,1,0.102334054301761
 'Rohrbruch',de,Energie,#1818e8,#1515e5,1,0.0537462233860461
 'Tau',de,Wetterereignisse,#e81818,#e51515,2,0.0465382143991416
 'Folientunnel',de,Landwirtschaft,#18e818,#15e515,1,0.0458652268282174
