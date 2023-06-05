@@ -16,6 +16,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wohnungslose',de,Stadt,#ffff00,#ffff99,1,0.1272253040404035
 'Tau',de,Wetterereignisse,#e81818,#e51515,2,0.0465382143991416
 'Folientunnel',de,Landwirtschaft,#18e818,#15e515,1,0.035635376133387
-'Rohrbruch',de,Energie,#1818e8,#1515e5,1,0.02140292505138456
+'Rohrbruch',de,Energie,#1818e8,#1515e5,1,0.0214029250513845
 'Wärmebus',de,Stadt,#ffff00,#ffff99,1,0.0141887624717562
-'Kältebus',de,Stadt,#ffff00,#ffff99,1,0.0033961919527074
+'Kältebus',de,Stadt,#ffff00,#ffff99,1,0.00318679315980129
