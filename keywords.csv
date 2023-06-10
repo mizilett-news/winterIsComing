@@ -4,10 +4,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Not',de,Stadt,#ffff00,#ffff99,3,0.2137574622802329
 'Landwirtschaft',de,Landwirtschaft,#18e818,#15e515,3,0.2124510467150476
 'Kälte',de,Wetterereignisse,#e81818,#e51515,3,0.1876654881166082
+'Energiekosten',de,Energie,#1818e8,#1515e5,3,0.18256705593994044
 'Wein',de,Landwirtschaft,#18e818,#15e515,3,0.1809530628799883
 'Bewässerung',de,Landwirtschaft,#15e815,#15e515,3,0.1792944397095344
 'Dürre',de,Wetterereignisse,#e81818,#e51515,3,0.1717746170335519
-'Energiekosten',de,Energie,#1818e8,#1515e5,3,0.1715201636726572
 'Wind',de,Wetterereignisse,#e81818,#e51515,3,0.1711022011925154
 'ÖPNV',de,Stadt,#ffff00,#ffff99,3,0.1707161342938918
 'Schnee',de,Wetterereignisse,#e81818,#e51515,3,0.1603461645971474
