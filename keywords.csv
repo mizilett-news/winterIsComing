@@ -12,10 +12,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bewässerung',de,Landwirtschaft,#15e815,#15e515,3,0.1709890523894678
 'Schnee',de,Wetterereignisse,#e81818,#e51515,3,0.1457926494530298
 'Notunterkunft',de,Stadt,#ffff00,#ffff99,3,0.1308639661865796
-'Ackerbau',de,Landwirtschaft,#18e818,#15e515,2,0.12932439047252298
+'Ackerbau',de,Landwirtschaft,#18e818,#15e515,2,0.1293243904725229
 'Wohnungslose',de,Stadt,#ffff00,#ffff99,2,0.1182355386388884
 'Rohrbruch',de,Energie,#1818e8,#1515e5,1,0.0908801227658968
 'Tau',de,Wetterereignisse,#e81818,#e51515,2,0.0546028076474182
 'Folientunnel',de,Landwirtschaft,#18e818,#15e515,1,0.0125410345049225
 'Wärmebus',de,Stadt,#ffff00,#ffff99,1,0.0062956292865187
-'Kältebus',de,Stadt,#ffff00,#ffff99,1,0.0027074985579563
+'Kältebus',de,Stadt,#ffff00,#ffff99,1,0.002451388774262855
