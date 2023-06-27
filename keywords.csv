@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizung',de,Energie,#1818e8,#1515e5,3,0.2344907161807148
+'Dürre',de,Wetterereignisse,#e81818,#e51515,3,0.23190843347108708
 'Gas',de,Energie,#1818e8,#1515e5,3,0.2094608220459418
-'Dürre',de,Wetterereignisse,#e81818,#e51515,3,0.202831228147803
 'ÖPNV',de,Stadt,#ffff00,#ffff99,3,0.1902294263093004
 'Kälte',de,Wetterereignisse,#e81818,#e51515,3,0.1874795603915221
 'Wind',de,Wetterereignisse,#e81818,#e51515,3,0.1864422616291283
