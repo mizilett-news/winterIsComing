@@ -7,8 +7,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Landwirtschaft',de,Landwirtschaft,#18e818,#15e515,3,0.1779540510565695
 'Kälte',de,Wetterereignisse,#e81818,#e51515,3,0.1779478749691574
 'ÖPNV',de,Stadt,#ffff00,#ffff99,3,0.1757394614538144
-'Energiekosten',de,Energie,#1818e8,#1515e5,3,0.1692282466398584
 'Not',de,Stadt,#ffff00,#ffff99,3,0.1678270569989843
+'Energiekosten',de,Energie,#1818e8,#1515e5,3,0.16698140782569781
 'Bewässerung',de,Landwirtschaft,#15e815,#15e515,3,0.1639301181674112
 'Schnee',de,Wetterereignisse,#e81818,#e51515,3,0.1561495393078026
 'Notunterkunft',de,Stadt,#ffff00,#ffff99,3,0.1434583435313199
