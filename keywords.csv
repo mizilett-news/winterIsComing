@@ -15,7 +15,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Rohrbruch',de,Energie,#1818e8,#1515e5,1,0.1262307217561724
 'Notunterkunft',de,Stadt,#ffff00,#ffff99,2,0.1071755725289965
 'Ackerbau',de,Landwirtschaft,#18e818,#15e515,2,0.0974160599273471
-'Tau',de,Wetterereignisse,#e81818,#e51515,2,0.0542574298661686
+'Tau',de,Wetterereignisse,#e81818,#e51515,2,0.06925130856806148
 'Folientunnel',de,Landwirtschaft,#18e818,#15e515,1,0.0017127373605413
 'Wärmebus',de,Stadt,#ffff00,#ffff99,1,0.0008955013719921
 'Kältebus',de,Stadt,#ffff00,#ffff99,1,0.0008838585089493
