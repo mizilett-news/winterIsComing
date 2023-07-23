@@ -11,9 +11,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiekosten',de,Energie,#1818e8,#1515e5,3,0.1669814078256978
 'Gas',de,Energie,#1818e8,#1515e5,3,0.1666577826692408
 'Schnee',de,Wetterereignisse,#e81818,#e51515,3,0.1524359293544328
-'Wohnungslose',de,Stadt,#ffff00,#ffff99,2,0.1356114752095261
 'Rohrbruch',de,Energie,#1818e8,#1515e5,1,0.1262307217561724
-'Ackerbau',de,Landwirtschaft,#18e818,#15e515,2,0.12014590020659913
+'Ackerbau',de,Landwirtschaft,#18e818,#15e515,2,0.1201459002065991
+'Wohnungslose',de,Stadt,#ffff00,#ffff99,2,0.11632035392809718
 'Notunterkunft',de,Stadt,#ffff00,#ffff99,2,0.1071755725289965
 'Tau',de,Wetterereignisse,#e81818,#e51515,2,0.0692513085680614
 'Folientunnel',de,Landwirtschaft,#18e818,#15e515,1,0.0017127373605413
