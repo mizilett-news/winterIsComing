@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wind',de,Wetterereignisse,#e81818,#e51515,3,0.2040125494035741
 'Wein',de,Landwirtschaft,#18e818,#15e515,3,0.1969244434229553
-'Gas',de,Energie,#1818e8,#1515e5,3,0.1930171386376173
+'Gas',de,Energie,#1818e8,#1515e5,3,0.19176324556924743
 'Heizung',de,Energie,#1818e8,#1515e5,3,0.1816934017798262
 'Dürre',de,Wetterereignisse,#e81818,#e51515,3,0.1780593698121809
 'Not',de,Stadt,#ffff00,#ffff99,3,0.1771974910226751
@@ -13,7 +13,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schnee',de,Wetterereignisse,#e81818,#e51515,3,0.1524359293544328
 'Rohrbruch',de,Energie,#1818e8,#1515e5,1,0.1378213534927465
 'Wohnungslose',de,Stadt,#ffff00,#ffff99,2,0.1335562641722158
-'Notunterkunft',de,Stadt,#ffff00,#ffff99,2,0.11313506757141539
+'Notunterkunft',de,Stadt,#ffff00,#ffff99,2,0.1131350675714153
 'Tau',de,Wetterereignisse,#e81818,#e51515,2,0.0911143322828521
 'Ackerbau',de,Landwirtschaft,#18e818,#15e515,2,0.0686840606582372
 'Folientunnel',de,Landwirtschaft,#18e818,#15e515,1,0.0017558567564601
