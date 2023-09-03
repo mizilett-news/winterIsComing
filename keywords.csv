@@ -9,9 +9,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiekosten',de,Energie,#1818e8,#1515e5,3,0.1593039712912393
 'ÖPNV',de,Stadt,#ffff00,#ffff99,3,0.1535859083366255
 'Landwirtschaft',de,Landwirtschaft,#18e818,#15e515,3,0.1520758440687027
-'Bewässerung',de,Landwirtschaft,#15e815,#15e515,3,0.1496280386740439
 'Not',de,Stadt,#ffff00,#ffff99,3,0.1433810928598807
-'Tau',de,Wetterereignisse,#e81818,#e51515,2,0.13338712591793003
+'Tau',de,Wetterereignisse,#e81818,#e51515,2,0.13338712591793
+'Bewässerung',de,Landwirtschaft,#15e815,#15e515,3,0.13213498787293732
 'Schnee',de,Wetterereignisse,#e81818,#e51515,3,0.1235575542850154
 'Notunterkunft',de,Stadt,#ffff00,#ffff99,3,0.11942041177486
 'Rohrbruch',de,Energie,#1818e8,#1515e5,1,0.0990255886019889
