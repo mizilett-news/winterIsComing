@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizung',de,Energie,#1818e8,#1515e5,3,0.2724966111296261
-'Landwirtschaft',de,Landwirtschaft,#18e818,#15e515,3,0.22968045791294273
+'Landwirtschaft',de,Landwirtschaft,#18e818,#15e515,3,0.2296804579129427
 'Gas',de,Energie,#1818e8,#1515e5,3,0.1883963865906726
 'ÖPNV',de,Stadt,#ffff00,#ffff99,3,0.1804863163276845
 'Schnee',de,Wetterereignisse,#e81818,#e51515,3,0.1690683252331721
@@ -18,4 +18,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ackerbau',de,Landwirtschaft,#18e818,#15e515,1,0.0328530197223346
 'Folientunnel',de,Landwirtschaft,#18e818,#15e515,1,0.0121547730237063
 'Kältebus',de,Stadt,#ffff00,#ffff99,1,0.0004535758789509
-'Wärmebus',de,Stadt,#ffff00,#ffff99,1,6.649194959610994e-05
+'Wärmebus',de,Stadt,#ffff00,#ffff99,1,5.6518157156693444e-05
