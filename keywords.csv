@@ -8,8 +8,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Not',de,Stadt,#ffff00,#ffff99,3,0.1587079007490804
 'Kälte',de,Wetterereignisse,#e81818,#e51515,3,0.1579244524452557
 'ÖPNV',de,Stadt,#ffff00,#ffff99,3,0.1566856840168181
-'Heizung',de,Energie,#1818e8,#1515e5,3,0.14677540822542784
 'Wind',de,Wetterereignisse,#e81818,#e51515,3,0.1379930622416646
+'Heizung',de,Energie,#1818e8,#1515e5,3,0.13426235153706817
 'Bewässerung',de,Landwirtschaft,#15e815,#15e515,3,0.1206863701307526
 'Wohnungslose',de,Stadt,#ffff00,#ffff99,3,0.1165304772983506
 'Tau',de,Wetterereignisse,#e81818,#e51515,2,0.1143667678166135
