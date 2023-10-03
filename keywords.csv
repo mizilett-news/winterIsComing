@@ -7,10 +7,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kälte',de,Wetterereignisse,#e81818,#e51515,3,0.1579244524452557
 'Dürre',de,Wetterereignisse,#e81818,#e51515,3,0.1571036617072891
 'Schnee',de,Wetterereignisse,#e81818,#e51515,3,0.1536744347110945
-'Kältebus',de,Stadt,#ffff00,#ffff99,2,0.1505736401294002
 'Landwirtschaft',de,Landwirtschaft,#18e818,#15e515,3,0.1439205574485502
 'ÖPNV',de,Stadt,#ffff00,#ffff99,3,0.1426830109597499
 'Heizung',de,Energie,#1818e8,#1515e5,3,0.1342623515370681
+'Kältebus',de,Stadt,#ffff00,#ffff99,1,0.12798763910999017
 'Notunterkunft',de,Stadt,#ffff00,#ffff99,2,0.1230509158255181
 'Bewässerung',de,Landwirtschaft,#15e815,#15e515,3,0.1206863701307526
 'Wohnungslose',de,Stadt,#ffff00,#ffff99,3,0.1165304772983506
