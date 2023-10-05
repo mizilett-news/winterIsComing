@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiekosten',de,Energie,#1818e8,#1515e5,3,0.1770731955531074
-'Kälte',de,Wetterereignisse,#e81818,#e51515,3,0.17100806139664915
-'Wind',de,Wetterereignisse,#e81818,#e51515,3,0.1609023921241622
+'Kälte',de,Wetterereignisse,#e81818,#e51515,3,0.1710080613966491
+'Wind',de,Wetterereignisse,#e81818,#e51515,3,0.16900809057826516
 'Not',de,Stadt,#ffff00,#ffff99,3,0.1587079007490804
 'Dürre',de,Wetterereignisse,#e81818,#e51515,3,0.1571036617072891
 'Wein',de,Landwirtschaft,#18e818,#15e515,3,0.1543279446787121
