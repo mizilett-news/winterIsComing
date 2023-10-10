@@ -8,9 +8,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas',de,Energie,#1818e8,#1515e5,3,0.1439917728511649
 'Landwirtschaft',de,Landwirtschaft,#18e818,#15e515,3,0.1439205574485502
 'ÖPNV',de,Stadt,#ffff00,#ffff99,3,0.1426830109597499
-'Kälte',de,Wetterereignisse,#e81818,#e51515,3,0.139239567759559
 'Heizung',de,Energie,#1818e8,#1515e5,3,0.1281718278974169
 'Notunterkunft',de,Stadt,#ffff00,#ffff99,2,0.1272559605493213
+'Kälte',de,Wetterereignisse,#e81818,#e51515,3,0.12330808759562514
 'Wohnungslose',de,Stadt,#ffff00,#ffff99,3,0.1165304772983506
 'Tau',de,Wetterereignisse,#e81818,#e51515,2,0.1143667678166135
 'Bewässerung',de,Landwirtschaft,#15e815,#15e515,2,0.1025839546111397
