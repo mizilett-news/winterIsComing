@@ -9,7 +9,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schnee',de,Wetterereignisse,#e81818,#e51515,3,0.1446680035953394
 'ÖPNV',de,Stadt,#ffff00,#ffff99,3,0.1444158274976056
 'Kälte',de,Wetterereignisse,#e81818,#e51515,3,0.1396184619014754
-'Heizung',de,Energie,#1818e8,#1515e5,3,0.1320850268946225
+'Heizung',de,Energie,#1818e8,#1515e5,3,0.1354108260422473
 'Notunterkunft',de,Stadt,#ffff00,#ffff99,2,0.1272559605493213
 'Wohnungslose',de,Stadt,#ffff00,#ffff99,3,0.1165304772983506
 'Tau',de,Wetterereignisse,#e81818,#e51515,2,0.1143667678166135
