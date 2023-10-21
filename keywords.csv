@@ -7,10 +7,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schnee',de,Wetterereignisse,#e81818,#e51515,3,0.1446680035953394
 'ÖPNV',de,Stadt,#ffff00,#ffff99,3,0.1444158274976056
 'Kälte',de,Wetterereignisse,#e81818,#e51515,3,0.1396184619014754
-'Dürre',de,Wetterereignisse,#e81818,#e51515,3,0.13553356439996952
 'Heizung',de,Energie,#1818e8,#1515e5,3,0.1354108260422473
 'Landwirtschaft',de,Landwirtschaft,#18e818,#15e515,3,0.1301201989545921
 'Notunterkunft',de,Stadt,#ffff00,#ffff99,2,0.1272559605493213
+'Dürre',de,Wetterereignisse,#e81818,#e51515,3,0.12015586973997407
 'Wohnungslose',de,Stadt,#ffff00,#ffff99,3,0.1165304772983506
 'Folientunnel',de,Landwirtschaft,#18e818,#15e515,2,0.1039758692644132
 'Bewässerung',de,Landwirtschaft,#15e815,#15e515,2,0.1025839546111397
