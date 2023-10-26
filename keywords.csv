@@ -7,11 +7,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Rohrbruch',de,Energie,#1818e8,#1515e5,2,0.1474144306432264
 'Schnee',de,Wetterereignisse,#e81818,#e51515,3,0.1446680035953394
 'Kälte',de,Wetterereignisse,#e81818,#e51515,3,0.1396184619014754
-'Energiekosten',de,Energie,#1818e8,#1515e5,3,0.13938408520193396
+'Energiekosten',de,Energie,#1818e8,#1515e5,3,0.1393840852019339
 'Heizung',de,Energie,#1818e8,#1515e5,3,0.1354108260422473
-'Landwirtschaft',de,Landwirtschaft,#18e818,#15e515,3,0.1301201989545921
 'Notunterkunft',de,Stadt,#ffff00,#ffff99,2,0.1272559605493213
 'Dürre',de,Wetterereignisse,#e81818,#e51515,3,0.120155869739974
+'Landwirtschaft',de,Landwirtschaft,#18e818,#15e515,3,0.11556313411140327
 'Bewässerung',de,Landwirtschaft,#15e815,#15e515,2,0.1137575956383666
 'Wohnungslose',de,Stadt,#ffff00,#ffff99,2,0.099051385703598
 'Folientunnel',de,Landwirtschaft,#18e818,#15e515,1,0.0883795338747512
