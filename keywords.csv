@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wein',de,Landwirtschaft,#18e818,#15e515,3,0.2152515457221692
 'Wind',de,Wetterereignisse,#e81818,#e51515,3,0.2078936695337055
-'Gas',de,Energie,#1818e8,#1515e5,3,0.165679859231767
+'Gas',de,Energie,#1818e8,#1515e5,3,0.19580080034700192
 'ÖPNV',de,Stadt,#ffff00,#ffff99,3,0.1528221764352018
 'Not',de,Stadt,#ffff00,#ffff99,3,0.1489406743620806
 'Rohrbruch',de,Energie,#1818e8,#1515e5,2,0.1448781918183025
