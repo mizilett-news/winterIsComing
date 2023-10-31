@@ -13,7 +13,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizung',de,Energie,#1818e8,#1515e5,3,0.1301852672473417
 'Dürre',de,Wetterereignisse,#e81818,#e51515,3,0.120155869739974
 'Landwirtschaft',de,Landwirtschaft,#18e818,#15e515,3,0.1155631341114032
-'Bewässerung',de,Landwirtschaft,#15e815,#15e515,2,0.1137575956383666
+'Bewässerung',de,Landwirtschaft,#15e815,#15e515,2,0.09834461629261161
 'Tau',de,Wetterereignisse,#e81818,#e51515,1,0.0717031462978776
 'Folientunnel',de,Landwirtschaft,#18e818,#15e515,1,0.0646867964745077
 'Kältebus',de,Stadt,#ffff00,#ffff99,1,0.0568008626043796
