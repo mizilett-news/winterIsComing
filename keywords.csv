@@ -1,10 +1,10 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Kälte',de,Wetterereignisse,#e81818,#e51515,3,0.2039050690874522
 'Wind',de,Wetterereignisse,#e81818,#e51515,3,0.198266903659993
 'Gas',de,Energie,#1818e8,#1515e5,3,0.1804945993858607
+'Kälte',de,Wetterereignisse,#e81818,#e51515,3,0.17827472372433437
 'Wein',de,Landwirtschaft,#18e818,#15e515,3,0.1533138296452124
 'Schnee',de,Wetterereignisse,#e81818,#e51515,3,0.1506508957833112
-'Heizung',de,Energie,#1818e8,#1515e5,3,0.14913784024529528
+'Heizung',de,Energie,#1818e8,#1515e5,3,0.1491378402452952
 'Not',de,Stadt,#ffff00,#ffff99,3,0.1489406743620806
 'Rohrbruch',de,Energie,#1818e8,#1515e5,2,0.1448781918183025
 'ÖPNV',de,Stadt,#ffff00,#ffff99,3,0.1415854171634975
