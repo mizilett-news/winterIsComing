@@ -14,8 +14,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'ÖPNV',de,Stadt,#ffff00,#ffff99,3,0.1333774564162507
 'Rohrbruch',de,Energie,#1818e8,#1515e5,1,0.1246741228030092
 'Tau',de,Wetterereignisse,#e81818,#e51515,1,0.0797925862002165
-'Kältebus',de,Stadt,#ffff00,#ffff99,1,0.0706585364753307
+'Kältebus',de,Stadt,#ffff00,#ffff99,1,0.0608098310040311
 'Bewässerung',de,Landwirtschaft,#15e815,#15e515,2,0.0513350207641295
 'Ackerbau',de,Landwirtschaft,#18e818,#15e515,1,0.0304449777276383
-'Folientunnel',de,Landwirtschaft,#18e818,#15e515,1,0.011083305309987456
+'Folientunnel',de,Landwirtschaft,#18e818,#15e515,1,0.0110833053099874
 'Wärmebus',de,Stadt,#ffff00,#ffff99,1,0.0003013753128304
