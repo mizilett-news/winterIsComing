@@ -2,7 +2,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schnee',de,Wetterereignisse,#e81818,#e51515,3,0.3473129283883372
 'Wind',de,Wetterereignisse,#e81818,#e51515,3,0.2070902994583868
 'Gas',de,Energie,#1818e8,#1515e5,3,0.1903601467480655
-'Wein',de,Landwirtschaft,#18e818,#15e515,3,0.1790979361886586
+'Wein',de,Landwirtschaft,#18e818,#15e515,3,0.18446272303308708
 'Wohnungslose',de,Stadt,#ffff00,#ffff99,2,0.1689904615588951
 'Energiekosten',de,Energie,#1818e8,#1515e5,3,0.1575930445885257
 'Not',de,Stadt,#ffff00,#ffff99,3,0.1480172387033728
@@ -10,7 +10,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Landwirtschaft',de,Landwirtschaft,#18e818,#15e515,3,0.1397496751464905
 'Kälte',de,Wetterereignisse,#e81818,#e51515,3,0.1374724836507116
 'Heizung',de,Energie,#1818e8,#1515e5,3,0.1369233325772256
-'Dürre',de,Wetterereignisse,#e81818,#e51515,3,0.12821152907211472
+'Dürre',de,Wetterereignisse,#e81818,#e51515,3,0.1282115290721147
 'ÖPNV',de,Stadt,#ffff00,#ffff99,3,0.1274161720447222
 'Rohrbruch',de,Energie,#1818e8,#1515e5,1,0.1246741228030092
 'Kältebus',de,Stadt,#ffff00,#ffff99,1,0.0963227416504124
