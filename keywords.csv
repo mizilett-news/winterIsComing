@@ -15,7 +15,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'ÖPNV',de,Stadt,#ffff00,#ffff99,3,0.1274161720447222
 'Kältebus',de,Stadt,#ffff00,#ffff99,1,0.0963227416504124
 'Tau',de,Wetterereignisse,#e81818,#e51515,1,0.0797925862002165
-'Wärmebus',de,Stadt,#ffff00,#ffff99,1,0.0614069542889919
+'Wärmebus',de,Stadt,#ffff00,#ffff99,1,0.052945986145643116
 'Bewässerung',de,Landwirtschaft,#15e815,#15e515,2,0.0513350207641295
 'Ackerbau',de,Landwirtschaft,#18e818,#15e515,1,0.0268419809082186
 'Folientunnel',de,Landwirtschaft,#18e818,#15e515,1,0.0080076880864658
