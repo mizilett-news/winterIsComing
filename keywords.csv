@@ -13,8 +13,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizung',de,Energie,#1818e8,#1515e5,3,0.1369233325772256
 'Not',de,Stadt,#ffff00,#ffff99,3,0.1307891928978668
 'ÖPNV',de,Stadt,#ffff00,#ffff99,3,0.1274161720447222
-'Tau',de,Wetterereignisse,#e81818,#e51515,2,0.0995454418416125
-'Kältebus',de,Stadt,#ffff00,#ffff99,1,0.07113083459242293
+'Tau',de,Wetterereignisse,#e81818,#e51515,1,0.08461392556537062
+'Kältebus',de,Stadt,#ffff00,#ffff99,1,0.0711308345924229
 'Bewässerung',de,Landwirtschaft,#15e815,#15e515,2,0.0513350207641295
 'Wärmebus',de,Stadt,#ffff00,#ffff99,1,0.0457541632237966
 'Ackerbau',de,Landwirtschaft,#18e818,#15e515,1,0.0268419809082186
