@@ -1,8 +1,8 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wind',de,Wetterereignisse,#e81818,#e51515,3,0.2300191364874269
 'Gas',de,Energie,#1818e8,#1515e5,3,0.204921715138701
+'Energiekosten',de,Energie,#1818e8,#1515e5,3,0.18891113790024683
 'Rohrbruch',de,Energie,#1818e8,#1515e5,1,0.1599899699751741
-'Energiekosten',de,Energie,#1818e8,#1515e5,3,0.1575930445885257
 'Notunterkunft',de,Stadt,#ffff00,#ffff99,2,0.1555230782588367
 'Wohnungslose',de,Stadt,#ffff00,#ffff99,3,0.1542959972184927
 'Schnee',de,Wetterereignisse,#e81818,#e51515,3,0.1504532143760907
