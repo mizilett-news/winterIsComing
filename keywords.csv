@@ -13,8 +13,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizung',de,Energie,#1818e8,#1515e5,3,0.1369233325772256
 'Not',de,Stadt,#ffff00,#ffff99,3,0.1307891928978668
 'Dürre',de,Wetterereignisse,#e81818,#e51515,3,0.1277975820720941
+'Kältebus',de,Stadt,#ffff00,#ffff99,1,0.0951446777368928
 'Tau',de,Wetterereignisse,#e81818,#e51515,1,0.0846139255653706
-'Kältebus',de,Stadt,#ffff00,#ffff99,1,0.0711308345924229
 'Bewässerung',de,Landwirtschaft,#15e815,#15e515,1,0.04363515764951
 'Ackerbau',de,Landwirtschaft,#18e818,#15e515,1,0.0267488360252597
 'Wärmebus',de,Stadt,#ffff00,#ffff99,1,0.0230831168762343
