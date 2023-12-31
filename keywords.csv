@@ -13,9 +13,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Notunterkunft',de,Stadt,#ffff00,#ffff99,3,0.138747400907394
 'Wohnungslose',de,Stadt,#ffff00,#ffff99,3,0.1312927626949063
 'Dürre',de,Wetterereignisse,#e81818,#e51515,3,0.1277975820720941
+'Bewässerung',de,Landwirtschaft,#15e815,#15e515,3,0.1165903340020835
 'Tau',de,Wetterereignisse,#e81818,#e51515,1,0.074472091730565
-'Bewässerung',de,Landwirtschaft,#15e815,#15e515,1,0.04363515764951
-'Kältebus',de,Stadt,#ffff00,#ffff99,1,0.04025637319882655
+'Kältebus',de,Stadt,#ffff00,#ffff99,1,0.0402563731988265
 'Ackerbau',de,Landwirtschaft,#18e818,#15e515,2,0.0313854767398403
 'Wärmebus',de,Stadt,#ffff00,#ffff99,1,0.0246550295880728
 'Folientunnel',de,Landwirtschaft,#18e818,#15e515,1,0.0049177214461007
