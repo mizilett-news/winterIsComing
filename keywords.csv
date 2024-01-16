@@ -1,9 +1,9 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schnee',de,Wetterereignisse,#e81818,#e51515,3,0.2545476948955331
-'Dürre',de,Wetterereignisse,#e81818,#e51515,3,0.1953028252445701
 'Landwirtschaft',de,Landwirtschaft,#18e818,#15e515,3,0.1848848829782126
-'Kälte',de,Wetterereignisse,#e81818,#e51515,3,0.18229158775860718
+'Kälte',de,Wetterereignisse,#e81818,#e51515,3,0.1822915877586071
 'Heizung',de,Energie,#1818e8,#1515e5,3,0.1811665597290177
+'Dürre',de,Wetterereignisse,#e81818,#e51515,3,0.18005062054879367
 'Gas',de,Energie,#1818e8,#1515e5,3,0.1492033265212161
 'Rohrbruch',de,Energie,#1818e8,#1515e5,1,0.1470978899162281
 'Wind',de,Wetterereignisse,#e81818,#e51515,3,0.1467436244669435
