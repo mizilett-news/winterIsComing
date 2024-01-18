@@ -13,7 +13,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Not',de,Stadt,#ffff00,#ffff99,3,0.1322468108634024
 'ÖPNV',de,Stadt,#ffff00,#ffff99,3,0.1309430371107136
 'Wohnungslose',de,Stadt,#ffff00,#ffff99,3,0.1246999029788879
-'Bewässerung',de,Landwirtschaft,#15e815,#15e515,3,0.11896946028108132
+'Bewässerung',de,Landwirtschaft,#15e815,#15e515,2,0.1011244912389191
 'Wärmebus',de,Stadt,#ffff00,#ffff99,1,0.0994686939211749
 'Tau',de,Wetterereignisse,#e81818,#e51515,2,0.0958845440480604
 'Ackerbau',de,Landwirtschaft,#18e818,#15e515,2,0.0674604246141906
