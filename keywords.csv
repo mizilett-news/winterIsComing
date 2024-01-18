@@ -5,10 +5,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizung',de,Energie,#1818e8,#1515e5,3,0.1811665597290177
 'Dürre',de,Wetterereignisse,#e81818,#e51515,3,0.1800506205487936
 'Wein',de,Landwirtschaft,#18e818,#15e515,3,0.149367938143151
-'Gas',de,Energie,#1818e8,#1515e5,3,0.1492033265212161
 'Rohrbruch',de,Energie,#1818e8,#1515e5,1,0.1470978899162281
 'Wind',de,Wetterereignisse,#e81818,#e51515,3,0.1467436244669435
 'Energiekosten',de,Energie,#1818e8,#1515e5,3,0.1456595171663732
+'Gas',de,Energie,#1818e8,#1515e5,3,0.14088388163394278
 'Notunterkunft',de,Stadt,#ffff00,#ffff99,3,0.135314913564683
 'Not',de,Stadt,#ffff00,#ffff99,3,0.1322468108634024
 'ÖPNV',de,Stadt,#ffff00,#ffff99,3,0.1309430371107136
