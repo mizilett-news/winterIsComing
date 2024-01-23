@@ -5,9 +5,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizung',de,Energie,#1818e8,#1515e5,3,0.1907675575878468
 'Dürre',de,Wetterereignisse,#e81818,#e51515,3,0.1800506205487936
 'Energiekosten',de,Energie,#1818e8,#1515e5,3,0.1651287559550535
+'Rohrbruch',de,Energie,#1818e8,#1515e5,1,0.1649334464287939
 'Wind',de,Wetterereignisse,#e81818,#e51515,3,0.1615246376150838
 'Wein',de,Landwirtschaft,#18e818,#15e515,3,0.149367938143151
-'Rohrbruch',de,Energie,#1818e8,#1515e5,1,0.1470978899162281
 'Gas',de,Energie,#1818e8,#1515e5,3,0.1408838816339427
 'Not',de,Stadt,#ffff00,#ffff99,3,0.1322468108634024
 'Wohnungslose',de,Stadt,#ffff00,#ffff99,3,0.1246999029788879
@@ -17,5 +17,5 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Tau',de,Wetterereignisse,#e81818,#e51515,2,0.0958845440480604
 'Kältebus',de,Stadt,#ffff00,#ffff99,1,0.093326034571741
 'Ackerbau',de,Landwirtschaft,#18e818,#15e515,2,0.0674604246141906
-'Wärmebus',de,Stadt,#ffff00,#ffff99,1,0.06262986600434148
+'Wärmebus',de,Stadt,#ffff00,#ffff99,1,0.0626298660043414
 'Folientunnel',de,Landwirtschaft,#18e818,#15e515,1,0.0026892094561065
