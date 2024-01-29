@@ -9,12 +9,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Rohrbruch',de,Energie,#1818e8,#1515e5,1,0.1649334464287939
 'Gas',de,Energie,#1818e8,#1515e5,3,0.1610853657524876
 'Wind',de,Wetterereignisse,#e81818,#e51515,3,0.1513609410637303
+'ÖPNV',de,Stadt,#ffff00,#ffff99,3,0.1349044589488541
 'Not',de,Stadt,#ffff00,#ffff99,3,0.1322468108634024
 'Notunterkunft',de,Stadt,#ffff00,#ffff99,3,0.1245149910754351
 'Wohnungslose',de,Stadt,#ffff00,#ffff99,3,0.123799989697701
-'ÖPNV',de,Stadt,#ffff00,#ffff99,3,0.120799496089561
 'Tau',de,Wetterereignisse,#e81818,#e51515,2,0.0960023124408513
-'Bewässerung',de,Landwirtschaft,#15e815,#15e515,2,0.08610632755308124
+'Bewässerung',de,Landwirtschaft,#15e815,#15e515,2,0.0861063275530812
 'Kältebus',de,Stadt,#ffff00,#ffff99,1,0.0615589004438703
 'Ackerbau',de,Landwirtschaft,#18e818,#15e515,2,0.0542286664241443
 'Wärmebus',de,Stadt,#ffff00,#ffff99,1,0.0460826614381365
