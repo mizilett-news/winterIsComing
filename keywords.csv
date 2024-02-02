@@ -1,10 +1,10 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Landwirtschaft',de,Landwirtschaft,#18e818,#15e515,3,0.19956970449170225
+'Landwirtschaft',de,Landwirtschaft,#18e818,#15e515,3,0.1995697044917022
 'Dürre',de,Wetterereignisse,#e81818,#e51515,3,0.1910660066646851
 'Kälte',de,Wetterereignisse,#e81818,#e51515,3,0.1866400766949196
-'Heizung',de,Energie,#1818e8,#1515e5,3,0.1732955433524999
 'Energiekosten',de,Energie,#1818e8,#1515e5,3,0.1651287559550535
 'Wein',de,Landwirtschaft,#18e818,#15e515,3,0.1616316526038811
+'Heizung',de,Energie,#1818e8,#1515e5,3,0.161349830940534
 'Gas',de,Energie,#1818e8,#1515e5,3,0.1610853657524876
 'Rohrbruch',de,Energie,#1818e8,#1515e5,1,0.1581937294644748
 'Schnee',de,Wetterereignisse,#e81818,#e51515,3,0.1573630429676054
