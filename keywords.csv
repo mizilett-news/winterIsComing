@@ -1,8 +1,8 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wind',de,Wetterereignisse,#e81818,#e51515,3,0.2168774746682633
+'Dürre',de,Wetterereignisse,#e81818,#e51515,3,0.2073844681023594
 'Landwirtschaft',de,Landwirtschaft,#18e818,#15e515,3,0.1973389415452195
-'Dürre',de,Wetterereignisse,#e81818,#e51515,3,0.1846798972327223
-'Wein',de,Landwirtschaft,#18e818,#15e515,3,0.18298607824763546
+'Wein',de,Landwirtschaft,#18e818,#15e515,3,0.1829860782476354
 'Gas',de,Energie,#1818e8,#1515e5,3,0.1610853657524876
 'Kälte',de,Wetterereignisse,#e81818,#e51515,3,0.158687018745722
 'Rohrbruch',de,Energie,#1818e8,#1515e5,1,0.1581937294644748
