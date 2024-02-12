@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Landwirtschaft',de,Landwirtschaft,#18e818,#15e515,3,0.2136208762225274
 'Dürre',de,Wetterereignisse,#e81818,#e51515,3,0.2039560506142782
-'Gas',de,Energie,#1818e8,#1515e5,3,0.16916555316234172
+'Gas',de,Energie,#1818e8,#1515e5,3,0.1691655531623417
 'Wind',de,Wetterereignisse,#e81818,#e51515,3,0.1591262136170107
 'Wein',de,Landwirtschaft,#18e818,#15e515,3,0.1588762245339165
 'Kälte',de,Wetterereignisse,#e81818,#e51515,3,0.158687018745722
@@ -12,7 +12,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Not',de,Stadt,#ffff00,#ffff99,3,0.1355654424157102
 'Heizung',de,Energie,#1818e8,#1515e5,3,0.1333086914422644
 'ÖPNV',de,Stadt,#ffff00,#ffff99,3,0.128715489197435
-'Wohnungslose',de,Stadt,#ffff00,#ffff99,3,0.123799989697701
+'Wohnungslose',de,Stadt,#ffff00,#ffff99,3,0.12836248442486403
 'Bewässerung',de,Landwirtschaft,#15e815,#15e515,2,0.1008682061473917
 'Tau',de,Wetterereignisse,#e81818,#e51515,2,0.097600045988515
 'Kältebus',de,Stadt,#ffff00,#ffff99,1,0.0513170577850917
