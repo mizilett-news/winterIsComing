@@ -16,6 +16,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wohnungslose',de,Stadt,#ffff00,#ffff99,3,0.1234087867611344
 'Bewässerung',de,Landwirtschaft,#15e815,#15e515,2,0.0872386202252829
 'Ackerbau',de,Landwirtschaft,#18e818,#15e515,1,0.0291750664325822
-'Kältebus',de,Stadt,#ffff00,#ffff99,1,0.0130139922887082
-'Wärmebus',de,Stadt,#ffff00,#ffff99,1,0.004324574202042315
+'Kältebus',de,Stadt,#ffff00,#ffff99,1,0.01121190844540197
+'Wärmebus',de,Stadt,#ffff00,#ffff99,1,0.0043245742020423
 'Folientunnel',de,Landwirtschaft,#18e818,#15e515,1,0.0008682187018536
