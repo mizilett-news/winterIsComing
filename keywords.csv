@@ -1,9 +1,9 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Wind',de,Wetterereignisse,#e81818,#e51515,3,0.1671369552995417
 'Not',de,Stadt,#ffff00,#ffff99,3,0.1589107886683907
-'Rohrbruch',de,Energie,#1818e8,#1515e5,2,0.15882976258128562
+'Rohrbruch',de,Energie,#1818e8,#1515e5,2,0.1588297625812856
 'Dürre',de,Wetterereignisse,#e81818,#e51515,3,0.1578349233204488
 'Gas',de,Energie,#1818e8,#1515e5,3,0.1564933803715693
+'Wind',de,Wetterereignisse,#e81818,#e51515,3,0.15612716609551955
 'Kälte',de,Wetterereignisse,#e81818,#e51515,3,0.1559688037335375
 'Wein',de,Landwirtschaft,#18e818,#15e515,3,0.1535689400691383
 'Notunterkunft',de,Stadt,#ffff00,#ffff99,3,0.1514555803441501
