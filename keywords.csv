@@ -15,7 +15,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schnee',de,Wetterereignisse,#e81818,#e51515,3,0.1332509467739455
 'Bewässerung',de,Landwirtschaft,#15e815,#15e515,2,0.105053702754258
 'Wohnungslose',de,Stadt,#ffff00,#ffff99,2,0.1048979487469642
-'Kältebus',de,Stadt,#ffff00,#ffff99,1,0.03707268849623258
-'Ackerbau',de,Landwirtschaft,#18e818,#15e515,1,0.0282390047252026
+'Ackerbau',de,Landwirtschaft,#18e818,#15e515,2,0.044275002587850776
+'Kältebus',de,Stadt,#ffff00,#ffff99,1,0.0370726884962325
 'Folientunnel',de,Landwirtschaft,#18e818,#15e515,1,0.0187427337283583
 'Wärmebus',de,Stadt,#ffff00,#ffff99,1,0.000615135033364
