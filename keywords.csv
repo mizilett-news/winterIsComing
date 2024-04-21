@@ -11,11 +11,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Landwirtschaft',de,Landwirtschaft,#18e818,#15e515,3,0.1253944797385591
 'Tau',de,Wetterereignisse,#e81818,#e51515,2,0.122111350335959
 'Notunterkunft',de,Stadt,#ffff00,#ffff99,2,0.1212171719383221
-'Rohrbruch',de,Energie,#1818e8,#1515e5,1,0.12056282122911754
+'Rohrbruch',de,Energie,#1818e8,#1515e5,1,0.1205628212291175
 'Wohnungslose',de,Stadt,#ffff00,#ffff99,2,0.1146110433789233
 'Not',de,Stadt,#ffff00,#ffff99,3,0.1145922073660305
 'Dürre',de,Wetterereignisse,#e81818,#e51515,3,0.110286742859585
 'Folientunnel',de,Landwirtschaft,#18e818,#15e515,2,0.105261689691606
 'Kältebus',de,Stadt,#ffff00,#ffff99,1,0.0584673333688876
 'Ackerbau',de,Landwirtschaft,#18e818,#15e515,2,0.0454401278426728
-'Wärmebus',de,Stadt,#ffff00,#ffff99,1,0.0002729386822083
+'Wärmebus',de,Stadt,#ffff00,#ffff99,1,0.000231997879877055
