@@ -12,10 +12,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wind',de,Wetterereignisse,#e81818,#e51515,3,0.1203653893340926
 'Wohnungslose',de,Stadt,#ffff00,#ffff99,2,0.1146110433789233
 'Not',de,Stadt,#ffff00,#ffff99,3,0.1145922073660305
-'Tau',de,Wetterereignisse,#e81818,#e51515,2,0.10901750554514972
+'Tau',de,Wetterereignisse,#e81818,#e51515,2,0.1090175055451497
 'Dürre',de,Wetterereignisse,#e81818,#e51515,3,0.1032419609761017
 'Notunterkunft',de,Stadt,#ffff00,#ffff99,1,0.1030350461475737
 'Kältebus',de,Stadt,#ffff00,#ffff99,1,0.0721759097921258
 'Folientunnel',de,Landwirtschaft,#18e818,#15e515,1,0.0685293754068574
-'Ackerbau',de,Landwirtschaft,#18e818,#15e515,2,0.0454401278426728
+'Ackerbau',de,Landwirtschaft,#18e818,#15e515,2,0.04027476866627188
 'Wärmebus',de,Stadt,#ffff00,#ffff99,1,0.0001971981978954
