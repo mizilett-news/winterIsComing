@@ -16,6 +16,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Notunterkunft',de,Stadt,#ffff00,#ffff99,1,0.1030350461475737
 'Tau',de,Wetterereignisse,#e81818,#e51515,2,0.0962652397133772
 'Kältebus',de,Stadt,#ffff00,#ffff99,1,0.0622496133233069
-'Folientunnel',de,Landwirtschaft,#18e818,#15e515,1,0.0473383778967361
+'Folientunnel',de,Landwirtschaft,#18e818,#15e515,1,0.04218781621222569
 'Ackerbau',de,Landwirtschaft,#18e818,#15e515,2,0.035734198366331
-'Wärmebus',de,Stadt,#ffff00,#ffff99,1,0.00012110434328240498
+'Wärmebus',de,Stadt,#ffff00,#ffff99,1,0.0001211043432824
