@@ -7,11 +7,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wein',de,Landwirtschaft,#18e818,#15e515,3,0.1368699503158601
 'Kälte',de,Wetterereignisse,#e81818,#e51515,3,0.1353085870142077
 'Energiekosten',de,Energie,#1818e8,#1515e5,3,0.1351222327454175
-'Landwirtschaft',de,Landwirtschaft,#18e818,#15e515,3,0.13143486301925333
+'Landwirtschaft',de,Landwirtschaft,#18e818,#15e515,3,0.1314348630192533
 'Wind',de,Wetterereignisse,#e81818,#e51515,3,0.1283714762674431
 'Bewässerung',de,Landwirtschaft,#15e815,#15e515,3,0.1256796663304482
 'Rohrbruch',de,Energie,#1818e8,#1515e5,1,0.1180877364213707
-'Not',de,Stadt,#ffff00,#ffff99,3,0.1145922073660305
+'Not',de,Stadt,#ffff00,#ffff99,3,0.11601484989748956
 'Wohnungslose',de,Stadt,#ffff00,#ffff99,3,0.1077130540149419
 'Notunterkunft',de,Stadt,#ffff00,#ffff99,2,0.0970757837708921
 'Tau',de,Wetterereignisse,#e81818,#e51515,2,0.0969869698674817
