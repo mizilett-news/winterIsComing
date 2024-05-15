@@ -6,11 +6,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bewässerung',de,Landwirtschaft,#15e815,#15e515,3,0.1395747552270348
 'ÖPNV',de,Stadt,#ffff00,#ffff99,3,0.1392677856173897
 'Energiekosten',de,Energie,#1818e8,#1515e5,3,0.137990531015423
-'Wohnungslose',de,Stadt,#ffff00,#ffff99,3,0.1374158468217915
 'Wind',de,Wetterereignisse,#e81818,#e51515,3,0.1367164631259548
 'Dürre',de,Wetterereignisse,#e81818,#e51515,3,0.1327884821191509
 'Landwirtschaft',de,Landwirtschaft,#18e818,#15e515,3,0.1257709826572744
 'Kälte',de,Wetterereignisse,#e81818,#e51515,3,0.1198816810723104
+'Wohnungslose',de,Stadt,#ffff00,#ffff99,3,0.11830411479852276
 'Rohrbruch',de,Energie,#1818e8,#1515e5,1,0.1180877364213707
 'Not',de,Stadt,#ffff00,#ffff99,3,0.1160148498974895
 'Notunterkunft',de,Stadt,#ffff00,#ffff99,2,0.0970757837708921
