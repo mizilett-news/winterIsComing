@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Not',de,Stadt,#ffff00,#ffff99,3,0.1848422103691179
-'Wein',de,Landwirtschaft,#18e818,#15e515,3,0.18185674982565178
+'Wein',de,Landwirtschaft,#18e818,#15e515,3,0.1818567498256517
 'Gas',de,Energie,#1818e8,#1515e5,3,0.1537653969697555
 'Heizung',de,Energie,#1818e8,#1515e5,3,0.1435326585202413
 'Energiekosten',de,Energie,#1818e8,#1515e5,3,0.137990531015423
@@ -18,4 +18,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ackerbau',de,Landwirtschaft,#18e818,#15e515,2,0.0305064651955556
 'Folientunnel',de,Landwirtschaft,#18e818,#15e515,1,0.0262303348637004
 'Kältebus',de,Stadt,#ffff00,#ffff99,1,0.0216809863614454
-'Wärmebus',de,Stadt,#ffff00,#ffff99,1,8.74978880215e-05
+'Wärmebus',de,Stadt,#ffff00,#ffff99,1,7.4373204818275e-05
