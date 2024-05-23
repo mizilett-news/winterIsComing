@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Not',de,Stadt,#ffff00,#ffff99,3,0.212855987775889
 'Dürre',de,Wetterereignisse,#e81818,#e51515,3,0.180458798989378
-'Gas',de,Energie,#1818e8,#1515e5,3,0.1538520106061103
+'Gas',de,Energie,#1818e8,#1515e5,3,0.15392554219701193
 'Heizung',de,Energie,#1818e8,#1515e5,3,0.1490027689172379
 'Wein',de,Landwirtschaft,#18e818,#15e515,3,0.1451068260444878
 'Energiekosten',de,Energie,#1818e8,#1515e5,3,0.137990531015423
