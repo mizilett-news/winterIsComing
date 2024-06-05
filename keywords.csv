@@ -10,7 +10,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schnee',de,Wetterereignisse,#e81818,#e51515,3,0.1244321590544444
 'Heizung',de,Energie,#1818e8,#1515e5,3,0.1212503483737986
 'Energiekosten',de,Energie,#1818e8,#1515e5,3,0.1211335796813703
-'Bewässerung',de,Landwirtschaft,#15e815,#15e515,2,0.1148854479924416
+'Bewässerung',de,Landwirtschaft,#15e815,#15e515,3,0.10714936033902991
 'Not',de,Stadt,#ffff00,#ffff99,3,0.104625285441789
 'Wohnungslose',de,Stadt,#ffff00,#ffff99,2,0.0980569288455285
 'Tau',de,Wetterereignisse,#e81818,#e51515,2,0.0969869698674817
