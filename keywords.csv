@@ -2,7 +2,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wein',de,Landwirtschaft,#18e818,#15e515,3,0.1935356907083966
 'Dürre',de,Wetterereignisse,#e81818,#e51515,3,0.1513473943271439
 'Gas',de,Energie,#1818e8,#1515e5,3,0.1354556862584193
-'Heizung',de,Energie,#1818e8,#1515e5,3,0.1307439238450015
+'Heizung',de,Energie,#1818e8,#1515e5,3,0.13426794845006945
 'ÖPNV',de,Stadt,#ffff00,#ffff99,3,0.1280439889650066
 'Wind',de,Wetterereignisse,#e81818,#e51515,3,0.1278979972863185
 'Landwirtschaft',de,Landwirtschaft,#18e818,#15e515,3,0.1250856813233158
@@ -12,7 +12,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiekosten',de,Energie,#1818e8,#1515e5,3,0.1211335796813703
 'Bewässerung',de,Landwirtschaft,#15e815,#15e515,3,0.1071493603390299
 'Tau',de,Wetterereignisse,#e81818,#e51515,2,0.0969869698674817
-'Rohrbruch',de,Energie,#1818e8,#1515e5,1,0.09401880969593307
+'Rohrbruch',de,Energie,#1818e8,#1515e5,1,0.094018809695933
 'Notunterkunft',de,Stadt,#ffff00,#ffff99,2,0.0906968834804384
 'Wohnungslose',de,Stadt,#ffff00,#ffff99,2,0.0875456224318033
 'Ackerbau',de,Landwirtschaft,#18e818,#15e515,2,0.0369405466611616
