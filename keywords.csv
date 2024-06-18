@@ -4,15 +4,15 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'ÖPNV',de,Stadt,#ffff00,#ffff99,3,0.1568875465094982
 'Kälte',de,Wetterereignisse,#e81818,#e51515,3,0.1316169647716321
 'Schnee',de,Wetterereignisse,#e81818,#e51515,3,0.1270492147406742
-'Wind',de,Wetterereignisse,#e81818,#e51515,3,0.1249687328948239
 'Dürre',de,Wetterereignisse,#e81818,#e51515,3,0.1223731957649977
 'Not',de,Stadt,#ffff00,#ffff99,3,0.1211777698982479
 'Energiekosten',de,Energie,#1818e8,#1515e5,3,0.1211335796813703
 'Gas',de,Energie,#1818e8,#1515e5,3,0.1201048083196564
 'Heizung',de,Energie,#1818e8,#1515e5,3,0.1190816711825589
 'Wohnungslose',de,Stadt,#ffff00,#ffff99,2,0.1183215219241756
+'Wind',de,Wetterereignisse,#e81818,#e51515,3,0.11573941250605485
 'Notunterkunft',de,Stadt,#ffff00,#ffff99,3,0.1093182732310999
-'Tau',de,Wetterereignisse,#e81818,#e51515,2,0.10828375327235894
+'Tau',de,Wetterereignisse,#e81818,#e51515,2,0.1082837532723589
 'Bewässerung',de,Landwirtschaft,#15e815,#15e515,3,0.0945282912881754
 'Rohrbruch',de,Energie,#1818e8,#1515e5,1,0.080516048241543
 'Ackerbau',de,Landwirtschaft,#18e818,#15e515,2,0.0315681801623761
