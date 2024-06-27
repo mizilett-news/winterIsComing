@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Wein',de,Landwirtschaft,#18e818,#15e515,3,0.16417076309161094
+'Wein',de,Landwirtschaft,#18e818,#15e515,3,0.1641707630916109
 'Landwirtschaft',de,Landwirtschaft,#18e818,#15e515,3,0.1426549733680739
 'Schnee',de,Wetterereignisse,#e81818,#e51515,3,0.1356739052568458
 'ÖPNV',de,Stadt,#ffff00,#ffff99,3,0.1328107901806918
@@ -13,7 +13,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wind',de,Wetterereignisse,#e81818,#e51515,3,0.1078945951756011
 'Notunterkunft',de,Stadt,#ffff00,#ffff99,3,0.106964681337344
 'Bewässerung',de,Landwirtschaft,#15e815,#15e515,3,0.1040472640466158
-'Tau',de,Wetterereignisse,#e81818,#e51515,1,0.092041670281505
+'Tau',de,Wetterereignisse,#e81818,#e51515,2,0.08318594473927925
 'Rohrbruch',de,Energie,#1818e8,#1515e5,1,0.080516048241543
 'Ackerbau',de,Landwirtschaft,#18e818,#15e515,2,0.0334916836299356
 'Folientunnel',de,Landwirtschaft,#18e818,#15e515,1,0.004487051947249
