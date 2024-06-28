@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Wein',de,Landwirtschaft,#18e818,#15e515,3,0.14450141862786928
+'Wein',de,Landwirtschaft,#18e818,#15e515,3,0.1445014186278692
 'Landwirtschaft',de,Landwirtschaft,#18e818,#15e515,3,0.1426549733680739
 'Schnee',de,Wetterereignisse,#e81818,#e51515,3,0.1356739052568458
 'ÖPNV',de,Stadt,#ffff00,#ffff99,3,0.1328107901806918
@@ -17,5 +17,5 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Rohrbruch',de,Energie,#1818e8,#1515e5,1,0.080516048241543
 'Ackerbau',de,Landwirtschaft,#18e818,#15e515,2,0.0334916836299356
 'Folientunnel',de,Landwirtschaft,#18e818,#15e515,1,0.004487051947249
-'Kältebus',de,Stadt,#ffff00,#ffff99,1,0.0022676238382831
+'Kältebus',de,Stadt,#ffff00,#ffff99,1,0.001927480262540635
 'Wärmebus',de,Stadt,#ffff00,#ffff99,1,0.0006951708753237
