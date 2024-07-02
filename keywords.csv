@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'ÖPNV',de,Stadt,#ffff00,#ffff99,3,0.14476955641596423
+'ÖPNV',de,Stadt,#ffff00,#ffff99,3,0.1447695564159642
+'Schnee',de,Wetterereignisse,#e81818,#e51515,3,0.14300417219559167
 'Landwirtschaft',de,Landwirtschaft,#18e818,#15e515,3,0.1411706811717687
-'Schnee',de,Wetterereignisse,#e81818,#e51515,3,0.1356739052568458
 'Gas',de,Energie,#1818e8,#1515e5,3,0.1335829337094444
 'Kälte',de,Wetterereignisse,#e81818,#e51515,3,0.1304631386922509
 'Not',de,Stadt,#ffff00,#ffff99,3,0.1285686663196659
