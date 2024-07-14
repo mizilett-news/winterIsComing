@@ -12,10 +12,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wind',de,Wetterereignisse,#e81818,#e51515,3,0.10577475999017
 'ÖPNV',de,Stadt,#ffff00,#ffff99,3,0.1024156914400784
 'Energiekosten',de,Energie,#1818e8,#1515e5,3,0.101428523017276
-'Landwirtschaft',de,Landwirtschaft,#18e818,#15e515,3,0.09930764355033012
+'Landwirtschaft',de,Landwirtschaft,#18e818,#15e515,3,0.0993076435503301
 'Rohrbruch',de,Energie,#1818e8,#1515e5,1,0.080516048241543
 'Tau',de,Wetterereignisse,#e81818,#e51515,1,0.0681738971877655
 'Ackerbau',de,Landwirtschaft,#18e818,#15e515,2,0.0667788399552371
-'Folientunnel',de,Landwirtschaft,#18e818,#15e515,1,0.0023422691605385
+'Folientunnel',de,Landwirtschaft,#18e818,#15e515,1,0.0022909587864577254
 'Wärmebus',de,Stadt,#ffff00,#ffff99,1,0.0008128354013081
 'Kältebus',de,Stadt,#ffff00,#ffff99,1,0.0006179060102847
