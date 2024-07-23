@@ -2,11 +2,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Rohrbruch',de,Energie,#1818e8,#1515e5,2,0.1599387910053115
 'Wein',de,Landwirtschaft,#18e818,#15e515,3,0.153691765291559
 'Wind',de,Wetterereignisse,#e81818,#e51515,3,0.142569090725903
-'Kälte',de,Wetterereignisse,#e81818,#e51515,3,0.1357942831074038
 'Energiekosten',de,Energie,#1818e8,#1515e5,3,0.1327293450446504
 'Dürre',de,Wetterereignisse,#e81818,#e51515,3,0.1291104779661772
 'ÖPNV',de,Stadt,#ffff00,#ffff99,3,0.1277050993609111
 'Gas',de,Energie,#1818e8,#1515e5,3,0.1232026921050735
+'Kälte',de,Wetterereignisse,#e81818,#e51515,3,0.12037845564129322
 'Heizung',de,Energie,#1818e8,#1515e5,3,0.1198098191415387
 'Not',de,Stadt,#ffff00,#ffff99,3,0.1152203303278509
 'Schnee',de,Wetterereignisse,#e81818,#e51515,3,0.1087849652129704
