@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Gas',de,Energie,#1818e8,#1515e5,3,0.1496400014083394
 'Dürre',de,Wetterereignisse,#e81818,#e51515,3,0.1472740619354444
+'Gas',de,Energie,#1818e8,#1515e5,3,0.13216105619708848
 'Rohrbruch',de,Energie,#1818e8,#1515e5,1,0.1264253494886368
 'Kälte',de,Wetterereignisse,#e81818,#e51515,3,0.1203784556412932
 'Not',de,Stadt,#ffff00,#ffff99,3,0.1169889169573267
