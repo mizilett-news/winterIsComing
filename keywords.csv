@@ -1,9 +1,9 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Dürre',de,Wetterereignisse,#e81818,#e51515,3,0.1232939237256312
 'Kälte',de,Wetterereignisse,#e81818,#e51515,3,0.1203784556412932
-'Gas',de,Energie,#1818e8,#1515e5,3,0.11730299276752514
+'Gas',de,Energie,#1818e8,#1515e5,3,0.1173029927675251
 'Not',de,Stadt,#ffff00,#ffff99,3,0.1169889169573267
 'Wein',de,Landwirtschaft,#18e818,#15e515,3,0.1157050576463505
+'Dürre',de,Wetterereignisse,#e81818,#e51515,3,0.11429726971224105
 'Landwirtschaft',de,Landwirtschaft,#18e818,#15e515,3,0.1139340263396646
 'ÖPNV',de,Stadt,#ffff00,#ffff99,3,0.1138961351383559
 'Bewässerung',de,Landwirtschaft,#15e815,#15e515,3,0.1138251826433959
