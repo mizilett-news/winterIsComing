@@ -1,11 +1,11 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Not',de,Stadt,#ffff00,#ffff99,3,0.1569012709334867
-'Wein',de,Landwirtschaft,#18e818,#15e515,3,0.14355303354061982
+'Wein',de,Landwirtschaft,#18e818,#15e515,3,0.1435530335406198
 'Gas',de,Energie,#1818e8,#1515e5,3,0.1375513942913641
+'Landwirtschaft',de,Landwirtschaft,#18e818,#15e515,3,0.12453144011598763
 'ÖPNV',de,Stadt,#ffff00,#ffff99,3,0.1237253336601893
 'Energiekosten',de,Energie,#1818e8,#1515e5,3,0.1215267058107731
 'Heizung',de,Energie,#1818e8,#1515e5,3,0.1192167282711517
-'Landwirtschaft',de,Landwirtschaft,#18e818,#15e515,3,0.1139340263396646
 'Bewässerung',de,Landwirtschaft,#15e815,#15e515,3,0.1138251826433959
 'Wind',de,Wetterereignisse,#e81818,#e51515,3,0.1137417709546557
 'Notunterkunft',de,Stadt,#ffff00,#ffff99,2,0.1096563066953064
