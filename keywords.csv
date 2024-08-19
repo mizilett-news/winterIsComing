@@ -7,11 +7,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizung',de,Energie,#1818e8,#1515e5,3,0.1192167282711517
 'Dürre',de,Wetterereignisse,#e81818,#e51515,3,0.1190144618898213
 'Landwirtschaft',de,Landwirtschaft,#18e818,#15e515,3,0.115357558644044
-'Bewässerung',de,Landwirtschaft,#15e815,#15e515,3,0.1138251826433959
 'Wind',de,Wetterereignisse,#e81818,#e51515,3,0.1137417709546557
-'Schnee',de,Wetterereignisse,#e81818,#e51515,3,0.10980801041182559
+'Schnee',de,Wetterereignisse,#e81818,#e51515,3,0.1098080104118255
 'Notunterkunft',de,Stadt,#ffff00,#ffff99,2,0.1096563066953064
 'Kälte',de,Wetterereignisse,#e81818,#e51515,3,0.0971247249866936
+'Bewässerung',de,Landwirtschaft,#15e815,#15e515,2,0.0967523352468865
 'Rohrbruch',de,Energie,#1818e8,#1515e5,1,0.09377255800554
 'Wohnungslose',de,Stadt,#ffff00,#ffff99,2,0.0926143423234932
 'Tau',de,Wetterereignisse,#e81818,#e51515,1,0.0705401223647122
