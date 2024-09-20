@@ -1,8 +1,8 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schnee',de,Wetterereignisse,#e81818,#e51515,3,0.2158531471312847
 'Wein',de,Landwirtschaft,#18e818,#15e515,3,0.1542044358946838
-'Wohnungslose',de,Stadt,#ffff00,#ffff99,2,0.1414146565787238
 'Gas',de,Energie,#1818e8,#1515e5,3,0.1375198093277622
+'Wohnungslose',de,Stadt,#ffff00,#ffff99,1,0.12020290809191522
 'Wind',de,Wetterereignisse,#e81818,#e51515,3,0.1191374448802844
 'Kälte',de,Wetterereignisse,#e81818,#e51515,3,0.1186433403582625
 'Dürre',de,Wetterereignisse,#e81818,#e51515,3,0.1126507879653958
