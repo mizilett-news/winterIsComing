@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Dürre',de,Wetterereignisse,#e81818,#e51515,3,0.1581042565015997
+'Dürre',de,Wetterereignisse,#e81818,#e51515,3,0.16206857575363245
 'Landwirtschaft',de,Landwirtschaft,#18e818,#15e515,3,0.1474721154466949
 'ÖPNV',de,Stadt,#ffff00,#ffff99,3,0.1458574277591627
 'Wein',de,Landwirtschaft,#18e818,#15e515,3,0.1380627158622095
@@ -12,7 +12,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiekosten',de,Energie,#1818e8,#1515e5,3,0.1072321865330461
 'Bewässerung',de,Landwirtschaft,#15e815,#15e515,2,0.1044209590346972
 'Wohnungslose',de,Stadt,#ffff00,#ffff99,2,0.0992085558917574
-'Heizung',de,Energie,#1818e8,#1515e5,3,0.09782301783777438
+'Heizung',de,Energie,#1818e8,#1515e5,3,0.0978230178377743
 'Tau',de,Wetterereignisse,#e81818,#e51515,2,0.0830916421918235
 'Rohrbruch',de,Energie,#1818e8,#1515e5,1,0.0753433091773793
 'Ackerbau',de,Landwirtschaft,#18e818,#15e515,2,0.0373422675169127
