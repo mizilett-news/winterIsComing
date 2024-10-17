@@ -14,7 +14,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bewässerung',de,Landwirtschaft,#15e815,#15e515,2,0.1044209590346972
 'Heizung',de,Energie,#1818e8,#1515e5,3,0.0978230178377743
 'Tau',de,Wetterereignisse,#e81818,#e51515,2,0.0830916421918235
-'Rohrbruch',de,Energie,#1818e8,#1515e5,1,0.0649419028007724
+'Rohrbruch',de,Energie,#1818e8,#1515e5,1,0.05610070738065654
 'Ackerbau',de,Landwirtschaft,#18e818,#15e515,1,0.0317411673893757
 'Folientunnel',de,Landwirtschaft,#18e818,#15e515,1,0.0023652282835433
 'Wärmebus',de,Stadt,#ffff00,#ffff99,1,0.0006280955706226
