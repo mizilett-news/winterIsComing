@@ -1,8 +1,8 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Wein',de,Landwirtschaft,#18e818,#15e515,3,0.148967391280346
 'ÖPNV',de,Stadt,#ffff00,#ffff99,3,0.1471144267771064
 'Dürre',de,Wetterereignisse,#e81818,#e51515,3,0.1374984154869722
-'Kälte',de,Wetterereignisse,#e81818,#e51515,3,0.13192995808181202
+'Wein',de,Landwirtschaft,#18e818,#15e515,3,0.13612408213374866
+'Kälte',de,Wetterereignisse,#e81818,#e51515,3,0.131929958081812
 'Landwirtschaft',de,Landwirtschaft,#18e818,#15e515,3,0.1303115131296906
 'Not',de,Stadt,#ffff00,#ffff99,3,0.1233875502720769
 'Schnee',de,Wetterereignisse,#e81818,#e51515,3,0.1225387972497378
