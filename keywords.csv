@@ -1,9 +1,9 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Not',de,Stadt,#ffff00,#ffff99,3,0.1507581586403562
-'ÖPNV',de,Stadt,#ffff00,#ffff99,3,0.1338050982853994
 'Kälte',de,Wetterereignisse,#e81818,#e51515,3,0.131929958081812
 'Landwirtschaft',de,Landwirtschaft,#18e818,#15e515,3,0.1303115131296906
 'Dürre',de,Wetterereignisse,#e81818,#e51515,3,0.124641267325701
+'ÖPNV',de,Stadt,#ffff00,#ffff99,3,0.12323257808804404
 'Schnee',de,Wetterereignisse,#e81818,#e51515,3,0.1225387972497378
 'Gas',de,Energie,#1818e8,#1515e5,3,0.1197965278119077
 'Notunterkunft',de,Stadt,#ffff00,#ffff99,3,0.1169727128359492
@@ -17,5 +17,5 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Rohrbruch',de,Energie,#1818e8,#1515e5,1,0.0561007073806565
 'Ackerbau',de,Landwirtschaft,#18e818,#15e515,1,0.0273959396888239
 'Folientunnel',de,Landwirtschaft,#18e818,#15e515,1,0.0036248716935612
-'Kältebus',de,Stadt,#ffff00,#ffff99,1,0.0008343746243424949
+'Kältebus',de,Stadt,#ffff00,#ffff99,1,0.0008343746243424
 'Wärmebus',de,Stadt,#ffff00,#ffff99,1,0.0007716427798085
