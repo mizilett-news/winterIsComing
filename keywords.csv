@@ -1,8 +1,8 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Not',de,Stadt,#ffff00,#ffff99,3,0.1611449963632873
+'Not',de,Stadt,#ffff00,#ffff99,3,0.1601234850906124
 'Kälte',de,Wetterereignisse,#e81818,#e51515,3,0.131929958081812
 'Dürre',de,Wetterereignisse,#e81818,#e51515,3,0.124641267325701
-'Energiekosten',de,Energie,#1818e8,#1515e5,3,0.12337374582581645
+'Energiekosten',de,Energie,#1818e8,#1515e5,3,0.1233737458258164
 'Schnee',de,Wetterereignisse,#e81818,#e51515,3,0.1225387972497378
 'Notunterkunft',de,Stadt,#ffff00,#ffff99,3,0.1219903890239732
 'Landwirtschaft',de,Landwirtschaft,#18e818,#15e515,3,0.1208264112362014
