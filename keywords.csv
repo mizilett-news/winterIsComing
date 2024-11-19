@@ -1,12 +1,12 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wein',de,Landwirtschaft,#18e818,#15e515,3,0.1751353506942811
-'Wind',de,Wetterereignisse,#e81818,#e51515,3,0.16525040862543597
+'Wind',de,Wetterereignisse,#e81818,#e51515,3,0.1652504086254359
 'ÖPNV',de,Stadt,#ffff00,#ffff99,3,0.1554311836184696
+'Kälte',de,Wetterereignisse,#e81818,#e51515,3,0.14993964591865452
 'Heizung',de,Energie,#1818e8,#1515e5,3,0.1240136675103049
 'Energiekosten',de,Energie,#1818e8,#1515e5,3,0.1233506551638512
 'Not',de,Stadt,#ffff00,#ffff99,3,0.120848670931299
 'Gas',de,Energie,#1818e8,#1515e5,3,0.1197965278119077
-'Kälte',de,Wetterereignisse,#e81818,#e51515,3,0.1170945593695401
 'Bewässerung',de,Landwirtschaft,#15e815,#15e515,2,0.1155345088343868
 'Dürre',de,Wetterereignisse,#e81818,#e51515,3,0.1114873941655462
 'Notunterkunft',de,Stadt,#ffff00,#ffff99,3,0.1080139343077579
