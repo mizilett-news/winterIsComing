@@ -7,12 +7,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizung',de,Energie,#1818e8,#1515e5,3,0.1240136675103049
 'Energiekosten',de,Energie,#1818e8,#1515e5,3,0.1233506551638512
 'Not',de,Stadt,#ffff00,#ffff99,3,0.120848670931299
+'Wohnungslose',de,Stadt,#ffff00,#ffff99,2,0.11743735141511158
 'Bewässerung',de,Landwirtschaft,#15e815,#15e515,2,0.1155345088343868
 'Dürre',de,Wetterereignisse,#e81818,#e51515,3,0.1114873941655462
 'Notunterkunft',de,Stadt,#ffff00,#ffff99,3,0.1080139343077579
 'Schnee',de,Wetterereignisse,#e81818,#e51515,3,0.1044246582064497
 'Landwirtschaft',de,Landwirtschaft,#18e818,#15e515,3,0.097849743874706
-'Wohnungslose',de,Stadt,#ffff00,#ffff99,2,0.0949041112905056
 'Tau',de,Wetterereignisse,#e81818,#e51515,2,0.0807833798245015
 'Kältebus',de,Stadt,#ffff00,#ffff99,1,0.0574472576381039
 'Rohrbruch',de,Energie,#1818e8,#1515e5,1,0.0414928570825243
