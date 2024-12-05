@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'ÖPNV',de,Stadt,#ffff00,#ffff99,3,0.2052070560260561
-'Gas',de,Energie,#1818e8,#1515e5,3,0.20385101699240096
+'ÖPNV',de,Stadt,#ffff00,#ffff99,3,0.2202882535312386
+'Gas',de,Energie,#1818e8,#1515e5,3,0.2038510169924009
 'Wind',de,Wetterereignisse,#e81818,#e51515,3,0.1670112363562697
 'Wein',de,Landwirtschaft,#18e818,#15e515,3,0.1602816671081357
 'Energiekosten',de,Energie,#1818e8,#1515e5,3,0.1557892625606476
