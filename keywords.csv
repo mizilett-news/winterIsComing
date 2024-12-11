@@ -7,13 +7,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiekosten',de,Energie,#1818e8,#1515e5,3,0.141921097722005
 'Heizung',de,Energie,#1818e8,#1515e5,3,0.1414943135034679
 'Schnee',de,Wetterereignisse,#e81818,#e51515,3,0.1391800099300277
-'Notunterkunft',de,Stadt,#ffff00,#ffff99,3,0.13606740835553688
+'Notunterkunft',de,Stadt,#ffff00,#ffff99,3,0.1360674083555368
 'Not',de,Stadt,#ffff00,#ffff99,3,0.1349643325643314
 'Dürre',de,Wetterereignisse,#e81818,#e51515,3,0.129710500034607
 'Wohnungslose',de,Stadt,#ffff00,#ffff99,2,0.1184088173392084
 'Bewässerung',de,Landwirtschaft,#15e815,#15e515,2,0.1155345088343868
 'Landwirtschaft',de,Landwirtschaft,#18e818,#15e515,3,0.097849743874706
-'Tau',de,Wetterereignisse,#e81818,#e51515,2,0.0827074569417353
+'Tau',de,Wetterereignisse,#e81818,#e51515,1,0.070301578400475
 'Rohrbruch',de,Energie,#1818e8,#1515e5,1,0.0499855542064094
 'Kältebus',de,Stadt,#ffff00,#ffff99,1,0.0256926180951057
 'Ackerbau',de,Landwirtschaft,#18e818,#15e515,1,0.0151217435931181
