@@ -1,15 +1,15 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schnee',de,Wetterereignisse,#e81818,#e51515,3,0.1959985961677962
 'Wein',de,Landwirtschaft,#18e818,#15e515,3,0.1830456193264201
-'Gas',de,Energie,#1818e8,#1515e5,3,0.17466530952926468
+'Gas',de,Energie,#1818e8,#1515e5,3,0.1746653095292646
 'Kälte',de,Wetterereignisse,#e81818,#e51515,3,0.1582598518648292
 'Energiekosten',de,Energie,#1818e8,#1515e5,3,0.1562498171496031
 'Heizung',de,Energie,#1818e8,#1515e5,3,0.1552619078698919
 'ÖPNV',de,Stadt,#ffff00,#ffff99,3,0.1518194622471151
+'Dürre',de,Wetterereignisse,#e81818,#e51515,3,0.15156952639305232
 'Wind',de,Wetterereignisse,#e81818,#e51515,3,0.1490684829182031
 'Landwirtschaft',de,Landwirtschaft,#18e818,#15e515,3,0.142371167449475
 'Not',de,Stadt,#ffff00,#ffff99,3,0.1349643325643314
-'Dürre',de,Wetterereignisse,#e81818,#e51515,3,0.129710500034607
 'Notunterkunft',de,Stadt,#ffff00,#ffff99,3,0.1254081671022062
 'Wohnungslose',de,Stadt,#ffff00,#ffff99,2,0.1184088173392084
 'Bewässerung',de,Landwirtschaft,#15e815,#15e515,2,0.1155345088343868
