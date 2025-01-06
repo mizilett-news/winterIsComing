@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schnee',de,Wetterereignisse,#e81818,#e51515,3,0.195746505599082
-'Gas',de,Energie,#1818e8,#1515e5,3,0.19081333091986685
-'Heizung',de,Energie,#1818e8,#1515e5,3,0.1825408464013757
+'Gas',de,Energie,#1818e8,#1515e5,3,0.1908133309198668
+'Heizung',de,Energie,#1818e8,#1515e5,3,0.18284218216844206
 'Wind',de,Wetterereignisse,#e81818,#e51515,3,0.1647749869293315
 'Kälte',de,Wetterereignisse,#e81818,#e51515,3,0.1501038818132481
 'Energiekosten',de,Energie,#1818e8,#1515e5,3,0.1492540981480521
