@@ -4,11 +4,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas',de,Energie,#1818e8,#1515e5,3,0.1908133309198668
 'Kälte',de,Wetterereignisse,#e81818,#e51515,3,0.1734548754503518
 'Heizung',de,Energie,#1818e8,#1515e5,3,0.1649168443886302
-'Energiekosten',de,Energie,#1818e8,#1515e5,3,0.1492540981480521
+'Energiekosten',de,Energie,#1818e8,#1515e5,3,0.15454867115311702
 'Landwirtschaft',de,Landwirtschaft,#18e818,#15e515,3,0.1483576739957868
 'Rohrbruch',de,Energie,#1818e8,#1515e5,2,0.1398281683906474
 'Not',de,Stadt,#ffff00,#ffff99,3,0.1378718708614998
-'Wein',de,Landwirtschaft,#18e818,#15e515,3,0.13785933794682936
+'Wein',de,Landwirtschaft,#18e818,#15e515,3,0.1378593379468293
 'ÖPNV',de,Stadt,#ffff00,#ffff99,3,0.1289967784242891
 'Dürre',de,Wetterereignisse,#e81818,#e51515,3,0.1287340911511947
 'Wohnungslose',de,Stadt,#ffff00,#ffff99,2,0.1200149264049938
