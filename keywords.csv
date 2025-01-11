@@ -2,8 +2,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Not',de,Stadt,#ffff00,#ffff99,3,0.1994325825050021
 'Schnee',de,Wetterereignisse,#e81818,#e51515,3,0.195746505599082
 'Wind',de,Wetterereignisse,#e81818,#e51515,3,0.1869157558291623
-'Kälte',de,Wetterereignisse,#e81818,#e51515,3,0.1734548754503518
 'Heizung',de,Energie,#1818e8,#1515e5,3,0.1724079250030629
+'Kälte',de,Wetterereignisse,#e81818,#e51515,3,0.16148500822370812
 'Gas',de,Energie,#1818e8,#1515e5,3,0.1607013489759673
 'Landwirtschaft',de,Landwirtschaft,#18e818,#15e515,3,0.1483576739957868
 'Rohrbruch',de,Energie,#1818e8,#1515e5,2,0.1398281683906474
