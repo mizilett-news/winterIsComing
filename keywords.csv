@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schnee',de,Wetterereignisse,#e81818,#e51515,3,0.2613791732720997
 'Kälte',de,Wetterereignisse,#e81818,#e51515,3,0.1953654616462182
-'Not',de,Stadt,#ffff00,#ffff99,3,0.175045899905964
+'Not',de,Stadt,#ffff00,#ffff99,3,0.17648511264734212
 'Landwirtschaft',de,Landwirtschaft,#18e818,#15e515,3,0.1668315673521642
 'Wind',de,Wetterereignisse,#e81818,#e51515,3,0.1635733371547515
 'Gas',de,Energie,#1818e8,#1515e5,3,0.1587399290648659
