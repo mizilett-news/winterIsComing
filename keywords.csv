@@ -12,10 +12,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Dürre',de,Wetterereignisse,#e81818,#e51515,3,0.1287340911511947
 'Rohrbruch',de,Energie,#1818e8,#1515e5,2,0.121626081015179
 'Notunterkunft',de,Stadt,#ffff00,#ffff99,3,0.1212696693591423
-'Wohnungslose',de,Stadt,#ffff00,#ffff99,2,0.11481899071795633
+'Wohnungslose',de,Stadt,#ffff00,#ffff99,2,0.1148189907179563
 'Bewässerung',de,Landwirtschaft,#15e815,#15e515,2,0.0993092661101171
 'Tau',de,Wetterereignisse,#e81818,#e51515,1,0.0799536554639331
 'Kältebus',de,Stadt,#ffff00,#ffff99,1,0.0587689361573276
-'Ackerbau',de,Landwirtschaft,#18e818,#15e515,1,0.0328466041260483
+'Ackerbau',de,Landwirtschaft,#18e818,#15e515,2,0.031669988507141054
 'Wärmebus',de,Stadt,#ffff00,#ffff99,1,0.0026091526849751
 'Folientunnel',de,Landwirtschaft,#18e818,#15e515,1,0.0003875826937384
