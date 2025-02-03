@@ -3,7 +3,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wind',de,Wetterereignisse,#e81818,#e51515,3,0.1796688051170352
 'Kälte',de,Wetterereignisse,#e81818,#e51515,3,0.1771848015790861
 'Gas',de,Energie,#1818e8,#1515e5,3,0.1750401308857292
-'Landwirtschaft',de,Landwirtschaft,#18e818,#15e515,3,0.1668315673521642
+'Landwirtschaft',de,Landwirtschaft,#18e818,#15e515,3,0.1694964649766123
 'Heizung',de,Energie,#1818e8,#1515e5,3,0.1595161724163695
 'Not',de,Stadt,#ffff00,#ffff99,3,0.1549823257502408
 'Schnee',de,Wetterereignisse,#e81818,#e51515,3,0.1539314980154024
@@ -17,5 +17,5 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Tau',de,Wetterereignisse,#e81818,#e51515,1,0.0799536554639331
 'Kältebus',de,Stadt,#ffff00,#ffff99,2,0.0489712073736691
 'Ackerbau',de,Landwirtschaft,#18e818,#15e515,2,0.031669988507141
-'Wärmebus',de,Stadt,#ffff00,#ffff99,1,0.0019882594801602397
+'Wärmebus',de,Stadt,#ffff00,#ffff99,1,0.0019882594801602
 'Folientunnel',de,Landwirtschaft,#18e818,#15e515,1,0.0003294452896776
