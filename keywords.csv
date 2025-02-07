@@ -10,8 +10,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiekosten',de,Energie,#1818e8,#1515e5,3,0.1411115754963489
 'Dürre',de,Wetterereignisse,#e81818,#e51515,3,0.1369452746294653
 'Wein',de,Landwirtschaft,#18e818,#15e515,3,0.1345156700938691
-'Rohrbruch',de,Energie,#1818e8,#1515e5,2,0.121626081015179
 'Notunterkunft',de,Stadt,#ffff00,#ffff99,3,0.1212696693591423
+'Rohrbruch',de,Energie,#1818e8,#1515e5,1,0.10338248386290215
 'Wohnungslose',de,Stadt,#ffff00,#ffff99,2,0.0921156337937233
 'Bewässerung',de,Landwirtschaft,#15e815,#15e515,2,0.0920231503359881
 'Tau',de,Wetterereignisse,#e81818,#e51515,1,0.0799536554639331
