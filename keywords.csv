@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas',de,Energie,#1818e8,#1515e5,3,0.1972531204867157
-'Schnee',de,Wetterereignisse,#e81818,#e51515,3,0.18573474253149105
 'Heizung',de,Energie,#1818e8,#1515e5,3,0.1683710457265133
+'Schnee',de,Wetterereignisse,#e81818,#e51515,3,0.16283996615176732
 'Not',de,Stadt,#ffff00,#ffff99,3,0.1612280670166729
 'ÖPNV',de,Stadt,#ffff00,#ffff99,3,0.1573132873320854
 'Kälte',de,Wetterereignisse,#e81818,#e51515,3,0.1553755498227078
