@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Schnee',de,Wetterereignisse,#e81818,#e51515,3,0.2393873869737258
+'Schnee',de,Wetterereignisse,#e81818,#e51515,3,0.20844283892766693
 'Kälte',de,Wetterereignisse,#e81818,#e51515,3,0.1597575300765743
 'Heizung',de,Energie,#1818e8,#1515e5,3,0.1576956920647494
 'Not',de,Stadt,#ffff00,#ffff99,3,0.157218600215705
@@ -8,7 +8,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Notunterkunft',de,Stadt,#ffff00,#ffff99,3,0.1457289731085419
 'Wind',de,Wetterereignisse,#e81818,#e51515,3,0.1453765229135674
 'ÖPNV',de,Stadt,#ffff00,#ffff99,3,0.1408863794385214
-'Wein',de,Landwirtschaft,#18e818,#15e515,3,0.13992555659982317
+'Wein',de,Landwirtschaft,#18e818,#15e515,3,0.1399255565998231
 'Dürre',de,Wetterereignisse,#e81818,#e51515,3,0.1395364566168636
 'Energiekosten',de,Energie,#1818e8,#1515e5,3,0.1384521369346497
 'Folientunnel',de,Landwirtschaft,#18e818,#15e515,1,0.1276923870951679
