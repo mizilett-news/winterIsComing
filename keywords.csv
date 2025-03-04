@@ -11,11 +11,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wein',de,Landwirtschaft,#18e818,#15e515,3,0.1399255565998231
 'Energiekosten',de,Energie,#1818e8,#1515e5,3,0.1362752550308158
 'Folientunnel',de,Landwirtschaft,#18e818,#15e515,1,0.1276923870951679
-'Notunterkunft',de,Stadt,#ffff00,#ffff99,3,0.12417015214226061
+'Notunterkunft',de,Stadt,#ffff00,#ffff99,3,0.1241701521422606
 'Rohrbruch',de,Energie,#1818e8,#1515e5,2,0.0978471954139015
 'Kältebus',de,Stadt,#ffff00,#ffff99,1,0.0864366021661146
 'Wohnungslose',de,Stadt,#ffff00,#ffff99,1,0.0782987837246648
 'Tau',de,Wetterereignisse,#e81818,#e51515,2,0.0741659391636007
 'Bewässerung',de,Landwirtschaft,#15e815,#15e515,2,0.0726523426177513
 'Ackerbau',de,Landwirtschaft,#18e818,#15e515,1,0.0390591672843555
-'Wärmebus',de,Stadt,#ffff00,#ffff99,1,0.0045670763830477
+'Wärmebus',de,Stadt,#ffff00,#ffff99,1,0.004932119925590545
