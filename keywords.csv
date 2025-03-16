@@ -2,9 +2,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Landwirtschaft',de,Landwirtschaft,#18e818,#15e515,3,0.1733552096370964
 'Kälte',de,Wetterereignisse,#e81818,#e51515,3,0.1658017052118808
 'Wein',de,Landwirtschaft,#18e818,#15e515,3,0.1470084510365409
-'Heizung',de,Energie,#1818e8,#1515e5,3,0.14666385514051858
+'Heizung',de,Energie,#1818e8,#1515e5,3,0.1466638551405185
+'Gas',de,Energie,#1818e8,#1515e5,3,0.14621006946649764
 'Wind',de,Wetterereignisse,#e81818,#e51515,3,0.1453765229135674
-'Gas',de,Energie,#1818e8,#1515e5,3,0.1394309373402646
 'Not',de,Stadt,#ffff00,#ffff99,3,0.1372552964924224
 'Dürre',de,Wetterereignisse,#e81818,#e51515,3,0.1349387298346324
 'Schnee',de,Wetterereignisse,#e81818,#e51515,3,0.1347508385113944
