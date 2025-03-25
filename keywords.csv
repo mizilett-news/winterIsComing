@@ -11,9 +11,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Dürre',de,Wetterereignisse,#e81818,#e51515,3,0.1332850939958011
 'Energiekosten',de,Energie,#1818e8,#1515e5,3,0.1298793908671025
 'Rohrbruch',de,Energie,#1818e8,#1515e5,2,0.1139201911018162
-'Wohnungslose',de,Stadt,#ffff00,#ffff99,2,0.10804302610470665
 'Notunterkunft',de,Stadt,#ffff00,#ffff99,2,0.1055454393209215
 'Tau',de,Wetterereignisse,#e81818,#e51515,2,0.0949523834320651
+'Wohnungslose',de,Stadt,#ffff00,#ffff99,2,0.09258714218900062
 'Bewässerung',de,Landwirtschaft,#15e815,#15e515,2,0.057055882417536
 'Kältebus',de,Stadt,#ffff00,#ffff99,1,0.0486780468441553
 'Ackerbau',de,Landwirtschaft,#18e818,#15e515,1,0.0420710431451924
