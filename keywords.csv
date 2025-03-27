@@ -7,8 +7,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizung',de,Energie,#1818e8,#1515e5,3,0.1432542855058043
 'Not',de,Stadt,#ffff00,#ffff99,3,0.1372552964924224
 'Kälte',de,Wetterereignisse,#e81818,#e51515,3,0.1339898360587008
-'Energiekosten',de,Energie,#1818e8,#1515e5,3,0.1335345054188553
 'Wind',de,Wetterereignisse,#e81818,#e51515,3,0.1279803408852809
+'Energiekosten',de,Energie,#1818e8,#1515e5,3,0.1275501736969361
 'Notunterkunft',de,Stadt,#ffff00,#ffff99,2,0.126482435240965
 'Rohrbruch',de,Energie,#1818e8,#1515e5,2,0.1139201911018162
 'Dürre',de,Wetterereignisse,#e81818,#e51515,2,0.1132932148964309
