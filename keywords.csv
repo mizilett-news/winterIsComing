@@ -9,13 +9,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kälte',de,Wetterereignisse,#e81818,#e51515,3,0.1339898360587008
 'Wind',de,Wetterereignisse,#e81818,#e51515,3,0.1279803408852809
 'Energiekosten',de,Energie,#1818e8,#1515e5,3,0.1275501736969361
-'Notunterkunft',de,Stadt,#ffff00,#ffff99,2,0.126482435240965
 'Rohrbruch',de,Energie,#1818e8,#1515e5,2,0.1139201911018162
 'Dürre',de,Wetterereignisse,#e81818,#e51515,2,0.1132932148964309
+'Notunterkunft',de,Stadt,#ffff00,#ffff99,2,0.11246075995482024
 'Tau',de,Wetterereignisse,#e81818,#e51515,2,0.0949523834320651
 'Wohnungslose',de,Stadt,#ffff00,#ffff99,2,0.0925871421890006
 'Bewässerung',de,Landwirtschaft,#15e815,#15e515,2,0.057055882417536
 'Kältebus',de,Stadt,#ffff00,#ffff99,1,0.0486780468441553
 'Folientunnel',de,Landwirtschaft,#18e818,#15e515,1,0.0411073070487292
 'Ackerbau',de,Landwirtschaft,#18e818,#15e515,1,0.0377105816734135
-'Wärmebus',de,Stadt,#ffff00,#ffff99,1,0.00404967549129282
+'Wärmebus',de,Stadt,#ffff00,#ffff99,1,0.0040496754912928
