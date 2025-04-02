@@ -17,5 +17,5 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bewässerung',de,Landwirtschaft,#15e815,#15e515,2,0.0679979500549056
 'Ackerbau',de,Landwirtschaft,#18e818,#15e515,1,0.0341542044224014
 'Folientunnel',de,Landwirtschaft,#18e818,#15e515,1,0.0291041608163007
-'Kältebus',de,Stadt,#ffff00,#ffff99,1,0.02684436933856678
-'Wärmebus',de,Stadt,#ffff00,#ffff99,1,0.0025919974663015
+'Kältebus',de,Stadt,#ffff00,#ffff99,1,0.0268443693385667
+'Wärmebus',de,Stadt,#ffff00,#ffff99,1,0.003103287846356275
