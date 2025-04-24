@@ -1,10 +1,10 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schnee',de,Wetterereignisse,#e81818,#e51515,3,0.1591609222967301
 'Dürre',de,Wetterereignisse,#e81818,#e51515,3,0.1589731237172167
-'Landwirtschaft',de,Landwirtschaft,#18e818,#15e515,3,0.14540337097603667
 'Wohnungslose',de,Stadt,#ffff00,#ffff99,2,0.1383531840801533
 'Wind',de,Wetterereignisse,#e81818,#e51515,3,0.1364783824797615
 'Gas',de,Energie,#1818e8,#1515e5,3,0.1363322835843975
+'Landwirtschaft',de,Landwirtschaft,#18e818,#15e515,3,0.13309862487508564
 'Wein',de,Landwirtschaft,#18e818,#15e515,3,0.1320790997070642
 'ÖPNV',de,Stadt,#ffff00,#ffff99,3,0.1308319105629475
 'Kälte',de,Wetterereignisse,#e81818,#e51515,3,0.1294280479172768
