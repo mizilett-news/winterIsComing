@@ -12,7 +12,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kälte',de,Wetterereignisse,#e81818,#e51515,3,0.1294280479172768
 'Heizung',de,Energie,#1818e8,#1515e5,3,0.1267227210566851
 'Energiekosten',de,Energie,#1818e8,#1515e5,3,0.1206407420642181
-'Tau',de,Wetterereignisse,#e81818,#e51515,3,0.1042047373340148
+'Tau',de,Wetterereignisse,#e81818,#e51515,3,0.09352507673391257
 'Bewässerung',de,Landwirtschaft,#15e815,#15e515,2,0.087045441232851
 'Rohrbruch',de,Energie,#1818e8,#1515e5,1,0.0810324117500922
 'Folientunnel',de,Landwirtschaft,#18e818,#15e515,1,0.0733455347472381
