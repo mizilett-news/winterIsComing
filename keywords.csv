@@ -6,11 +6,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schnee',de,Wetterereignisse,#e81818,#e51515,3,0.1318360271394588
 'Wind',de,Wetterereignisse,#e81818,#e51515,3,0.1308075688820939
 'Notunterkunft',de,Stadt,#ffff00,#ffff99,2,0.1294376237421884
-'Wein',de,Landwirtschaft,#18e818,#15e515,3,0.1291340907531008
 'Not',de,Stadt,#ffff00,#ffff99,3,0.1283551745680017
 'Kälte',de,Wetterereignisse,#e81818,#e51515,3,0.1263203495371797
-'Energiekosten',de,Energie,#1818e8,#1515e5,3,0.12526481527568903
+'Energiekosten',de,Energie,#1818e8,#1515e5,3,0.125264815275689
 'Landwirtschaft',de,Landwirtschaft,#18e818,#15e515,3,0.1199076761980027
+'Wein',de,Landwirtschaft,#18e818,#15e515,3,0.11926480168559023
 'Bewässerung',de,Landwirtschaft,#15e815,#15e515,3,0.1169199576327366
 'Wohnungslose',de,Stadt,#ffff00,#ffff99,1,0.1145896336232241
 'Rohrbruch',de,Energie,#1818e8,#1515e5,2,0.0861681893980616
