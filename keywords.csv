@@ -6,14 +6,14 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kälte',de,Wetterereignisse,#e81818,#e51515,3,0.1263203495371797
 'ÖPNV',de,Stadt,#ffff00,#ffff99,3,0.1258718884501845
 'Energiekosten',de,Energie,#1818e8,#1515e5,3,0.125264815275689
-'Schnee',de,Wetterereignisse,#e81818,#e51515,3,0.1215590176139945
 'Landwirtschaft',de,Landwirtschaft,#18e818,#15e515,3,0.1205177734046659
 'Wein',de,Landwirtschaft,#18e818,#15e515,3,0.1192648016855902
+'Schnee',de,Wetterereignisse,#e81818,#e51515,3,0.11736949406280442
 'Bewässerung',de,Landwirtschaft,#15e815,#15e515,3,0.1169199576327366
 'Wind',de,Wetterereignisse,#e81818,#e51515,3,0.1161544785497798
 'Wohnungslose',de,Stadt,#ffff00,#ffff99,1,0.1145896336232241
 'Tau',de,Wetterereignisse,#e81818,#e51515,2,0.1134321303493426
-'Notunterkunft',de,Stadt,#ffff00,#ffff99,2,0.10963613166021682
+'Notunterkunft',de,Stadt,#ffff00,#ffff99,2,0.1096361316602168
 'Rohrbruch',de,Energie,#1818e8,#1515e5,2,0.0861681893980616
 'Folientunnel',de,Landwirtschaft,#18e818,#15e515,1,0.0437718985323817
 'Ackerbau',de,Landwirtschaft,#18e818,#15e515,1,0.0148822741096564
