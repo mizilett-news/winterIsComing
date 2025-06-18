@@ -1,7 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'ÖPNV',de,Stadt,#ffff00,#ffff99,3,0.1278980255489997
 'Wind',de,Wetterereignisse,#e81818,#e51515,3,0.1259623752658622
-'Landwirtschaft',de,Landwirtschaft,#18e818,#15e515,3,0.1246593474439619
 'Kälte',de,Wetterereignisse,#e81818,#e51515,3,0.1241539050680468
 'Not',de,Stadt,#ffff00,#ffff99,3,0.1239261690410798
 'Heizung',de,Energie,#1818e8,#1515e5,3,0.1228184195386955
@@ -11,11 +10,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wein',de,Landwirtschaft,#18e818,#15e515,3,0.1192648016855902
 'Dürre',de,Wetterereignisse,#e81818,#e51515,3,0.1182480600730809
 'Gas',de,Energie,#1818e8,#1515e5,3,0.1161122336681663
+'Landwirtschaft',de,Landwirtschaft,#18e818,#15e515,3,0.11091997032736761
 'Notunterkunft',de,Stadt,#ffff00,#ffff99,2,0.0981416869111842
 'Tau',de,Wetterereignisse,#e81818,#e51515,2,0.0918053546774
 'Bewässerung',de,Landwirtschaft,#15e815,#15e515,2,0.0866441126396521
 'Rohrbruch',de,Energie,#1818e8,#1515e5,1,0.0732430659883523
 'Folientunnel',de,Landwirtschaft,#18e818,#15e515,1,0.0407622416201086
-'Ackerbau',de,Landwirtschaft,#18e818,#15e515,1,0.019205319817934476
+'Ackerbau',de,Landwirtschaft,#18e818,#15e515,1,0.0192053198179344
 'Wärmebus',de,Stadt,#ffff00,#ffff99,1,0.0016609388513774
 'Kältebus',de,Stadt,#ffff00,#ffff99,1,0.0015003246159557
