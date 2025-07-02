@@ -14,7 +14,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Notunterkunft',de,Stadt,#ffff00,#ffff99,3,0.1021984389751487
 'Tau',de,Wetterereignisse,#e81818,#e51515,2,0.0887046374488659
 'Rohrbruch',de,Energie,#1818e8,#1515e5,1,0.0870970456100822
-'Bewässerung',de,Landwirtschaft,#15e815,#15e515,3,0.0718276336430181
+'Bewässerung',de,Landwirtschaft,#15e815,#15e515,2,0.06105404359656538
 'Folientunnel',de,Landwirtschaft,#18e818,#15e515,1,0.0473243557216598
 'Ackerbau',de,Landwirtschaft,#18e818,#15e515,1,0.0179112470684575
 'Wärmebus',de,Stadt,#ffff00,#ffff99,1,0.001020024072102
