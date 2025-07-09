@@ -16,6 +16,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Rohrbruch',de,Energie,#1818e8,#1515e5,1,0.0939826087685698
 'Bewässerung',de,Landwirtschaft,#15e815,#15e515,2,0.0610540435965653
 'Folientunnel',de,Landwirtschaft,#18e818,#15e515,1,0.0409757773634108
-'Ackerbau',de,Landwirtschaft,#18e818,#15e515,1,0.0229879879957449
-'Wärmebus',de,Stadt,#ffff00,#ffff99,1,0.00062642228327956
+'Ackerbau',de,Landwirtschaft,#18e818,#15e515,1,0.022090044796383167
+'Wärmebus',de,Stadt,#ffff00,#ffff99,1,0.0006264222832795
 'Kältebus',de,Stadt,#ffff00,#ffff99,1,0.0004809696968596
