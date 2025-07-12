@@ -3,8 +3,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiekosten',de,Energie,#1818e8,#1515e5,3,0.1611266347044638
 'Wind',de,Wetterereignisse,#e81818,#e51515,3,0.1495121069425815
 'ÖPNV',de,Stadt,#ffff00,#ffff99,3,0.1427858467451321
-'Not',de,Stadt,#ffff00,#ffff99,3,0.1423841595242938
-'Dürre',de,Wetterereignisse,#e81818,#e51515,3,0.13695928186884584
+'Dürre',de,Wetterereignisse,#e81818,#e51515,3,0.1369592818688458
+'Not',de,Stadt,#ffff00,#ffff99,3,0.13509556968655884
 'Landwirtschaft',de,Landwirtschaft,#18e818,#15e515,3,0.1259916695159309
 'Schnee',de,Wetterereignisse,#e81818,#e51515,3,0.1232176103155415
 'Gas',de,Energie,#1818e8,#1515e5,3,0.1223888753089627
