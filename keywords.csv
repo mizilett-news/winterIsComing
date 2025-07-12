@@ -2,8 +2,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wein',de,Landwirtschaft,#18e818,#15e515,3,0.1653006380210301
 'Energiekosten',de,Energie,#1818e8,#1515e5,3,0.1611266347044638
 'Wind',de,Wetterereignisse,#e81818,#e51515,3,0.1495121069425815
-'ÖPNV',de,Stadt,#ffff00,#ffff99,3,0.1427858467451321
 'Dürre',de,Wetterereignisse,#e81818,#e51515,3,0.1369592818688458
+'ÖPNV',de,Stadt,#ffff00,#ffff99,3,0.13541156382427136
 'Not',de,Stadt,#ffff00,#ffff99,3,0.1350955696865588
 'Landwirtschaft',de,Landwirtschaft,#18e818,#15e515,3,0.1259916695159309
 'Schnee',de,Wetterereignisse,#e81818,#e51515,3,0.1232176103155415
@@ -18,4 +18,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Folientunnel',de,Landwirtschaft,#18e818,#15e515,1,0.0357295007588991
 'Ackerbau',de,Landwirtschaft,#18e818,#15e515,1,0.0220900447963831
 'Wärmebus',de,Stadt,#ffff00,#ffff99,1,0.0005324589407875
-'Kältebus',de,Stadt,#ffff00,#ffff99,1,0.00034750060598101
+'Kältebus',de,Stadt,#ffff00,#ffff99,1,0.000347500605981
