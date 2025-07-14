@@ -13,9 +13,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kälte',de,Wetterereignisse,#e81818,#e51515,3,0.1150291088532943
 'Tau',de,Wetterereignisse,#e81818,#e51515,2,0.1121678886497178
 'Rohrbruch',de,Energie,#1818e8,#1515e5,1,0.0939826087685698
-'Notunterkunft',de,Stadt,#ffff00,#ffff99,3,0.0832606740231812
+'Notunterkunft',de,Stadt,#ffff00,#ffff99,3,0.07122211291970401
 'Bewässerung',de,Landwirtschaft,#15e815,#15e515,2,0.0610540435965653
 'Folientunnel',de,Landwirtschaft,#18e818,#15e515,1,0.0312701656450642
-'Ackerbau',de,Landwirtschaft,#18e818,#15e515,1,0.02794361093117618
+'Ackerbau',de,Landwirtschaft,#18e818,#15e515,1,0.0279436109311761
 'Wärmebus',de,Stadt,#ffff00,#ffff99,1,0.0005324589407875
 'Kältebus',de,Stadt,#ffff00,#ffff99,1,0.000347500605981
