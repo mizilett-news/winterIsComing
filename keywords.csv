@@ -16,6 +16,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Notunterkunft',de,Stadt,#ffff00,#ffff99,3,0.071222112919704
 'Bewässerung',de,Landwirtschaft,#15e815,#15e515,2,0.0610540435965653
 'Folientunnel',de,Landwirtschaft,#18e818,#15e515,1,0.0312701656450642
-'Ackerbau',de,Landwirtschaft,#18e818,#15e515,1,0.0279436109311761
+'Ackerbau',de,Landwirtschaft,#18e818,#15e515,1,0.026452339291499684
 'Wärmebus',de,Stadt,#ffff00,#ffff99,1,0.0005324589407875
 'Kältebus',de,Stadt,#ffff00,#ffff99,1,0.0002953755150838
