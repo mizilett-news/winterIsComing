@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'ÖPNV',de,Stadt,#ffff00,#ffff99,3,0.1813318516028987
+'ÖPNV',de,Stadt,#ffff00,#ffff99,3,0.17272074749882751
 'Not',de,Stadt,#ffff00,#ffff99,3,0.1370577388770411
 'Gas',de,Energie,#1818e8,#1515e5,3,0.131724601739891
 'Wind',de,Wetterereignisse,#e81818,#e51515,3,0.1249557591006219
@@ -10,7 +10,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Rohrbruch',de,Energie,#1818e8,#1515e5,1,0.1135728387949337
 'Dürre',de,Wetterereignisse,#e81818,#e51515,3,0.1126620304456956
 'Energiekosten',de,Energie,#1818e8,#1515e5,3,0.1115235106970962
-'Landwirtschaft',de,Landwirtschaft,#18e818,#15e515,3,0.10475591777071457
+'Landwirtschaft',de,Landwirtschaft,#18e818,#15e515,3,0.1047559177707145
 'Heizung',de,Energie,#1818e8,#1515e5,3,0.1038701016341776
 'Tau',de,Wetterereignisse,#e81818,#e51515,2,0.0983435003522601
 'Bewässerung',de,Landwirtschaft,#15e815,#15e515,2,0.0750289102388986
