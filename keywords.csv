@@ -6,7 +6,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Not',de,Stadt,#ffff00,#ffff99,3,0.1205330983613894
 'Schnee',de,Wetterereignisse,#e81818,#e51515,3,0.1203073146329473
 'Wind',de,Wetterereignisse,#e81818,#e51515,3,0.1202797193264377
-'Kälte',de,Wetterereignisse,#e81818,#e51515,3,0.1141592977512451
+'Kälte',de,Wetterereignisse,#e81818,#e51515,3,0.11562536672492196
 'Rohrbruch',de,Energie,#1818e8,#1515e5,1,0.1135728387949337
 'Dürre',de,Wetterereignisse,#e81818,#e51515,3,0.1126620304456956
 'Energiekosten',de,Energie,#1818e8,#1515e5,3,0.1115235106970962
