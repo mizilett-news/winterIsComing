@@ -7,10 +7,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'ÖPNV',de,Stadt,#ffff00,#ffff99,3,0.115650027297641
 'Rohrbruch',de,Energie,#1818e8,#1515e5,1,0.1135728387949337
 'Dürre',de,Wetterereignisse,#e81818,#e51515,3,0.1126620304456956
+'Landwirtschaft',de,Landwirtschaft,#18e818,#15e515,3,0.1121868432869255
 'Energiekosten',de,Energie,#1818e8,#1515e5,3,0.1115235106970962
-'Schnee',de,Wetterereignisse,#e81818,#e51515,3,0.11077765943418601
+'Schnee',de,Wetterereignisse,#e81818,#e51515,3,0.110777659434186
 'Kälte',de,Wetterereignisse,#e81818,#e51515,3,0.1049756889814832
-'Landwirtschaft',de,Landwirtschaft,#18e818,#15e515,3,0.1047559177707145
 'Heizung',de,Energie,#1818e8,#1515e5,3,0.1038701016341776
 'Tau',de,Wetterereignisse,#e81818,#e51515,2,0.0983435003522601
 'Bewässerung',de,Landwirtschaft,#15e815,#15e515,2,0.0869072468848819
