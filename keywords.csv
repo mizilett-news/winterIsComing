@@ -3,15 +3,15 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Landwirtschaft',de,Landwirtschaft,#18e818,#15e515,3,0.1668009106451457
 'Gas',de,Energie,#1818e8,#1515e5,3,0.1364346510238896
 'Not',de,Stadt,#ffff00,#ffff99,3,0.1359800172230255
-'Rohrbruch',de,Energie,#1818e8,#1515e5,1,0.1268584056124386
 'ÖPNV',de,Stadt,#ffff00,#ffff99,3,0.1259495515647095
 'Dürre',de,Wetterereignisse,#e81818,#e51515,3,0.1253331785197423
 'Wind',de,Wetterereignisse,#e81818,#e51515,3,0.1211596922688484
 'Kälte',de,Wetterereignisse,#e81818,#e51515,3,0.1169101483615334
 'Heizung',de,Energie,#1818e8,#1515e5,3,0.1158000512716023
+'Rohrbruch',de,Energie,#1818e8,#1515e5,1,0.10992985477057282
 'Energiekosten',de,Energie,#1818e8,#1515e5,3,0.10843226597062
 'Schnee',de,Wetterereignisse,#e81818,#e51515,3,0.1060212947593811
-'Wohnungslose',de,Stadt,#ffff00,#ffff99,2,0.10563402914881274
+'Wohnungslose',de,Stadt,#ffff00,#ffff99,2,0.1056340291488127
 'Tau',de,Wetterereignisse,#e81818,#e51515,3,0.1044566192187935
 'Bewässerung',de,Landwirtschaft,#15e815,#15e515,2,0.0790994432606246
 'Notunterkunft',de,Stadt,#ffff00,#ffff99,3,0.071222112919704
