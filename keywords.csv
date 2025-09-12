@@ -7,7 +7,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kälte',de,Wetterereignisse,#e81818,#e51515,3,0.1169101483615334
 'Schnee',de,Wetterereignisse,#e81818,#e51515,3,0.1167109795906355
 'Heizung',de,Energie,#1818e8,#1515e5,3,0.1158000512716023
-'Dürre',de,Wetterereignisse,#e81818,#e51515,3,0.11364880488928131
+'Dürre',de,Wetterereignisse,#e81818,#e51515,3,0.11064456824679819
 'Energiekosten',de,Energie,#1818e8,#1515e5,3,0.10843226597062
 'Wind',de,Wetterereignisse,#e81818,#e51515,3,0.1046978662271064
 'Rohrbruch',de,Energie,#1818e8,#1515e5,1,0.0947905115549868
