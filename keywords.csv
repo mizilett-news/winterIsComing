@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Gas',de,Energie,#1818e8,#1515e5,3,0.1482242409257555
 'Wein',de,Landwirtschaft,#18e818,#15e515,3,0.1462542793223692
 'Landwirtschaft',de,Landwirtschaft,#18e818,#15e515,3,0.1404768749403945
+'Gas',de,Energie,#1818e8,#1515e5,3,0.13096523478689218
 'Not',de,Stadt,#ffff00,#ffff99,3,0.1218270589759541
 'Heizung',de,Energie,#1818e8,#1515e5,3,0.121202185554011
 'ÖPNV',de,Stadt,#ffff00,#ffff99,3,0.1211005629209121
@@ -10,7 +10,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wind',de,Wetterereignisse,#e81818,#e51515,3,0.1116159728473118
 'Dürre',de,Wetterereignisse,#e81818,#e51515,3,0.1106445682467981
 'Kälte',de,Wetterereignisse,#e81818,#e51515,3,0.1106328357538401
-'Schnee',de,Wetterereignisse,#e81818,#e51515,3,0.11039008654868405
+'Schnee',de,Wetterereignisse,#e81818,#e51515,3,0.110390086548684
 'Wärmebus',de,Stadt,#ffff00,#ffff99,2,0.1038826339581932
 'Rohrbruch',de,Energie,#1818e8,#1515e5,1,0.0947905115549868
 'Wohnungslose',de,Stadt,#ffff00,#ffff99,2,0.0908395247764908
