@@ -1,8 +1,8 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wein',de,Landwirtschaft,#18e818,#15e515,3,0.1338183569694683
 'Landwirtschaft',de,Landwirtschaft,#18e818,#15e515,3,0.1334563627902444
-'Gas',de,Energie,#1818e8,#1515e5,3,0.12520553144077273
-'Not',de,Stadt,#ffff00,#ffff99,3,0.1218270589759541
+'Gas',de,Energie,#1818e8,#1515e5,3,0.1252055314407727
+'Not',de,Stadt,#ffff00,#ffff99,3,0.12216996376592462
 'Heizung',de,Energie,#1818e8,#1515e5,3,0.121202185554011
 'ÖPNV',de,Stadt,#ffff00,#ffff99,3,0.1211005629209121
 'Energiekosten',de,Energie,#1818e8,#1515e5,3,0.1197603401475872
