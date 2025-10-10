@@ -12,9 +12,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Notunterkunft',de,Stadt,#ffff00,#ffff99,3,0.1160616506718986
 'Energiekosten',de,Energie,#1818e8,#1515e5,3,0.1105440252056368
 'Wohnungslose',de,Stadt,#ffff00,#ffff99,2,0.1094371333327444
-'Wind',de,Wetterereignisse,#e81818,#e51515,3,0.099845596920215
+'Wind',de,Wetterereignisse,#e81818,#e51515,3,0.08984172238218274
 'Wärmebus',de,Stadt,#ffff00,#ffff99,1,0.0883003138644642
-'Bewässerung',de,Landwirtschaft,#15e815,#15e515,2,0.06939439389861932
+'Bewässerung',de,Landwirtschaft,#15e815,#15e515,2,0.0693943938986193
 'Tau',de,Wetterereignisse,#e81818,#e51515,1,0.0625012014881606
 'Ackerbau',de,Landwirtschaft,#18e818,#15e515,2,0.0537160143547516
 'Kältebus',de,Stadt,#ffff00,#ffff99,1,0.0065986181124224
