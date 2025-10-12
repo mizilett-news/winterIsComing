@@ -14,8 +14,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiekosten',de,Energie,#1818e8,#1515e5,3,0.1105440252056368
 'Wohnungslose',de,Stadt,#ffff00,#ffff99,2,0.1094371333327444
 'Bewässerung',de,Landwirtschaft,#15e815,#15e515,2,0.0693943938986193
-'Wärmebus',de,Stadt,#ffff00,#ffff99,1,0.0649070877670753
 'Tau',de,Wetterereignisse,#e81818,#e51515,1,0.0625012014881606
+'Wärmebus',de,Stadt,#ffff00,#ffff99,1,0.055771084602014
 'Ackerbau',de,Landwirtschaft,#18e818,#15e515,1,0.0456589272015388
 'Kältebus',de,Stadt,#ffff00,#ffff99,1,0.0065986181124224
 'Folientunnel',de,Landwirtschaft,#18e818,#15e515,1,0.0030505264400819
