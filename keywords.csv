@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas',de,Energie,#1818e8,#1515e5,3,0.1567287111500091
-'Not',de,Stadt,#ffff00,#ffff99,3,0.1336179507072441
 'Wein',de,Landwirtschaft,#18e818,#15e515,3,0.1336032435137783
+'Not',de,Stadt,#ffff00,#ffff99,3,0.13219081173752112
 'Landwirtschaft',de,Landwirtschaft,#18e818,#15e515,3,0.1272972112406042
 'Rohrbruch',de,Energie,#1818e8,#1515e5,1,0.1244791826788816
 'Heizung',de,Energie,#1818e8,#1515e5,3,0.1216126763572729
