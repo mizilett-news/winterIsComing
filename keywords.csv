@@ -14,8 +14,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wind',de,Wetterereignisse,#e81818,#e51515,3,0.1000451152750033
 'Energiekosten',de,Energie,#1818e8,#1515e5,3,0.0974520901975934
 'Tau',de,Wetterereignisse,#e81818,#e51515,2,0.0641807275441585
-'Bewässerung',de,Landwirtschaft,#15e815,#15e515,2,0.0495778207654895
+'Bewässerung',de,Landwirtschaft,#15e815,#15e515,1,0.04214149265066607
 'Ackerbau',de,Landwirtschaft,#18e818,#15e515,1,0.0327069571998942
 'Wärmebus',de,Stadt,#ffff00,#ffff99,1,0.022925628621224
 'Kältebus',de,Stadt,#ffff00,#ffff99,1,0.0080232777260476
-'Folientunnel',de,Landwirtschaft,#18e818,#15e515,1,0.00307297953050255
+'Folientunnel',de,Landwirtschaft,#18e818,#15e515,1,0.0030729795305025
