@@ -1,13 +1,13 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Schnee',de,Wetterereignisse,#e81818,#e51515,3,0.14610562501556015
+'Schnee',de,Wetterereignisse,#e81818,#e51515,3,0.1461056250155601
 'ÖPNV',de,Stadt,#ffff00,#ffff99,3,0.1396362439032907
-'Not',de,Stadt,#ffff00,#ffff99,3,0.1251568280070185
 'Wein',de,Landwirtschaft,#18e818,#15e515,3,0.1236560594311547
 'Gas',de,Energie,#1818e8,#1515e5,3,0.1191032626432969
 'Wärmebus',de,Stadt,#ffff00,#ffff99,1,0.1136554610593619
 'Heizung',de,Energie,#1818e8,#1515e5,3,0.1136545986465505
 'Landwirtschaft',de,Landwirtschaft,#18e818,#15e515,3,0.1130663508910178
 'Kälte',de,Wetterereignisse,#e81818,#e51515,3,0.1127056640325433
+'Not',de,Stadt,#ffff00,#ffff99,3,0.11136712880596572
 'Rohrbruch',de,Energie,#1818e8,#1515e5,1,0.1066268367626681
 'Wohnungslose',de,Stadt,#ffff00,#ffff99,2,0.1063067859788021
 'Wind',de,Wetterereignisse,#e81818,#e51515,3,0.1014816697861898
