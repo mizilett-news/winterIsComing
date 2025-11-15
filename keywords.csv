@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'ÖPNV',de,Stadt,#ffff00,#ffff99,3,0.1372801409541607
+'ÖPNV',de,Stadt,#ffff00,#ffff99,3,0.13982292299285476
 'Not',de,Stadt,#ffff00,#ffff99,3,0.1314637213032526
 'Schnee',de,Wetterereignisse,#e81818,#e51515,3,0.129148721263226
 'Energiekosten',de,Energie,#1818e8,#1515e5,3,0.1241525780315907
@@ -10,7 +10,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizung',de,Energie,#1818e8,#1515e5,3,0.1136545986465505
 'Landwirtschaft',de,Landwirtschaft,#18e818,#15e515,3,0.1130663508910178
 'Kälte',de,Wetterereignisse,#e81818,#e51515,3,0.1127056640325433
-'Dürre',de,Wetterereignisse,#e81818,#e51515,3,0.10894437452673011
+'Dürre',de,Wetterereignisse,#e81818,#e51515,3,0.1089443745267301
 'Rohrbruch',de,Energie,#1818e8,#1515e5,1,0.1066268367626681
 'Wind',de,Wetterereignisse,#e81818,#e51515,3,0.1014816697861898
 'Notunterkunft',de,Stadt,#ffff00,#ffff99,2,0.0986531980711138
