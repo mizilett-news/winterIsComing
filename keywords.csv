@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Heizung',de,Energie,#1818e8,#1515e5,3,0.1457235733017673
 'Gas',de,Energie,#1818e8,#1515e5,3,0.1425751546104387
+'Heizung',de,Energie,#1818e8,#1515e5,3,0.1379141363974113
 'Not',de,Stadt,#ffff00,#ffff99,3,0.1314637213032526
 'ÖPNV',de,Stadt,#ffff00,#ffff99,3,0.128347864089381
 'Energiekosten',de,Energie,#1818e8,#1515e5,3,0.1241525780315907
