@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Wind',de,Wetterereignisse,#e81818,#e51515,3,0.1702506293977948
 'Gas',de,Energie,#1818e8,#1515e5,3,0.1612512155912138
-'Not',de,Stadt,#ffff00,#ffff99,3,0.14624683868705451
+'Wind',de,Wetterereignisse,#e81818,#e51515,3,0.1587780490790347
+'Not',de,Stadt,#ffff00,#ffff99,3,0.1462468386870545
 'Heizung',de,Energie,#1818e8,#1515e5,3,0.1385886760698569
 'Kälte',de,Wetterereignisse,#e81818,#e51515,3,0.1362078786169217
 'Energiekosten',de,Energie,#1818e8,#1515e5,3,0.1332117190541248
