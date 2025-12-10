@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Dürre',de,Wetterereignisse,#e81818,#e51515,3,0.1510461668206347
-'Gas',de,Energie,#1818e8,#1515e5,3,0.14516664852900701
-'ÖPNV',de,Stadt,#ffff00,#ffff99,3,0.13260315912733
+'Gas',de,Energie,#1818e8,#1515e5,3,0.145166648529007
+'ÖPNV',de,Stadt,#ffff00,#ffff99,3,0.14493821753095776
 'Energiekosten',de,Energie,#1818e8,#1515e5,3,0.130700481328929
 'Wohnungslose',de,Stadt,#ffff00,#ffff99,3,0.1298337004378663
 'Kälte',de,Wetterereignisse,#e81818,#e51515,3,0.1273018934165916
