@@ -12,9 +12,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wein',de,Landwirtschaft,#18e818,#15e515,3,0.1242153672795489
 'Schnee',de,Wetterereignisse,#e81818,#e51515,3,0.1192809726191966
 'Landwirtschaft',de,Landwirtschaft,#18e818,#15e515,3,0.1130663508910178
-'Notunterkunft',de,Stadt,#ffff00,#ffff99,2,0.1128451454756499
+'Notunterkunft',de,Stadt,#ffff00,#ffff99,2,0.10541495319975697
 'Tau',de,Wetterereignisse,#e81818,#e51515,3,0.0855499244413477
-'Kältebus',de,Stadt,#ffff00,#ffff99,1,0.061298052956949414
+'Kältebus',de,Stadt,#ffff00,#ffff99,1,0.0612980529569494
 'Folientunnel',de,Landwirtschaft,#18e818,#15e515,1,0.0445814230943753
 'Bewässerung',de,Landwirtschaft,#15e815,#15e515,2,0.0433330271047715
 'Wärmebus',de,Stadt,#ffff00,#ffff99,1,0.0415707438325612
