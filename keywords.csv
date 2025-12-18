@@ -1,10 +1,10 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wohnungslose',de,Stadt,#ffff00,#ffff99,3,0.1543829578755395
+'ÖPNV',de,Stadt,#ffff00,#ffff99,3,0.15364984131392662
 'Rohrbruch',de,Energie,#1818e8,#1515e5,2,0.1489995664648738
-'ÖPNV',de,Stadt,#ffff00,#ffff99,3,0.1481993159842987
 'Gas',de,Energie,#1818e8,#1515e5,3,0.145166648529007
 'Dürre',de,Wetterereignisse,#e81818,#e51515,3,0.1356448872890256
-'Energiekosten',de,Energie,#1818e8,#1515e5,3,0.13423174231140783
+'Energiekosten',de,Energie,#1818e8,#1515e5,3,0.1342317423114078
 'Not',de,Stadt,#ffff00,#ffff99,3,0.1271508952241241
 'Wind',de,Wetterereignisse,#e81818,#e51515,3,0.1264921960770808
 'Heizung',de,Energie,#1818e8,#1515e5,3,0.12498947979039
