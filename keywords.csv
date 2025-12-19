@@ -1,9 +1,9 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Gas',de,Energie,#1818e8,#1515e5,3,0.16316995790311664
+'Gas',de,Energie,#1818e8,#1515e5,3,0.1631699579031166
 'ÖPNV',de,Stadt,#ffff00,#ffff99,3,0.1537373932986557
 'Rohrbruch',de,Energie,#1818e8,#1515e5,2,0.1489995664648738
-'Dürre',de,Wetterereignisse,#e81818,#e51515,3,0.1356448872890256
 'Energiekosten',de,Energie,#1818e8,#1515e5,3,0.1342317423114078
+'Dürre',de,Wetterereignisse,#e81818,#e51515,3,0.1338859878320354
 'Wohnungslose',de,Stadt,#ffff00,#ffff99,3,0.1324266241942085
 'Not',de,Stadt,#ffff00,#ffff99,3,0.1271508952241241
 'Wind',de,Wetterereignisse,#e81818,#e51515,3,0.1264921960770808
