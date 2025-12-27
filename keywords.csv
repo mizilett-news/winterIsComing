@@ -8,9 +8,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'ÖPNV',de,Stadt,#ffff00,#ffff99,3,0.1286473918173695
 'Rohrbruch',de,Energie,#1818e8,#1515e5,1,0.1266497214951427
 'Wind',de,Wetterereignisse,#e81818,#e51515,3,0.1264921960770808
-'Not',de,Stadt,#ffff00,#ffff99,3,0.1230002871612223
-'Wein',de,Landwirtschaft,#18e818,#15e515,3,0.11963009127852565
+'Wein',de,Landwirtschaft,#18e818,#15e515,3,0.1196300912785256
 'Landwirtschaft',de,Landwirtschaft,#18e818,#15e515,3,0.1130663508910178
+'Not',de,Stadt,#ffff00,#ffff99,3,0.10952680908703895
 'Wohnungslose',de,Stadt,#ffff00,#ffff99,3,0.0962603283439029
 'Notunterkunft',de,Stadt,#ffff00,#ffff99,2,0.0945537452197933
 'Kältebus',de,Stadt,#ffff00,#ffff99,1,0.0935106783810012
