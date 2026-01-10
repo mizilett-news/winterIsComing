@@ -2,8 +2,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schnee',de,Wetterereignisse,#e81818,#e51515,3,0.1826288765788974
 'Kälte',de,Wetterereignisse,#e81818,#e51515,3,0.1801753633586374
 'Not',de,Stadt,#ffff00,#ffff99,3,0.1549967039308934
-'Rohrbruch',de,Energie,#1818e8,#1515e5,1,0.15004276121609458
-'Kältebus',de,Stadt,#ffff00,#ffff99,3,0.1384799506356242
+'Rohrbruch',de,Energie,#1818e8,#1515e5,1,0.1500427612160945
+'Kältebus',de,Stadt,#ffff00,#ffff99,3,0.14993179531300785
 'Wind',de,Wetterereignisse,#e81818,#e51515,3,0.1357720066655186
 'Gas',de,Energie,#1818e8,#1515e5,3,0.1341437638842131
 'Heizung',de,Energie,#1818e8,#1515e5,3,0.1339260405491042
