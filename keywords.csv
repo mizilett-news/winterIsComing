@@ -4,9 +4,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wohnungslose',de,Stadt,#ffff00,#ffff99,3,0.1902784004495088
 'Heizung',de,Energie,#1818e8,#1515e5,3,0.1666152991669912
 'Energiekosten',de,Energie,#1818e8,#1515e5,3,0.1619496162850122
+'Gas',de,Energie,#1818e8,#1515e5,3,0.15368763255810347
 'Not',de,Stadt,#ffff00,#ffff99,3,0.1469944683867871
 'Notunterkunft',de,Stadt,#ffff00,#ffff99,3,0.1431231333366624
-'Gas',de,Energie,#1818e8,#1515e5,3,0.1428811826886779
 'Wind',de,Wetterereignisse,#e81818,#e51515,3,0.1357720066655186
 'Kältebus',de,Stadt,#ffff00,#ffff99,3,0.1304433160160566
 'ÖPNV',de,Stadt,#ffff00,#ffff99,3,0.1286473918173695
