@@ -2,8 +2,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schnee',de,Wetterereignisse,#e81818,#e51515,3,0.3002315050853932
 'Wind',de,Wetterereignisse,#e81818,#e51515,3,0.2615524227548177
 'ÖPNV',de,Stadt,#ffff00,#ffff99,3,0.1915763403174913
-'Gas',de,Energie,#1818e8,#1515e5,3,0.1907538410220105
 'Wein',de,Landwirtschaft,#18e818,#15e515,3,0.1740130531078255
+'Gas',de,Energie,#1818e8,#1515e5,3,0.17164731486870893
 'Kälte',de,Wetterereignisse,#e81818,#e51515,3,0.1688572231878451
 'Kältebus',de,Stadt,#ffff00,#ffff99,3,0.1497266818826652
 'Heizung',de,Energie,#1818e8,#1515e5,3,0.1457054242845147
@@ -16,6 +16,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Rohrbruch',de,Energie,#1818e8,#1515e5,2,0.1162399057450632
 'Landwirtschaft',de,Landwirtschaft,#18e818,#15e515,3,0.1056124128028196
 'Bewässerung',de,Landwirtschaft,#15e815,#15e515,2,0.065884479149289
-'Wärmebus',de,Stadt,#ffff00,#ffff99,1,0.041883842812778786
+'Wärmebus',de,Stadt,#ffff00,#ffff99,1,0.0418838428127787
 'Ackerbau',de,Landwirtschaft,#18e818,#15e515,1,0.0373613791555461
 'Folientunnel',de,Landwirtschaft,#18e818,#15e515,1,0.0028017653176417
