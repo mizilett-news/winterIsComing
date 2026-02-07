@@ -8,12 +8,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kälte',de,Wetterereignisse,#e81818,#e51515,3,0.1688572231878451
 'Wohnungslose',de,Stadt,#ffff00,#ffff99,3,0.1592716070934891
 'Notunterkunft',de,Stadt,#ffff00,#ffff99,3,0.1431231333366624
-'Tau',de,Wetterereignisse,#e81818,#e51515,3,0.1366331965162471
 'Energiekosten',de,Energie,#1818e8,#1515e5,3,0.1303619199839875
 'Not',de,Stadt,#ffff00,#ffff99,3,0.129917273128769
 'Dürre',de,Wetterereignisse,#e81818,#e51515,2,0.1289487617237224
 'Kältebus',de,Stadt,#ffff00,#ffff99,2,0.1272684296002654
 'Rohrbruch',de,Energie,#1818e8,#1515e5,2,0.1162399057450632
+'Tau',de,Wetterereignisse,#e81818,#e51515,2,0.11613920703881005
 'Landwirtschaft',de,Landwirtschaft,#18e818,#15e515,3,0.1056124128028196
 'Bewässerung',de,Landwirtschaft,#15e815,#15e515,2,0.065884479149289
 'Ackerbau',de,Landwirtschaft,#18e818,#15e515,1,0.0373613791555461
