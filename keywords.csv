@@ -10,12 +10,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiekosten',de,Energie,#1818e8,#1515e5,3,0.1383563866429763
 'Wohnungslose',de,Stadt,#ffff00,#ffff99,3,0.1355318710294657
 'Tau',de,Wetterereignisse,#e81818,#e51515,3,0.1341037387416092
-'Notunterkunft',de,Stadt,#ffff00,#ffff99,3,0.13383663052798495
+'Notunterkunft',de,Stadt,#ffff00,#ffff99,3,0.1338366305279849
 'Not',de,Stadt,#ffff00,#ffff99,3,0.1335864753412718
 'Landwirtschaft',de,Landwirtschaft,#18e818,#15e515,3,0.1324828332886679
 'Rohrbruch',de,Energie,#1818e8,#1515e5,1,0.1020364950950347
 'Bewässerung',de,Landwirtschaft,#15e815,#15e515,2,0.0583715475867237
 'Kältebus',de,Stadt,#ffff00,#ffff99,1,0.0492322681193822
-'Ackerbau',de,Landwirtschaft,#18e818,#15e515,2,0.0461136861560514
+'Ackerbau',de,Landwirtschaft,#18e818,#15e515,2,0.04204691823264369
 'Wärmebus',de,Stadt,#ffff00,#ffff99,1,0.0217524088022885
 'Folientunnel',de,Landwirtschaft,#18e818,#15e515,1,0.0006526440156054
