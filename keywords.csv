@@ -1,8 +1,8 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schnee',de,Wetterereignisse,#e81818,#e51515,3,0.2068596349498015
-'Notunterkunft',de,Stadt,#ffff00,#ffff99,2,0.19406906987299866
+'Notunterkunft',de,Stadt,#ffff00,#ffff99,2,0.1940690698729986
+'Gas',de,Energie,#1818e8,#1515e5,3,0.19159125529962803
 'Kälte',de,Wetterereignisse,#e81818,#e51515,3,0.1817023682956346
-'Gas',de,Energie,#1818e8,#1515e5,3,0.1767668987482255
 'ÖPNV',de,Stadt,#ffff00,#ffff99,3,0.1735524211772137
 'Wein',de,Landwirtschaft,#18e818,#15e515,3,0.168254343896745
 'Tau',de,Wetterereignisse,#e81818,#e51515,3,0.1644392129303677
