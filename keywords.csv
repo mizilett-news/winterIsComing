@@ -1,7 +1,9 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
+'Wärmepumpe',de,Energie,#1818e8,#1515e5,3,0.82550235310114
+'E-Auto',de,Stadt,#ffff00,#ffff99,1,0.49653523036484
 'ÖPNV',de,Stadt,#ffff00,#ffff99,3,0.2348772928814344
 'Wein',de,Landwirtschaft,#18e818,#15e515,3,0.2130980885188106
-'Schnee',de,Wetterereignisse,#e81818,#e51515,3,0.19786567436941427
+'Schnee',de,Wetterereignisse,#e81818,#e51515,3,0.1978656743694142
 'Gas',de,Energie,#1818e8,#1515e5,3,0.1879576436094064
 'Tau',de,Wetterereignisse,#e81818,#e51515,3,0.1644392129303677
 'Landwirtschaft',de,Landwirtschaft,#18e818,#15e515,3,0.1578524008001339
@@ -19,6 +21,3 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kältebus',de,Stadt,#ffff00,#ffff99,1,0.0142195911976409
 'Wärmebus',de,Stadt,#ffff00,#ffff99,1,0.0113548933473495
 'Folientunnel',de,Landwirtschaft,#18e818,#15e515,1,0.0006065304511935
-'Wärmepumpe',de,Energie,#1818e8,#1515e5,3,0.9653523036484
-'E-Auto',de,Stadt,#ffff00,#ffff99,1,0.49653523036484
-
