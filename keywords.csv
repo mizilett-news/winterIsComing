@@ -1,8 +1,8 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Tempolimit',de,Energie,#1818e8,#1515e5,2,0.5954185715236436
 'Pendlerpauschale',de,Energie,#1818e8,#1515e5,3,0.574617024109091
-'E-Auto',de,Stadt,#ffff00,#ffff99,3,0.5133842421737503
 'Wärmepumpe',de,Energie,#1818e8,#1515e5,3,0.5007936048742404
+'E-Auto',de,Stadt,#ffff00,#ffff99,3,0.46523660923478455
 'ÖPNV',de,Stadt,#ffff00,#ffff99,3,0.2348772928814344
 'Wein',de,Landwirtschaft,#18e818,#15e515,3,0.2088172329682617
 'Rohrbruch',de,Energie,#1818e8,#1515e5,2,0.2074810958307795
