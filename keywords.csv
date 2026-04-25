@@ -3,7 +3,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Tempolimit',de,Energie,#1818e8,#1515e5,3,0.5657163363506527
 'Wärmepumpe',de,Energie,#1818e8,#1515e5,3,0.5007936048742404
 'E-Auto',de,Stadt,#ffff00,#ffff99,3,0.4004177828495668
-'ÖPNV',de,Stadt,#ffff00,#ffff99,3,0.2348772928814344
+'ÖPNV',de,Stadt,#ffff00,#ffff99,3,0.24300915636857406
 'Wein',de,Landwirtschaft,#18e818,#15e515,3,0.2088172329682617
 'Schnee',de,Wetterereignisse,#e81818,#e51515,3,0.1978656743694142
 'Gas',de,Energie,#1818e8,#1515e5,3,0.1879576436094064
