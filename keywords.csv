@@ -20,6 +20,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Dürre',de,Wetterereignisse,#e81818,#e51515,2,0.1242612198776718
 'Not',de,Stadt,#ffff00,#ffff99,3,0.1186677066386142
 'Bewässerung',de,Landwirtschaft,#15e815,#15e515,2,0.0825033188696511
+'Folientunnel',de,Landwirtschaft,#18e818,#15e515,1,0.03861561088351447
 'Ackerbau',de,Landwirtschaft,#18e818,#15e515,2,0.0311403654096221
 'Kältebus',de,Stadt,#ffff00,#ffff99,1,0.0142195911976409
-'Folientunnel',de,Landwirtschaft,#18e818,#15e515,1,0.0006065304511935
