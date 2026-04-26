@@ -13,13 +13,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Tau',de,Wetterereignisse,#e81818,#e51515,3,0.1644392129303677
 'Wärmebus',de,Stadt,#ffff00,#ffff99,2,0.160401734345247
 'Landwirtschaft',de,Landwirtschaft,#18e818,#15e515,3,0.1578524008001339
-'Heizung',de,Energie,#1818e8,#1515e5,3,0.149653523036484
 'Notunterkunft',de,Stadt,#ffff00,#ffff99,3,0.1462552817229611
 'Energiekosten',de,Energie,#1818e8,#1515e5,3,0.1383563866429763
+'Heizung',de,Energie,#1818e8,#1515e5,3,0.13670622912646593
 'Wohnungslose',de,Stadt,#ffff00,#ffff99,3,0.1355318710294657
 'Dürre',de,Wetterereignisse,#e81818,#e51515,2,0.1242612198776718
 'Not',de,Stadt,#ffff00,#ffff99,3,0.1186677066386142
 'Bewässerung',de,Landwirtschaft,#15e815,#15e515,2,0.0825033188696511
-'Folientunnel',de,Landwirtschaft,#18e818,#15e515,1,0.03861561088351447
+'Folientunnel',de,Landwirtschaft,#18e818,#15e515,1,0.0386156108835144
 'Ackerbau',de,Landwirtschaft,#18e818,#15e515,2,0.0311403654096221
 'Kältebus',de,Stadt,#ffff00,#ffff99,1,0.0142195911976409
