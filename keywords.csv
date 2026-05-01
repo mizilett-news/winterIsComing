@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Tempolimit',de,Energie,#1818e8,#1515e5,3,0.4453134377431627
 'Pendlerpauschale',de,Energie,#1818e8,#1515e5,3,0.4237751056688181
+'Tempolimit',de,Energie,#1818e8,#1515e5,3,0.40802099708168826
 'E-Auto',de,Stadt,#ffff00,#ffff99,3,0.3262167805860847
 'Wärmepumpe',de,Energie,#1818e8,#1515e5,3,0.299957136116202
 'Wein',de,Landwirtschaft,#18e818,#15e515,3,0.2170011280230224
@@ -20,6 +20,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wohnungslose',de,Stadt,#ffff00,#ffff99,3,0.1355318710294657
 'Dürre',de,Wetterereignisse,#e81818,#e51515,2,0.1242612198776718
 'Not',de,Stadt,#ffff00,#ffff99,3,0.1186677066386142
-'Bewässerung',de,Landwirtschaft,#15e815,#15e515,2,0.07102840603920342
+'Bewässerung',de,Landwirtschaft,#15e815,#15e515,2,0.0710284060392034
 'Folientunnel',de,Landwirtschaft,#18e818,#15e515,1,0.0332733142509872
 'Ackerbau',de,Landwirtschaft,#18e818,#15e515,1,0.0264695355981787
