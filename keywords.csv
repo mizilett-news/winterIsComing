@@ -9,6 +9,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas',de,Energie,#1818e8,#1515e5,3,0.1879576436094064
 'Wind',de,Wetterereignisse,#e81818,#e51515,3,0.1772956745206385
 'Schnee',de,Wetterereignisse,#e81818,#e51515,3,0.1731452582140021
+'Wohnungslose',de,Stadt,#ffff00,#ffff99,3,0.17087422394647442
 'Kälte',de,Wetterereignisse,#e81818,#e51515,3,0.1702442994056929
 'Tau',de,Wetterereignisse,#e81818,#e51515,3,0.1644392129303677
 'Kältebus',de,Stadt,#ffff00,#ffff99,2,0.1626867125179947
@@ -17,7 +18,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiekosten',de,Energie,#1818e8,#1515e5,3,0.1478227376120471
 'Notunterkunft',de,Stadt,#ffff00,#ffff99,3,0.1462552817229611
 'Heizung',de,Energie,#1818e8,#1515e5,3,0.1367062291264659
-'Wohnungslose',de,Stadt,#ffff00,#ffff99,3,0.1355318710294657
 'Dürre',de,Wetterereignisse,#e81818,#e51515,2,0.1242612198776718
 'Not',de,Stadt,#ffff00,#ffff99,3,0.1186677066386142
 'Bewässerung',de,Landwirtschaft,#15e815,#15e515,2,0.0710284060392034
