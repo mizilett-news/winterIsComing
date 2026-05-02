@@ -1,9 +1,9 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Pendlerpauschale',de,Energie,#1818e8,#1515e5,3,0.36486423981849536
+'Pendlerpauschale',de,Energie,#1818e8,#1515e5,3,0.3648642398184953
 'Tempolimit',de,Energie,#1818e8,#1515e5,3,0.3516224825194349
 'E-Auto',de,Stadt,#ffff00,#ffff99,3,0.3262167805860847
 'Wärmepumpe',de,Energie,#1818e8,#1515e5,3,0.299957136116202
-'Wein',de,Landwirtschaft,#18e818,#15e515,3,0.2170011280230224
+'Wein',de,Landwirtschaft,#18e818,#15e515,3,0.22781660623892389
 'ÖPNV',de,Stadt,#ffff00,#ffff99,3,0.1982835289389464
 'Landwirtschaft',de,Landwirtschaft,#18e818,#15e515,3,0.1958801947371876
 'Gas',de,Energie,#1818e8,#1515e5,3,0.1879576436094064
