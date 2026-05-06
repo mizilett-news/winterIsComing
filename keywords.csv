@@ -1,8 +1,8 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'E-Auto',de,Stadt,#ffff00,#ffff99,3,0.3003352435501564
 'Wärmepumpe',de,Energie,#1818e8,#1515e5,3,0.299957136116202
-'Wein',de,Landwirtschaft,#18e818,#15e515,3,0.237130574221908
 'Pendlerpauschale',de,Energie,#1818e8,#1515e5,3,0.2329879889183778
+'Wein',de,Landwirtschaft,#18e818,#15e515,3,0.22924450081589454
 'ÖPNV',de,Stadt,#ffff00,#ffff99,3,0.1982835289389464
 'Tempolimit',de,Energie,#1818e8,#1515e5,3,0.1929838763174455
 'Landwirtschaft',de,Landwirtschaft,#18e818,#15e515,3,0.1896396437084276
@@ -22,4 +22,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Not',de,Stadt,#ffff00,#ffff99,3,0.1186677066386142
 'Bewässerung',de,Landwirtschaft,#15e815,#15e515,2,0.0605246551333228
 'Ackerbau',de,Landwirtschaft,#18e818,#15e515,1,0.0264695355981787
-'Folientunnel',de,Landwirtschaft,#18e818,#15e515,1,0.024872552796338234
+'Folientunnel',de,Landwirtschaft,#18e818,#15e515,1,0.0248725527963382
