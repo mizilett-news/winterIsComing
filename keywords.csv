@@ -3,8 +3,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Pendlerpauschale',de,Energie,#1818e8,#1515e5,3,0.2026940805806211
 'Wärmepumpe',de,Energie,#1818e8,#1515e5,3,0.2006429645973186
 'ÖPNV',de,Stadt,#ffff00,#ffff99,3,0.1982835289389464
-'Landwirtschaft',de,Landwirtschaft,#18e818,#15e515,3,0.1896396437084276
 'Gas',de,Energie,#1818e8,#1515e5,3,0.1879576436094064
+'Landwirtschaft',de,Landwirtschaft,#18e818,#15e515,3,0.18475374715216344
 'Tempolimit',de,Energie,#1818e8,#1515e5,3,0.1780810739607377
 'Wind',de,Wetterereignisse,#e81818,#e51515,3,0.1772956745206385
 'Schnee',de,Wetterereignisse,#e81818,#e51515,3,0.1731452582140021
