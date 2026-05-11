@@ -4,11 +4,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'ÖPNV',de,Stadt,#ffff00,#ffff99,3,0.1982835289389464
 'Gas',de,Energie,#1818e8,#1515e5,3,0.1879576436094064
 'Landwirtschaft',de,Landwirtschaft,#18e818,#15e515,3,0.1847537471521634
-'Tempolimit',de,Energie,#1818e8,#1515e5,3,0.1780810739607377
 'Wind',de,Wetterereignisse,#e81818,#e51515,3,0.1772956745206385
 'Wärmepumpe',de,Energie,#1818e8,#1515e5,3,0.1754994899077208
 'Schnee',de,Wetterereignisse,#e81818,#e51515,3,0.1731452582140021
 'Kälte',de,Wetterereignisse,#e81818,#e51515,3,0.1702442994056929
+'Tempolimit',de,Energie,#1818e8,#1515e5,3,0.16541324195753612
 'Tau',de,Wetterereignisse,#e81818,#e51515,3,0.1644392129303677
 'Kältebus',de,Stadt,#ffff00,#ffff99,2,0.1626867125179947
 'E-Auto',de,Stadt,#ffff00,#ffff99,3,0.1577513208277337
