@@ -6,11 +6,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wind',de,Wetterereignisse,#e81818,#e51515,3,0.1772956745206385
 'Schnee',de,Wetterereignisse,#e81818,#e51515,3,0.1731452582140021
 'Kälte',de,Wetterereignisse,#e81818,#e51515,3,0.1702442994056929
-'Wärmepumpe',de,Energie,#1818e8,#1515e5,3,0.1680400664215627
-'Gas',de,Energie,#1818e8,#1515e5,3,0.16592101967770984
+'Gas',de,Energie,#1818e8,#1515e5,3,0.1659210196777098
 'Tempolimit',de,Energie,#1818e8,#1515e5,3,0.1654132419575361
 'Tau',de,Wetterereignisse,#e81818,#e51515,3,0.1644392129303677
 'Kältebus',de,Stadt,#ffff00,#ffff99,2,0.1626867125179947
+'Wärmepumpe',de,Energie,#1818e8,#1515e5,3,0.16200338049058635
 'E-Auto',de,Stadt,#ffff00,#ffff99,3,0.1577513208277337
 'Not',de,Stadt,#ffff00,#ffff99,3,0.1512969510973675
 'Rohrbruch',de,Energie,#1818e8,#1515e5,2,0.1510152027377382
