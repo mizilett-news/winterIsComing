@@ -10,13 +10,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Tau',de,Wetterereignisse,#e81818,#e51515,3,0.1644392129303677
 'Kältebus',de,Stadt,#ffff00,#ffff99,2,0.1626867125179947
 'E-Auto',de,Stadt,#ffff00,#ffff99,3,0.1577513208277337
-'Wärmepumpe',de,Energie,#1818e8,#1515e5,3,0.15656844841699835
 'Wind',de,Wetterereignisse,#e81818,#e51515,3,0.1556762683425427
 'Not',de,Stadt,#ffff00,#ffff99,3,0.1512969510973675
 'Rohrbruch',de,Energie,#1818e8,#1515e5,2,0.1510152027377382
 'Wohnungslose',de,Stadt,#ffff00,#ffff99,3,0.1461436753545032
 'Notunterkunft',de,Stadt,#ffff00,#ffff99,2,0.1424387396130211
 'Dürre',de,Wetterereignisse,#e81818,#e51515,2,0.1423915087142028
+'Wärmepumpe',de,Energie,#1818e8,#1515e5,3,0.13758627115444855
 'Energiekosten',de,Energie,#1818e8,#1515e5,3,0.136788699765613
 'Heizung',de,Energie,#1818e8,#1515e5,3,0.1367062291264659
 'Wärmebus',de,Stadt,#ffff00,#ffff99,1,0.0985067151047747
