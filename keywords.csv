@@ -2,11 +2,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wein',de,Landwirtschaft,#18e818,#15e515,3,0.2277167106263936
 'Gas',de,Energie,#1818e8,#1515e5,3,0.1989324331776662
 'Pendlerpauschale',de,Energie,#1818e8,#1515e5,3,0.1804402280288829
-'Landwirtschaft',de,Landwirtschaft,#18e818,#15e515,3,0.18018228326115707
+'Landwirtschaft',de,Landwirtschaft,#18e818,#15e515,3,0.180182283261157
 'ÖPNV',de,Stadt,#ffff00,#ffff99,3,0.1790141094992978
 'Schnee',de,Wetterereignisse,#e81818,#e51515,3,0.1731452582140021
 'Kälte',de,Wetterereignisse,#e81818,#e51515,3,0.1702442994056929
 'Tau',de,Wetterereignisse,#e81818,#e51515,3,0.1644392129303677
+'Dürre',de,Wetterereignisse,#e81818,#e51515,3,0.16439407982642723
 'Kältebus',de,Stadt,#ffff00,#ffff99,2,0.1626867125179947
 'E-Auto',de,Stadt,#ffff00,#ffff99,3,0.1577513208277337
 'Wind',de,Wetterereignisse,#e81818,#e51515,3,0.1556762683425427
@@ -14,7 +15,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Not',de,Stadt,#ffff00,#ffff99,3,0.1512969510973675
 'Wohnungslose',de,Stadt,#ffff00,#ffff99,3,0.1461436753545032
 'Notunterkunft',de,Stadt,#ffff00,#ffff99,2,0.1424387396130211
-'Dürre',de,Wetterereignisse,#e81818,#e51515,2,0.1423915087142028
 'Wärmepumpe',de,Energie,#1818e8,#1515e5,3,0.1375862711544485
 'Energiekosten',de,Energie,#1818e8,#1515e5,3,0.136788699765613
 'Heizung',de,Energie,#1818e8,#1515e5,3,0.1367062291264659
