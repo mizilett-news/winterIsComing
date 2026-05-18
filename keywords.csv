@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Wein',de,Landwirtschaft,#18e818,#15e515,3,0.20649372201116117
+'Wein',de,Landwirtschaft,#18e818,#15e515,3,0.2064937220111611
 'Gas',de,Energie,#1818e8,#1515e5,3,0.1989324331776662
 'Pendlerpauschale',de,Energie,#1818e8,#1515e5,3,0.1804402280288829
 'Landwirtschaft',de,Landwirtschaft,#18e818,#15e515,3,0.180182283261157
@@ -22,4 +22,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wärmebus',de,Stadt,#ffff00,#ffff99,1,0.0985067151047747
 'Bewässerung',de,Landwirtschaft,#15e815,#15e515,2,0.0858756842317454
 'Ackerbau',de,Landwirtschaft,#18e818,#15e515,2,0.0502494802584519
-'Folientunnel',de,Landwirtschaft,#18e818,#15e515,1,0.012791018349578
+'Folientunnel',de,Landwirtschaft,#18e818,#15e515,1,0.0110223805971413
