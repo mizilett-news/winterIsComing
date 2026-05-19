@@ -1,11 +1,11 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas',de,Energie,#1818e8,#1515e5,3,0.1989324331776662
-'Wein',de,Landwirtschaft,#18e818,#15e515,3,0.18956661780039602
-'Kälte',de,Wetterereignisse,#e81818,#e51515,3,0.1814810713130207
+'Wein',de,Landwirtschaft,#18e818,#15e515,3,0.189566617800396
 'Pendlerpauschale',de,Energie,#1818e8,#1515e5,3,0.1804402280288829
 'Landwirtschaft',de,Landwirtschaft,#18e818,#15e515,3,0.180182283261157
 'ÖPNV',de,Stadt,#ffff00,#ffff99,3,0.1790141094992978
 'Schnee',de,Wetterereignisse,#e81818,#e51515,3,0.1731452582140021
+'Kälte',de,Wetterereignisse,#e81818,#e51515,3,0.17285065925243123
 'Tau',de,Wetterereignisse,#e81818,#e51515,3,0.1644392129303677
 'Dürre',de,Wetterereignisse,#e81818,#e51515,3,0.1643940798264272
 'Kältebus',de,Stadt,#ffff00,#ffff99,2,0.1626867125179947
