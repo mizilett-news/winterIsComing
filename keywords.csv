@@ -1,9 +1,9 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
+'ÖPNV',de,Stadt,#ffff00,#ffff99,3,0.19236389147687896
 'Tempolimit',de,Energie,#1818e8,#1515e5,3,0.1683319613825015
 'Gas',de,Energie,#1818e8,#1515e5,3,0.1646269665206887
 'Dürre',de,Wetterereignisse,#e81818,#e51515,3,0.1643940798264272
 'E-Auto',de,Stadt,#ffff00,#ffff99,3,0.1617819304308463
-'ÖPNV',de,Stadt,#ffff00,#ffff99,3,0.1616602076198576
 'Pendlerpauschale',de,Energie,#1818e8,#1515e5,3,0.1581760988245504
 'Kälte',de,Wetterereignisse,#e81818,#e51515,3,0.1572334714916996
 'Wind',de,Wetterereignisse,#e81818,#e51515,3,0.1556762683425427
