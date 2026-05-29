@@ -19,7 +19,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiekosten',de,Energie,#1818e8,#1515e5,3,0.1354421638330291
 'Rohrbruch',de,Energie,#1818e8,#1515e5,2,0.1288129673270774
 'Wärmepumpe',de,Energie,#1818e8,#1515e5,3,0.1229750636102256
-'Bewässerung',de,Landwirtschaft,#15e815,#15e515,2,0.1143088679606199
+'Bewässerung',de,Landwirtschaft,#15e815,#15e515,3,0.10665907231198145
 'Ackerbau',de,Landwirtschaft,#18e818,#15e515,2,0.0694360140915701
 'Wärmebus',de,Stadt,#ffff00,#ffff99,1,0.0514211209516616
 'Folientunnel',de,Landwirtschaft,#18e818,#15e515,1,0.0096690535075701
