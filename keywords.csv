@@ -12,7 +12,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'ÖPNV',de,Stadt,#ffff00,#ffff99,3,0.1445929340316473
 'Notunterkunft',de,Stadt,#ffff00,#ffff99,2,0.1424387396130211
 'Tau',de,Wetterereignisse,#e81818,#e51515,2,0.1423584308421906
-'Landwirtschaft',de,Landwirtschaft,#18e818,#15e515,3,0.13802063621096594
+'Landwirtschaft',de,Landwirtschaft,#18e818,#15e515,3,0.1380206362109659
 'Energiekosten',de,Energie,#1818e8,#1515e5,3,0.1354421638330291
 'Wohnungslose',de,Stadt,#ffff00,#ffff99,1,0.131294528210591
 'Tempolimit',de,Energie,#1818e8,#1515e5,3,0.1302006545897104
@@ -20,6 +20,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wärmepumpe',de,Energie,#1818e8,#1515e5,3,0.1094822840686917
 'Bewässerung',de,Landwirtschaft,#15e815,#15e515,3,0.1066590723119814
 'Kältebus',de,Stadt,#ffff00,#ffff99,1,0.0999099773251134
-'Ackerbau',de,Landwirtschaft,#18e818,#15e515,1,0.0590210469778345
+'Ackerbau',de,Landwirtschaft,#18e818,#15e515,2,0.06966833993115933
 'Wärmebus',de,Stadt,#ffff00,#ffff99,1,0.0371517598875754
 'Folientunnel',de,Landwirtschaft,#18e818,#15e515,1,0.0085187254814345
