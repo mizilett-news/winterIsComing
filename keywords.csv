@@ -16,8 +16,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiekosten',de,Energie,#1818e8,#1515e5,3,0.1339940392580747
 'Wohnungslose',de,Stadt,#ffff00,#ffff99,1,0.131294528210591
 'Rohrbruch',de,Energie,#1818e8,#1515e5,2,0.1288129673270774
-'Tempolimit',de,Energie,#1818e8,#1515e5,3,0.12016760094670836
-'Wärmepumpe',de,Energie,#1818e8,#1515e5,3,0.1094822840686917
+'Wärmepumpe',de,Energie,#1818e8,#1515e5,3,0.12130101145838794
+'Tempolimit',de,Energie,#1818e8,#1515e5,3,0.1201676009467083
 'Bewässerung',de,Landwirtschaft,#15e815,#15e515,3,0.1066590723119814
 'Kältebus',de,Stadt,#ffff00,#ffff99,1,0.0999099773251134
 'Ackerbau',de,Landwirtschaft,#18e818,#15e515,2,0.0696683399311593
