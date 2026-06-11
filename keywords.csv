@@ -1,9 +1,9 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Kälte',de,Wetterereignisse,#e81818,#e51515,3,0.1670130310593854
 'Dürre',de,Wetterereignisse,#e81818,#e51515,3,0.1603472667200944
 'Heizung',de,Energie,#1818e8,#1515e5,3,0.1569035055584997
 'Wein',de,Landwirtschaft,#18e818,#15e515,3,0.1522331474481623
 'Not',de,Stadt,#ffff00,#ffff99,3,0.1472142420691259
+'Kälte',de,Wetterereignisse,#e81818,#e51515,3,0.1469165064004776
 'Gas',de,Energie,#1818e8,#1515e5,3,0.1452969868894425
 'ÖPNV',de,Stadt,#ffff00,#ffff99,3,0.1445929340316473
 'Notunterkunft',de,Stadt,#ffff00,#ffff99,2,0.1424387396130211
@@ -17,7 +17,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Rohrbruch',de,Energie,#1818e8,#1515e5,2,0.1288129673270774
 'Tempolimit',de,Energie,#1818e8,#1515e5,3,0.1201676009467083
 'Pendlerpauschale',de,Energie,#1818e8,#1515e5,3,0.1099527696367091
-'Wärmepumpe',de,Energie,#1818e8,#1515e5,3,0.10805891973962971
+'Wärmepumpe',de,Energie,#1818e8,#1515e5,3,0.1080589197396297
 'Kältebus',de,Stadt,#ffff00,#ffff99,1,0.0999099773251134
 'Bewässerung',de,Landwirtschaft,#15e815,#15e515,2,0.0907984814449592
 'Ackerbau',de,Landwirtschaft,#18e818,#15e515,1,0.0592184939414854
