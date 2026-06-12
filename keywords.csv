@@ -2,11 +2,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Dürre',de,Wetterereignisse,#e81818,#e51515,3,0.1603472667200944
 'Wein',de,Landwirtschaft,#18e818,#15e515,3,0.1522331474481623
 'Kälte',de,Wetterereignisse,#e81818,#e51515,3,0.1469165064004776
-'Not',de,Stadt,#ffff00,#ffff99,3,0.14533880866767068
+'Not',de,Stadt,#ffff00,#ffff99,3,0.1453388086676706
 'Gas',de,Energie,#1818e8,#1515e5,3,0.1452969868894425
 'ÖPNV',de,Stadt,#ffff00,#ffff99,3,0.1445929340316473
 'Notunterkunft',de,Stadt,#ffff00,#ffff99,2,0.1424387396130211
 'Tau',de,Wetterereignisse,#e81818,#e51515,2,0.1423584308421906
+'Tempolimit',de,Energie,#1818e8,#1515e5,3,0.13975665580470203
 'Landwirtschaft',de,Landwirtschaft,#18e818,#15e515,3,0.1380206362109659
 'Wind',de,Wetterereignisse,#e81818,#e51515,3,0.1375847519837002
 'Heizung',de,Energie,#1818e8,#1515e5,3,0.1374229897247247
@@ -15,7 +16,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiekosten',de,Energie,#1818e8,#1515e5,3,0.1339940392580747
 'Wohnungslose',de,Stadt,#ffff00,#ffff99,1,0.131294528210591
 'Rohrbruch',de,Energie,#1818e8,#1515e5,2,0.1288129673270774
-'Tempolimit',de,Energie,#1818e8,#1515e5,3,0.1201676009467083
 'Pendlerpauschale',de,Energie,#1818e8,#1515e5,3,0.1099527696367091
 'Wärmepumpe',de,Energie,#1818e8,#1515e5,3,0.1080589197396297
 'Kältebus',de,Stadt,#ffff00,#ffff99,1,0.0999099773251134
