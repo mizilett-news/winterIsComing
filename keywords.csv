@@ -19,7 +19,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Pendlerpauschale',de,Energie,#1818e8,#1515e5,3,0.1099527696367091
 'Wärmepumpe',de,Energie,#1818e8,#1515e5,3,0.1080589197396297
 'Kältebus',de,Stadt,#ffff00,#ffff99,1,0.0999099773251134
-'Bewässerung',de,Landwirtschaft,#15e815,#15e515,2,0.0907984814449592
+'Bewässerung',de,Landwirtschaft,#15e815,#15e515,3,0.08212972922821532
 'Ackerbau',de,Landwirtschaft,#18e818,#15e515,1,0.0592184939414854
-'Wärmebus',de,Stadt,#ffff00,#ffff99,1,0.022815824540957135
+'Wärmebus',de,Stadt,#ffff00,#ffff99,1,0.0228158245409571
 'Folientunnel',de,Landwirtschaft,#18e818,#15e515,1,0.0067098346603364
