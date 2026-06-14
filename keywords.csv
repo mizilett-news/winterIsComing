@@ -15,11 +15,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wind',de,Wetterereignisse,#e81818,#e51515,3,0.1310105382770542
 'Rohrbruch',de,Energie,#1818e8,#1515e5,2,0.1288129673270774
 'Tempolimit',de,Energie,#1818e8,#1515e5,3,0.1282823374339967
-'Landwirtschaft',de,Landwirtschaft,#18e818,#15e515,3,0.12682423032477558
+'Landwirtschaft',de,Landwirtschaft,#18e818,#15e515,3,0.1268242303247755
 'Pendlerpauschale',de,Energie,#1818e8,#1515e5,3,0.1099527696367091
 'Wärmepumpe',de,Energie,#1818e8,#1515e5,3,0.1080589197396297
 'Kältebus',de,Stadt,#ffff00,#ffff99,1,0.0999099773251134
 'Bewässerung',de,Landwirtschaft,#15e815,#15e515,3,0.0821297292282153
-'Ackerbau',de,Landwirtschaft,#18e818,#15e515,1,0.0592184939414854
+'Ackerbau',de,Landwirtschaft,#18e818,#15e515,2,0.06682954311113215
 'Wärmebus',de,Stadt,#ffff00,#ffff99,1,0.0228158245409571
 'Folientunnel',de,Landwirtschaft,#18e818,#15e515,1,0.0067098346603364
