@@ -1,5 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas',de,Energie,#1818e8,#1515e5,3,0.2860043447000705
+'Kältebus',de,Stadt,#ffff00,#ffff99,2,0.2350734957263464
 'Wein',de,Landwirtschaft,#18e818,#15e515,3,0.1713894158134371
 'Not',de,Stadt,#ffff00,#ffff99,3,0.1416771107980332
 'Rohrbruch',de,Energie,#1818e8,#1515e5,2,0.1394364037753923
@@ -14,11 +15,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wärmepumpe',de,Energie,#1818e8,#1515e5,3,0.128621818596867
 'ÖPNV',de,Stadt,#ffff00,#ffff99,3,0.1278575189269002
 'Notunterkunft',de,Stadt,#ffff00,#ffff99,2,0.1255101553704077
-'Landwirtschaft',de,Landwirtschaft,#18e818,#15e515,3,0.12185303986696824
+'Landwirtschaft',de,Landwirtschaft,#18e818,#15e515,3,0.1218530398669682
 'Schnee',de,Wetterereignisse,#e81818,#e51515,3,0.1199550529371356
 'Tempolimit',de,Energie,#1818e8,#1515e5,3,0.11859880967604
 'Pendlerpauschale',de,Energie,#1818e8,#1515e5,3,0.1099527696367091
-'Kältebus',de,Stadt,#ffff00,#ffff99,1,0.0999099773251134
 'Bewässerung',de,Landwirtschaft,#15e815,#15e515,3,0.0793068493894375
 'Ackerbau',de,Landwirtschaft,#18e818,#15e515,2,0.0599554266444622
 'Wärmebus',de,Stadt,#ffff00,#ffff99,1,0.0164844332308414
