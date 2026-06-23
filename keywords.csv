@@ -1,8 +1,8 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Kältebus',de,Stadt,#ffff00,#ffff99,2,0.2350734957263464
+'Kältebus',de,Stadt,#ffff00,#ffff99,2,0.32571256136739446
 'Gas',de,Energie,#1818e8,#1515e5,3,0.2196938774094373
 'Wein',de,Landwirtschaft,#18e818,#15e515,3,0.1713894158134371
-'Not',de,Stadt,#ffff00,#ffff99,3,0.14974805723339715
+'Not',de,Stadt,#ffff00,#ffff99,3,0.1497480572333971
 'Rohrbruch',de,Energie,#1818e8,#1515e5,2,0.1394364037753923
 'Wohnungslose',de,Stadt,#ffff00,#ffff99,2,0.1378734562012245
 'Heizung',de,Energie,#1818e8,#1515e5,3,0.1374229897247247
