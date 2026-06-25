@@ -1,8 +1,8 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kältebus',de,Stadt,#ffff00,#ffff99,2,0.3257125613673944
-'Gas',de,Energie,#1818e8,#1515e5,3,0.2196938774094373
+'Gas',de,Energie,#1818e8,#1515e5,3,0.19625335534347624
 'Wein',de,Landwirtschaft,#18e818,#15e515,3,0.1713894158134371
-'Wärmepumpe',de,Energie,#1818e8,#1515e5,3,0.15539294393623637
+'Wärmepumpe',de,Energie,#1818e8,#1515e5,3,0.1553929439362363
 'Wind',de,Wetterereignisse,#e81818,#e51515,3,0.1481497293536778
 'Rohrbruch',de,Energie,#1818e8,#1515e5,2,0.1394364037753923
 'Wohnungslose',de,Stadt,#ffff00,#ffff99,2,0.1378734562012245
