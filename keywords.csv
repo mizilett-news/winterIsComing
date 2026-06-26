@@ -5,7 +5,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wärmepumpe',de,Energie,#1818e8,#1515e5,3,0.1553929439362363
 'Wind',de,Wetterereignisse,#e81818,#e51515,3,0.1481497293536778
 'Rohrbruch',de,Energie,#1818e8,#1515e5,2,0.1394364037753923
-'Wohnungslose',de,Stadt,#ffff00,#ffff99,2,0.1378734562012245
+'Wohnungslose',de,Stadt,#ffff00,#ffff99,2,0.1374649463424694
 'Heizung',de,Energie,#1818e8,#1515e5,3,0.1374229897247247
 'Not',de,Stadt,#ffff00,#ffff99,3,0.136807643193842
 'E-Auto',de,Stadt,#ffff00,#ffff99,3,0.1358584057736142
