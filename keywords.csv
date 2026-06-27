@@ -4,12 +4,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas',de,Energie,#1818e8,#1515e5,3,0.1691661804174797
 'Wärmepumpe',de,Energie,#1818e8,#1515e5,3,0.1553929439362363
 'Wind',de,Wetterereignisse,#e81818,#e51515,3,0.1481497293536778
+'E-Auto',de,Stadt,#ffff00,#ffff99,3,0.14771953218029932
 'Rohrbruch',de,Energie,#1818e8,#1515e5,2,0.1394364037753923
-'Dürre',de,Wetterereignisse,#e81818,#e51515,3,0.13778343898356882
+'Dürre',de,Wetterereignisse,#e81818,#e51515,3,0.1377834389835688
 'Wohnungslose',de,Stadt,#ffff00,#ffff99,2,0.1374649463424694
 'Heizung',de,Energie,#1818e8,#1515e5,3,0.1374229897247247
 'Not',de,Stadt,#ffff00,#ffff99,3,0.136807643193842
-'E-Auto',de,Stadt,#ffff00,#ffff99,3,0.1358584057736142
 'Energiekosten',de,Energie,#1818e8,#1515e5,3,0.1339940392580747
 'Tau',de,Wetterereignisse,#e81818,#e51515,2,0.1323789456276267
 'ÖPNV',de,Stadt,#ffff00,#ffff99,3,0.1278575189269002
