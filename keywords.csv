@@ -14,10 +14,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Tau',de,Wetterereignisse,#e81818,#e51515,2,0.1323789456276267
 'ÖPNV',de,Stadt,#ffff00,#ffff99,3,0.1278575189269002
 'Notunterkunft',de,Stadt,#ffff00,#ffff99,2,0.1255101553704077
-'Tempolimit',de,Energie,#1818e8,#1515e5,3,0.1252735482409388
 'Kälte',de,Wetterereignisse,#e81818,#e51515,3,0.1223927803511478
 'Schnee',de,Wetterereignisse,#e81818,#e51515,3,0.1199550529371356
-'Landwirtschaft',de,Landwirtschaft,#18e818,#15e515,3,0.11308216343237751
+'Tempolimit',de,Energie,#1818e8,#1515e5,3,0.11597944055025253
+'Landwirtschaft',de,Landwirtschaft,#18e818,#15e515,3,0.1130821634323775
 'Pendlerpauschale',de,Energie,#1818e8,#1515e5,3,0.0962471398125223
 'Bewässerung',de,Landwirtschaft,#15e815,#15e515,3,0.0769078815264764
 'Ackerbau',de,Landwirtschaft,#18e818,#15e515,1,0.0458683507506238
