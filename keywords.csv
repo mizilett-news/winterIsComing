@@ -7,7 +7,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'E-Auto',de,Stadt,#ffff00,#ffff99,3,0.1477195321802993
 'Rohrbruch',de,Energie,#1818e8,#1515e5,2,0.1394364037753923
 'Dürre',de,Wetterereignisse,#e81818,#e51515,3,0.1377834389835688
-'Wohnungslose',de,Stadt,#ffff00,#ffff99,2,0.1374649463424694
 'Heizung',de,Energie,#1818e8,#1515e5,3,0.1374229897247247
 'Not',de,Stadt,#ffff00,#ffff99,3,0.136807643193842
 'Energiekosten',de,Energie,#1818e8,#1515e5,3,0.1339940392580747
@@ -15,8 +14,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'ÖPNV',de,Stadt,#ffff00,#ffff99,3,0.1278575189269002
 'Notunterkunft',de,Stadt,#ffff00,#ffff99,2,0.1255101553704077
 'Kälte',de,Wetterereignisse,#e81818,#e51515,3,0.1223927803511478
+'Wohnungslose',de,Stadt,#ffff00,#ffff99,3,0.12089646439109898
 'Schnee',de,Wetterereignisse,#e81818,#e51515,3,0.1199550529371356
-'Tempolimit',de,Energie,#1818e8,#1515e5,3,0.11597944055025253
+'Tempolimit',de,Energie,#1818e8,#1515e5,3,0.1159794405502525
 'Landwirtschaft',de,Landwirtschaft,#18e818,#15e515,3,0.1130821634323775
 'Pendlerpauschale',de,Energie,#1818e8,#1515e5,3,0.0962471398125223
 'Bewässerung',de,Landwirtschaft,#15e815,#15e515,3,0.0769078815264764
