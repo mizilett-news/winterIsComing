@@ -11,12 +11,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Not',de,Stadt,#ffff00,#ffff99,3,0.136807643193842
 'Energiekosten',de,Energie,#1818e8,#1515e5,3,0.1339940392580747
 'ÖPNV',de,Stadt,#ffff00,#ffff99,3,0.1278575189269002
+'Landwirtschaft',de,Landwirtschaft,#18e818,#15e515,3,0.12563138891752085
 'Kälte',de,Wetterereignisse,#e81818,#e51515,3,0.1223927803511478
 'Wohnungslose',de,Stadt,#ffff00,#ffff99,3,0.1208964643910989
 'Schnee',de,Wetterereignisse,#e81818,#e51515,3,0.1199550529371356
 'Tau',de,Wetterereignisse,#e81818,#e51515,2,0.1137227187834827
-'Landwirtschaft',de,Landwirtschaft,#18e818,#15e515,3,0.1130821634323775
-'Kältebus',de,Stadt,#ffff00,#ffff99,1,0.10877641352645033
+'Kältebus',de,Stadt,#ffff00,#ffff99,1,0.1087764135264503
 'Bewässerung',de,Landwirtschaft,#15e815,#15e515,3,0.0976815448574246
 'Tempolimit',de,Energie,#1818e8,#1515e5,3,0.0861195033710156
 'Pendlerpauschale',de,Energie,#1818e8,#1515e5,2,0.0737473905145473
