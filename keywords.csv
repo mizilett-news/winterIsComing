@@ -12,7 +12,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'ÖPNV',de,Stadt,#ffff00,#ffff99,3,0.1278575189269002
 'Landwirtschaft',de,Landwirtschaft,#18e818,#15e515,3,0.1256313889175208
 'Kälte',de,Wetterereignisse,#e81818,#e51515,3,0.1223927803511478
-'Wohnungslose',de,Stadt,#ffff00,#ffff99,3,0.12226313473243407
+'Wohnungslose',de,Stadt,#ffff00,#ffff99,3,0.122263134732434
 'Wärmepumpe',de,Energie,#1818e8,#1515e5,3,0.121410781147493
 'Schnee',de,Wetterereignisse,#e81818,#e51515,3,0.1199550529371356
 'Tau',de,Wetterereignisse,#e81818,#e51515,2,0.1137227187834827
@@ -22,4 +22,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Pendlerpauschale',de,Energie,#1818e8,#1515e5,2,0.0641859419373652
 'Ackerbau',de,Landwirtschaft,#18e818,#15e515,1,0.0458683507506238
 'Wärmebus',de,Stadt,#ffff00,#ffff99,1,0.0086049771742067
-'Folientunnel',de,Landwirtschaft,#18e818,#15e515,1,0.0048689826742987
+'Folientunnel',de,Landwirtschaft,#18e818,#15e515,1,0.004738695273153896
