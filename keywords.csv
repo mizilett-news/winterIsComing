@@ -1,9 +1,9 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wein',de,Landwirtschaft,#18e818,#15e515,3,0.1802336296482671
+'E-Auto',de,Stadt,#ffff00,#ffff99,3,0.15733302009113526
 'Gas',de,Energie,#1818e8,#1515e5,3,0.1561912910629609
 'Wind',de,Wetterereignisse,#e81818,#e51515,3,0.1481497293536778
-'Schnee',de,Wetterereignisse,#e81818,#e51515,3,0.14426573999656525
-'E-Auto',de,Stadt,#ffff00,#ffff99,3,0.141822650909357
+'Schnee',de,Wetterereignisse,#e81818,#e51515,3,0.1442657399965652
 'Rohrbruch',de,Energie,#1818e8,#1515e5,2,0.1394364037753923
 'Notunterkunft',de,Stadt,#ffff00,#ffff99,2,0.1389070343375738
 'Dürre',de,Wetterereignisse,#e81818,#e51515,3,0.1377834389835688
