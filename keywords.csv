@@ -11,11 +11,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizung',de,Energie,#1818e8,#1515e5,3,0.1374229897247247
 'Energiekosten',de,Energie,#1818e8,#1515e5,3,0.1339940392580747
 'ÖPNV',de,Stadt,#ffff00,#ffff99,3,0.1278575189269002
+'Tau',de,Wetterereignisse,#e81818,#e51515,2,0.1274148809659603
 'Landwirtschaft',de,Landwirtschaft,#18e818,#15e515,3,0.1256313889175208
 'Kälte',de,Wetterereignisse,#e81818,#e51515,3,0.1223927803511478
 'Wohnungslose',de,Stadt,#ffff00,#ffff99,3,0.122263134732434
 'Wärmepumpe',de,Energie,#1818e8,#1515e5,3,0.121410781147493
-'Tau',de,Wetterereignisse,#e81818,#e51515,2,0.1137227187834827
 'Kältebus',de,Stadt,#ffff00,#ffff99,1,0.1087764135264503
 'Bewässerung',de,Landwirtschaft,#15e815,#15e515,3,0.106163291310629
 'Tempolimit',de,Energie,#1818e8,#1515e5,3,0.083321109683545
