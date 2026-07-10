@@ -19,7 +19,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kältebus',de,Stadt,#ffff00,#ffff99,1,0.1087764135264503
 'Bewässerung',de,Landwirtschaft,#15e815,#15e515,3,0.106163291310629
 'Tempolimit',de,Energie,#1818e8,#1515e5,3,0.0757743532310132
-'Pendlerpauschale',de,Energie,#1818e8,#1515e5,2,0.0641859419373652
+'Pendlerpauschale',de,Energie,#1818e8,#1515e5,2,0.05560865064676041
 'Ackerbau',de,Landwirtschaft,#18e818,#15e515,1,0.0458683507506238
 'Wärmebus',de,Stadt,#ffff00,#ffff99,1,0.0086049771742067
 'Folientunnel',de,Landwirtschaft,#18e818,#15e515,1,0.0046279509821807
