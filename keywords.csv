@@ -11,7 +11,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Notunterkunft',de,Stadt,#ffff00,#ffff99,2,0.1389070343375738
 'E-Auto',de,Stadt,#ffff00,#ffff99,3,0.1386988620774649
 'Heizung',de,Energie,#1818e8,#1515e5,3,0.1374229897247247
-'Wärmepumpe',de,Energie,#1818e8,#1515e5,3,0.13653888718157145
+'Wärmepumpe',de,Energie,#1818e8,#1515e5,3,0.13592943548364603
 'Energiekosten',de,Energie,#1818e8,#1515e5,3,0.1339940392580747
 'Tau',de,Wetterereignisse,#e81818,#e51515,2,0.1274148809659603
 'Wohnungslose',de,Stadt,#ffff00,#ffff99,3,0.122263134732434
