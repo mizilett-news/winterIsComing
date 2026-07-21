@@ -13,11 +13,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kälte',de,Wetterereignisse,#e81818,#e51515,3,0.1349187309091017
 'Energiekosten',de,Energie,#1818e8,#1515e5,3,0.1339940392580747
 'E-Auto',de,Stadt,#ffff00,#ffff99,3,0.1305716986192968
-'Gas',de,Energie,#1818e8,#1515e5,3,0.12798331260051082
+'Gas',de,Energie,#1818e8,#1515e5,3,0.1279833126005108
 'Tau',de,Wetterereignisse,#e81818,#e51515,2,0.1274148809659603
 'Rohrbruch',de,Energie,#1818e8,#1515e5,1,0.1266430064777209
-'Kältebus',de,Stadt,#ffff00,#ffff99,1,0.1087764135264503
 'Bewässerung',de,Landwirtschaft,#15e815,#15e515,3,0.106163291310629
+'Kältebus',de,Stadt,#ffff00,#ffff99,1,0.09366007149748275
 'Tempolimit',de,Energie,#1818e8,#1515e5,3,0.0796660683912252
 'Pendlerpauschale',de,Energie,#1818e8,#1515e5,2,0.0502676680497463
 'Ackerbau',de,Landwirtschaft,#18e818,#15e515,1,0.0458683507506238
