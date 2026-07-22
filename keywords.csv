@@ -9,11 +9,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Notunterkunft',de,Stadt,#ffff00,#ffff99,2,0.1389070343375738
 'Heizung',de,Energie,#1818e8,#1515e5,3,0.1374229897247247
 'Wärmepumpe',de,Energie,#1818e8,#1515e5,3,0.135929435483646
-'Kälte',de,Wetterereignisse,#e81818,#e51515,3,0.1349187309091017
 'Energiekosten',de,Energie,#1818e8,#1515e5,3,0.1339940392580747
 'E-Auto',de,Stadt,#ffff00,#ffff99,3,0.1305716986192968
+'Kälte',de,Wetterereignisse,#e81818,#e51515,3,0.12872690036364554
 'Gas',de,Energie,#1818e8,#1515e5,3,0.1279833126005108
-'Rohrbruch',de,Energie,#1818e8,#1515e5,1,0.12759667550606274
+'Rohrbruch',de,Energie,#1818e8,#1515e5,1,0.1275966755060627
 'Tau',de,Wetterereignisse,#e81818,#e51515,2,0.1274148809659603
 'Dürre',de,Wetterereignisse,#e81818,#e51515,3,0.1267665783144201
 'Bewässerung',de,Landwirtschaft,#15e815,#15e515,3,0.106163291310629
