@@ -4,7 +4,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wind',de,Wetterereignisse,#e81818,#e51515,3,0.1596497008149054
 'ÖPNV',de,Stadt,#ffff00,#ffff99,3,0.1510118552474032
 'Schnee',de,Wetterereignisse,#e81818,#e51515,3,0.1442657399965652
-'Dürre',de,Wetterereignisse,#e81818,#e51515,3,0.1434869333110825
 'Wohnungslose',de,Stadt,#ffff00,#ffff99,3,0.1399577628559022
 'Not',de,Stadt,#ffff00,#ffff99,3,0.1394429148965838
 'Notunterkunft',de,Stadt,#ffff00,#ffff99,2,0.1389070343375738
@@ -15,6 +14,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'E-Auto',de,Stadt,#ffff00,#ffff99,3,0.1305716986192968
 'Gas',de,Energie,#1818e8,#1515e5,3,0.1279833126005108
 'Tau',de,Wetterereignisse,#e81818,#e51515,2,0.1274148809659603
+'Dürre',de,Wetterereignisse,#e81818,#e51515,3,0.12676657831442012
 'Rohrbruch',de,Energie,#1818e8,#1515e5,1,0.1266430064777209
 'Bewässerung',de,Landwirtschaft,#15e815,#15e515,3,0.106163291310629
 'Kältebus',de,Stadt,#ffff00,#ffff99,1,0.0936600714974827
