@@ -1,8 +1,8 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Notunterkunft',de,Stadt,#ffff00,#ffff99,3,0.2057899452276878
+'Heizung',de,Energie,#1818e8,#1515e5,3,0.16219300972893483
 'E-Auto',de,Stadt,#ffff00,#ffff99,3,0.1564897444904628
-'Wind',de,Wetterereignisse,#e81818,#e51515,3,0.14381457024665031
-'Heizung',de,Energie,#1818e8,#1515e5,3,0.1315099638522228
+'Wind',de,Wetterereignisse,#e81818,#e51515,3,0.1438145702466503
 'Not',de,Stadt,#ffff00,#ffff99,3,0.1306279519445999
 'Energiekosten',de,Energie,#1818e8,#1515e5,3,0.1288135240836492
 'Gas',de,Energie,#1818e8,#1515e5,3,0.1279833126005108
