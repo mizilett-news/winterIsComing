@@ -16,8 +16,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Tau',de,Wetterereignisse,#e81818,#e51515,2,0.120534412316088
 'Dürre',de,Wetterereignisse,#e81818,#e51515,3,0.1200703051503503
 'Wohnungslose',de,Stadt,#ffff00,#ffff99,1,0.1185300363031691
-'Wärmepumpe',de,Energie,#1818e8,#1515e5,3,0.1069917511369342
 'Bewässerung',de,Landwirtschaft,#15e815,#15e515,3,0.106163291310629
+'Wärmepumpe',de,Energie,#1818e8,#1515e5,3,0.10044210301184861
 'Kältebus',de,Stadt,#ffff00,#ffff99,1,0.0936600714974827
 'Ackerbau',de,Landwirtschaft,#18e818,#15e515,2,0.0685253996597693
 'Pendlerpauschale',de,Energie,#1818e8,#1515e5,2,0.033131808359289
