@@ -1,9 +1,9 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Dürre',de,Wetterereignisse,#e81818,#e51515,3,0.3278817932042784
+'E-Auto',de,Stadt,#ffff00,#ffff99,3,0.1803201606153704
 'Notunterkunft',de,Stadt,#ffff00,#ffff99,2,0.143722318261168
 'Rohrbruch',de,Energie,#1818e8,#1515e5,1,0.1420580504883866
 'Not',de,Stadt,#ffff00,#ffff99,3,0.1413630421751459
-'E-Auto',de,Stadt,#ffff00,#ffff99,3,0.1339838118801518
 'ÖPNV',de,Stadt,#ffff00,#ffff99,3,0.1295680203077095
 'Wohnungslose',de,Stadt,#ffff00,#ffff99,2,0.1284283735849664
 'Energiekosten',de,Energie,#1818e8,#1515e5,3,0.1280817891074654
