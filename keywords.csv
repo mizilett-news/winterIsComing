@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Dürre',de,Wetterereignisse,#e81818,#e51515,3,0.3278817932042784
-'Rohrbruch',de,Energie,#1818e8,#1515e5,1,0.1477151770451607
 'Notunterkunft',de,Stadt,#ffff00,#ffff99,2,0.143722318261168
+'Rohrbruch',de,Energie,#1818e8,#1515e5,1,0.1420580504883866
 'Not',de,Stadt,#ffff00,#ffff99,3,0.1413630421751459
 'E-Auto',de,Stadt,#ffff00,#ffff99,3,0.1339838118801518
 'ÖPNV',de,Stadt,#ffff00,#ffff99,3,0.1295680203077095
@@ -13,7 +13,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schnee',de,Wetterereignisse,#e81818,#e51515,3,0.1260741465617735
 'Kälte',de,Wetterereignisse,#e81818,#e51515,3,0.1246061013142327
 'Wind',de,Wetterereignisse,#e81818,#e51515,3,0.1196329315678835
-'Heizung',de,Energie,#1818e8,#1515e5,3,0.11896310687918248
+'Heizung',de,Energie,#1818e8,#1515e5,3,0.1189631068791824
 'Tau',de,Wetterereignisse,#e81818,#e51515,2,0.1148983572965719
 'Wärmepumpe',de,Energie,#1818e8,#1515e5,3,0.1108668570058401
 'Bewässerung',de,Landwirtschaft,#15e815,#15e515,3,0.106163291310629
