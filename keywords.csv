@@ -2,10 +2,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Dürre',de,Wetterereignisse,#e81818,#e51515,3,0.2138303596845104
 'Kältebus',de,Stadt,#ffff00,#ffff99,2,0.1656446641061936
 'Gas',de,Energie,#1818e8,#1515e5,3,0.1623358464973795
-'E-Auto',de,Stadt,#ffff00,#ffff99,3,0.144915726020068
 'Not',de,Stadt,#ffff00,#ffff99,3,0.1326367910530521
 'Notunterkunft',de,Stadt,#ffff00,#ffff99,3,0.1316607600674473
 'Landwirtschaft',de,Landwirtschaft,#18e818,#15e515,3,0.1286994234782496
+'E-Auto',de,Stadt,#ffff00,#ffff99,3,0.12814375711705778
 'Energiekosten',de,Energie,#1818e8,#1515e5,3,0.1277357257413456
 'Wein',de,Landwirtschaft,#18e818,#15e515,3,0.1270554497688669
 'Kälte',de,Wetterereignisse,#e81818,#e51515,3,0.1246061013142327
