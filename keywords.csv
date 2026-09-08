@@ -1,9 +1,9 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Gas',de,Energie,#1818e8,#1515e5,3,0.21897739234435662
+'Gas',de,Energie,#1818e8,#1515e5,3,0.2189773923443566
 'Dürre',de,Wetterereignisse,#e81818,#e51515,3,0.156056987969869
+'Not',de,Stadt,#ffff00,#ffff99,3,0.14320748396764826
 'Kältebus',de,Stadt,#ffff00,#ffff99,1,0.1407982344902645
 'E-Auto',de,Stadt,#ffff00,#ffff99,3,0.1373508462670741
-'Not',de,Stadt,#ffff00,#ffff99,3,0.1358935955769124
 'Notunterkunft',de,Stadt,#ffff00,#ffff99,3,0.1316607600674473
 'Wärmepumpe',de,Energie,#1818e8,#1515e5,3,0.1305824905978212
 'Wohnungslose',de,Stadt,#ffff00,#ffff99,3,0.1296467439213838
