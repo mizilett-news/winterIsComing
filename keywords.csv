@@ -5,7 +5,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Dürre',de,Wetterereignisse,#e81818,#e51515,3,0.1376127797743886
 'E-Auto',de,Stadt,#ffff00,#ffff99,3,0.1373508462670741
 'Notunterkunft',de,Stadt,#ffff00,#ffff99,3,0.1316607600674473
-'Wärmepumpe',de,Energie,#1818e8,#1515e5,3,0.1305824905978212
 'Wohnungslose',de,Stadt,#ffff00,#ffff99,3,0.1296467439213838
 'Landwirtschaft',de,Landwirtschaft,#18e818,#15e515,3,0.1286994234782496
 'Energiekosten',de,Energie,#1818e8,#1515e5,3,0.1277357257413456
@@ -14,6 +13,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizung',de,Energie,#1818e8,#1515e5,3,0.1242550340291232
 'ÖPNV',de,Stadt,#ffff00,#ffff99,3,0.12277358817232
 'Rohrbruch',de,Energie,#1818e8,#1515e5,1,0.1220994779151286
+'Wärmepumpe',de,Energie,#1818e8,#1515e5,3,0.12049789200814802
 'Wind',de,Wetterereignisse,#e81818,#e51515,3,0.1196329315678835
 'Schnee',de,Wetterereignisse,#e81818,#e51515,3,0.116663264122962
 'Tau',de,Wetterereignisse,#e81818,#e51515,2,0.1148983572965719
