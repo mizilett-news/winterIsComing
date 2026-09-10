@@ -18,8 +18,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schnee',de,Wetterereignisse,#e81818,#e51515,3,0.116663264122962
 'Tau',de,Wetterereignisse,#e81818,#e51515,2,0.1148983572965719
 'Bewässerung',de,Landwirtschaft,#15e815,#15e515,3,0.106163291310629
+'Tempolimit',de,Energie,#1818e8,#1515e5,3,0.09794556419580594
 'Ackerbau',de,Landwirtschaft,#18e818,#15e515,2,0.0858517160231986
-'Tempolimit',de,Energie,#1818e8,#1515e5,3,0.0826671840806273
 'Pendlerpauschale',de,Energie,#1818e8,#1515e5,1,0.0141557460867764
 'Wärmebus',de,Stadt,#ffff00,#ffff99,1,0.0016940997555372
 'Folientunnel',de,Landwirtschaft,#18e818,#15e515,1,0.0013315857761712
