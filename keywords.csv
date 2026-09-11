@@ -5,7 +5,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Dürre',de,Wetterereignisse,#e81818,#e51515,3,0.1376127797743886
 'Notunterkunft',de,Stadt,#ffff00,#ffff99,3,0.1316607600674473
 'Wohnungslose',de,Stadt,#ffff00,#ffff99,3,0.1296467439213838
-'E-Auto',de,Stadt,#ffff00,#ffff99,3,0.12915587508118684
+'E-Auto',de,Stadt,#ffff00,#ffff99,3,0.1291558750811868
 'Energiekosten',de,Energie,#1818e8,#1515e5,3,0.1277357257413456
 'Wein',de,Landwirtschaft,#18e818,#15e515,3,0.1270554497688669
 'Not',de,Stadt,#ffff00,#ffff99,3,0.1269571731393592
@@ -22,4 +22,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ackerbau',de,Landwirtschaft,#18e818,#15e515,2,0.0858517160231986
 'Pendlerpauschale',de,Energie,#1818e8,#1515e5,1,0.0141557460867764
 'Wärmebus',de,Stadt,#ffff00,#ffff99,1,0.0016940997555372
-'Folientunnel',de,Landwirtschaft,#18e818,#15e515,1,0.0011318479097455
+'Folientunnel',de,Landwirtschaft,#18e818,#15e515,1,0.0009620707232836749
