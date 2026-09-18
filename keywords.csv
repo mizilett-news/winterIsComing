@@ -7,7 +7,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiekosten',de,Energie,#1818e8,#1515e5,3,0.1277357257413456
 'Wein',de,Landwirtschaft,#18e818,#15e515,3,0.1270554497688669
 'Not',de,Stadt,#ffff00,#ffff99,3,0.1269571731393592
-'Wärmepumpe',de,Energie,#1818e8,#1515e5,3,0.12668625420791296
+'Wärmepumpe',de,Energie,#1818e8,#1515e5,3,0.1266862542079129
 'Dürre',de,Wetterereignisse,#e81818,#e51515,3,0.1264783623536848
 'Kälte',de,Wetterereignisse,#e81818,#e51515,3,0.1246061013142327
 'Heizung',de,Energie,#1818e8,#1515e5,3,0.1242550340291232
@@ -21,5 +21,5 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Tempolimit',de,Energie,#1818e8,#1515e5,3,0.086405034566435
 'Ackerbau',de,Landwirtschaft,#18e818,#15e515,2,0.0794641746124752
 'Pendlerpauschale',de,Energie,#1818e8,#1515e5,1,0.0141557460867764
-'Wärmebus',de,Stadt,#ffff00,#ffff99,1,0.0016940997555372
+'Wärmebus',de,Stadt,#ffff00,#ffff99,1,0.00143998479220662
 'Folientunnel',de,Landwirtschaft,#18e818,#15e515,1,0.0006950960975723
