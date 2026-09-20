@@ -15,11 +15,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kältebus',de,Stadt,#ffff00,#ffff99,1,0.1208786193167248
 'Notunterkunft',de,Stadt,#ffff00,#ffff99,3,0.1203851930197349
 'Tau',de,Wetterereignisse,#e81818,#e51515,2,0.1162506573384497
-'Wärmepumpe',de,Energie,#1818e8,#1515e5,3,0.1121862710767259
+'Wärmepumpe',de,Energie,#1818e8,#1515e5,3,0.11394757405158064
 'Wind',de,Wetterereignisse,#e81818,#e51515,3,0.1066595168327009
 'Rohrbruch',de,Energie,#1818e8,#1515e5,1,0.1037421502936804
 'Tempolimit',de,Energie,#1818e8,#1515e5,3,0.086405034566435
 'Ackerbau',de,Landwirtschaft,#18e818,#15e515,2,0.0794641746124752
 'Pendlerpauschale',de,Energie,#1818e8,#1515e5,1,0.0306721578579704
-'Wärmebus',de,Stadt,#ffff00,#ffff99,1,0.00104038901236926
+'Wärmebus',de,Stadt,#ffff00,#ffff99,1,0.0010403890123692
 'Folientunnel',de,Landwirtschaft,#18e818,#15e515,1,0.0006950960975723
