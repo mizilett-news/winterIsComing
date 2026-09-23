@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Gas',de,Energie,#1818e8,#1515e5,3,0.23233001697830702
+'Gas',de,Energie,#1818e8,#1515e5,3,0.232330016978307
 'Landwirtschaft',de,Landwirtschaft,#18e818,#15e515,3,0.1767785377507929
 'E-Auto',de,Stadt,#ffff00,#ffff99,3,0.1647481538190087
 'Schnee',de,Wetterereignisse,#e81818,#e51515,3,0.1552087012483465
@@ -11,11 +11,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kälte',de,Wetterereignisse,#e81818,#e51515,3,0.1246061013142327
 'Heizung',de,Energie,#1818e8,#1515e5,3,0.1242550340291232
 'ÖPNV',de,Stadt,#ffff00,#ffff99,3,0.12277358817232
-'Kältebus',de,Stadt,#ffff00,#ffff99,1,0.1208786193167248
 'Notunterkunft',de,Stadt,#ffff00,#ffff99,3,0.1203851930197349
 'Tau',de,Wetterereignisse,#e81818,#e51515,2,0.1162506573384497
 'Wohnungslose',de,Stadt,#ffff00,#ffff99,3,0.1093196341430322
 'Rohrbruch',de,Energie,#1818e8,#1515e5,1,0.1037421502936804
+'Kältebus',de,Stadt,#ffff00,#ffff99,1,0.10274682641921608
 'Wind',de,Wetterereignisse,#e81818,#e51515,3,0.1001752738532503
 'Wärmepumpe',de,Energie,#1818e8,#1515e5,3,0.0914901175022669
 'Ackerbau',de,Landwirtschaft,#18e818,#15e515,2,0.0794641746124752
