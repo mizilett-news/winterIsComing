@@ -1,8 +1,8 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas',de,Energie,#1818e8,#1515e5,3,0.232330016978307
+'E-Auto',de,Stadt,#ffff00,#ffff99,3,0.18825059284293158
 'Landwirtschaft',de,Landwirtschaft,#18e818,#15e515,3,0.1767785377507929
-'Dürre',de,Wetterereignisse,#e81818,#e51515,3,0.16496806829768534
-'E-Auto',de,Stadt,#ffff00,#ffff99,3,0.1647481538190087
+'Dürre',de,Wetterereignisse,#e81818,#e51515,3,0.1649680682976853
 'Schnee',de,Wetterereignisse,#e81818,#e51515,3,0.1552087012483465
 'Bewässerung',de,Landwirtschaft,#15e815,#15e515,3,0.1278527676140346
 'Energiekosten',de,Energie,#1818e8,#1515e5,3,0.1277357257413456
