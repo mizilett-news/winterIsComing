@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas',de,Energie,#1818e8,#1515e5,3,0.232330016978307
-'E-Auto',de,Stadt,#ffff00,#ffff99,3,0.18825059284293158
+'E-Auto',de,Stadt,#ffff00,#ffff99,3,0.1882505928429315
 'Landwirtschaft',de,Landwirtschaft,#18e818,#15e515,3,0.1767785377507929
 'Dürre',de,Wetterereignisse,#e81818,#e51515,3,0.1649680682976853
 'Schnee',de,Wetterereignisse,#e81818,#e51515,3,0.1552087012483465
@@ -22,4 +22,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Tempolimit',de,Energie,#1818e8,#1515e5,3,0.0762955543814697
 'Pendlerpauschale',de,Energie,#1818e8,#1515e5,1,0.0306721578579704
 'Wärmebus',de,Stadt,#ffff00,#ffff99,1,0.0010403890123692
-'Folientunnel',de,Landwirtschaft,#18e818,#15e515,1,0.0006950960975723
+'Folientunnel',de,Landwirtschaft,#18e818,#15e515,1,0.000590831682936455
