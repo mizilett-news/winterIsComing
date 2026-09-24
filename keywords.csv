@@ -17,9 +17,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Rohrbruch',de,Energie,#1818e8,#1515e5,1,0.1037421502936804
 'Kältebus',de,Stadt,#ffff00,#ffff99,1,0.102746826419216
 'Wind',de,Wetterereignisse,#e81818,#e51515,3,0.1001752738532503
-'Wärmepumpe',de,Energie,#1818e8,#1515e5,3,0.0914901175022669
+'Wärmepumpe',de,Energie,#1818e8,#1515e5,3,0.09181082396783596
 'Ackerbau',de,Landwirtschaft,#18e818,#15e515,2,0.0794641746124752
 'Tempolimit',de,Energie,#1818e8,#1515e5,3,0.0762955543814697
-'Pendlerpauschale',de,Energie,#1818e8,#1515e5,2,0.02952169417927484
+'Pendlerpauschale',de,Energie,#1818e8,#1515e5,2,0.0295216941792748
 'Wärmebus',de,Stadt,#ffff00,#ffff99,1,0.0010403890123692
 'Folientunnel',de,Landwirtschaft,#18e818,#15e515,1,0.0005908316829364
