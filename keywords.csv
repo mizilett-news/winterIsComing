@@ -11,9 +11,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizung',de,Energie,#1818e8,#1515e5,3,0.1242550340291232
 'ÖPNV',de,Stadt,#ffff00,#ffff99,3,0.12277358817232
 'Notunterkunft',de,Stadt,#ffff00,#ffff99,3,0.1203851930197349
-'Energiekosten',de,Energie,#1818e8,#1515e5,3,0.11735223250134794
-'Tau',de,Wetterereignisse,#e81818,#e51515,2,0.1162506573384497
+'Energiekosten',de,Energie,#1818e8,#1515e5,3,0.1173522325013479
 'Wohnungslose',de,Stadt,#ffff00,#ffff99,3,0.1093196341430322
+'Tau',de,Wetterereignisse,#e81818,#e51515,2,0.10376383873768225
 'Rohrbruch',de,Energie,#1818e8,#1515e5,1,0.1037421502936804
 'Kältebus',de,Stadt,#ffff00,#ffff99,1,0.102746826419216
 'Wind',de,Wetterereignisse,#e81818,#e51515,3,0.1001752738532503
