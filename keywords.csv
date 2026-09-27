@@ -15,11 +15,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Tau',de,Wetterereignisse,#e81818,#e51515,2,0.1037638387376822
 'Rohrbruch',de,Energie,#1818e8,#1515e5,1,0.1037421502936804
 'Kältebus',de,Stadt,#ffff00,#ffff99,1,0.102746826419216
-'Wohnungslose',de,Stadt,#ffff00,#ffff99,3,0.10242213902157736
+'Wohnungslose',de,Stadt,#ffff00,#ffff99,3,0.1024221390215773
 'Wind',de,Wetterereignisse,#e81818,#e51515,3,0.1001752738532503
 'Wärmepumpe',de,Energie,#1818e8,#1515e5,3,0.0918108239678359
-'Tempolimit',de,Energie,#1818e8,#1515e5,3,0.0762955543814697
 'Ackerbau',de,Landwirtschaft,#18e818,#15e515,1,0.0675449834206039
+'Tempolimit',de,Energie,#1818e8,#1515e5,3,0.06635236122424924
 'Pendlerpauschale',de,Energie,#1818e8,#1515e5,2,0.0332560683053955
 'Wärmebus',de,Stadt,#ffff00,#ffff99,1,0.0010403890123692
 'Folientunnel',de,Landwirtschaft,#18e818,#15e515,1,0.0005022069304959
