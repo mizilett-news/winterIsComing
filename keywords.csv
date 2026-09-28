@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Gas',de,Energie,#1818e8,#1515e5,3,0.2277722297886034
+'Gas',de,Energie,#1818e8,#1515e5,3,0.19857381032031288
 'E-Auto',de,Stadt,#ffff00,#ffff99,3,0.1937123469810079
 'Landwirtschaft',de,Landwirtschaft,#18e818,#15e515,3,0.1723826280029537
 'Dürre',de,Wetterereignisse,#e81818,#e51515,3,0.1649680682976853
@@ -17,7 +17,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wind',de,Wetterereignisse,#e81818,#e51515,3,0.1001752738532503
 'Wärmepumpe',de,Energie,#1818e8,#1515e5,3,0.0918108239678359
 'Tau',de,Wetterereignisse,#e81818,#e51515,2,0.0912000579270298
-'Rohrbruch',de,Energie,#1818e8,#1515e5,1,0.08923093274962833
+'Rohrbruch',de,Energie,#1818e8,#1515e5,1,0.0892309327496283
 'Ackerbau',de,Landwirtschaft,#18e818,#15e515,1,0.0675449834206039
 'Tempolimit',de,Energie,#1818e8,#1515e5,3,0.0663523612242492
 'Pendlerpauschale',de,Energie,#1818e8,#1515e5,2,0.0332560683053955
