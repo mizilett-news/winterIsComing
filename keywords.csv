@@ -10,10 +10,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Not',de,Stadt,#ffff00,#ffff99,3,0.1269571731393592
 'Heizung',de,Energie,#1818e8,#1515e5,3,0.1242550340291232
 'ÖPNV',de,Stadt,#ffff00,#ffff99,3,0.12277358817232
-'Notunterkunft',de,Stadt,#ffff00,#ffff99,3,0.1203851930197349
 'Energiekosten',de,Energie,#1818e8,#1515e5,3,0.1173522325013479
 'Kältebus',de,Stadt,#ffff00,#ffff99,1,0.102746826419216
 'Wohnungslose',de,Stadt,#ffff00,#ffff99,3,0.1024221390215773
+'Notunterkunft',de,Stadt,#ffff00,#ffff99,1,0.10232766906677467
 'Wind',de,Wetterereignisse,#e81818,#e51515,3,0.1001752738532503
 'Wärmepumpe',de,Energie,#1818e8,#1515e5,3,0.0918108239678359
 'Tau',de,Wetterereignisse,#e81818,#e51515,2,0.0912000579270298
