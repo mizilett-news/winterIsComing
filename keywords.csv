@@ -3,14 +3,14 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas',de,Energie,#1818e8,#1515e5,3,0.214688931206426
 'Landwirtschaft',de,Landwirtschaft,#18e818,#15e515,3,0.1723826280029537
 'Schnee',de,Wetterereignisse,#e81818,#e51515,3,0.1552087012483465
-'E-Auto',de,Stadt,#ffff00,#ffff99,3,0.15322493667470352
+'E-Auto',de,Stadt,#ffff00,#ffff99,3,0.1532249366747035
 'Kälte',de,Wetterereignisse,#e81818,#e51515,3,0.1335971388443705
+'Energiekosten',de,Energie,#1818e8,#1515e5,3,0.1279923726261457
 'Bewässerung',de,Landwirtschaft,#15e815,#15e515,3,0.1278527676140346
 'Wein',de,Landwirtschaft,#18e818,#15e515,3,0.1270554497688669
 'Not',de,Stadt,#ffff00,#ffff99,3,0.1269571731393592
 'Heizung',de,Energie,#1818e8,#1515e5,3,0.1242550340291232
 'ÖPNV',de,Stadt,#ffff00,#ffff99,3,0.12277358817232
-'Energiekosten',de,Energie,#1818e8,#1515e5,3,0.1173522325013479
 'Kältebus',de,Stadt,#ffff00,#ffff99,1,0.102746826419216
 'Wohnungslose',de,Stadt,#ffff00,#ffff99,3,0.1024221390215773
 'Notunterkunft',de,Stadt,#ffff00,#ffff99,1,0.1023276690667746
