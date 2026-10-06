@@ -17,9 +17,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wind',de,Wetterereignisse,#e81818,#e51515,3,0.1001752738532503
 'Tau',de,Wetterereignisse,#e81818,#e51515,2,0.0912000579270298
 'Rohrbruch',de,Energie,#1818e8,#1515e5,1,0.0892309327496283
-'Wärmepumpe',de,Energie,#1818e8,#1515e5,3,0.0829927703726605
+'Wärmepumpe',de,Energie,#1818e8,#1515e5,3,0.08570849092787253
 'Ackerbau',de,Landwirtschaft,#18e818,#15e515,1,0.0675449834206039
 'Tempolimit',de,Energie,#1818e8,#1515e5,3,0.0663523612242492
-'Pendlerpauschale',de,Energie,#1818e8,#1515e5,2,0.03291821305958617
+'Pendlerpauschale',de,Energie,#1818e8,#1515e5,2,0.0329182130595861
 'Wärmebus',de,Stadt,#ffff00,#ffff99,1,0.0007516810614367
 'Folientunnel',de,Landwirtschaft,#18e818,#15e515,1,0.0003084178311907
