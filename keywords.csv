@@ -2,7 +2,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas',de,Energie,#1818e8,#1515e5,3,0.2203265004952615
 'Dürre',de,Wetterereignisse,#e81818,#e51515,3,0.1863935950067219
 'Wein',de,Landwirtschaft,#18e818,#15e515,3,0.1846311194740385
-'Landwirtschaft',de,Landwirtschaft,#18e818,#15e515,3,0.1668298570689218
+'Landwirtschaft',de,Landwirtschaft,#18e818,#15e515,3,0.17473997850858355
 'Heizung',de,Energie,#1818e8,#1515e5,3,0.1513524792695823
 'Wärmebus',de,Stadt,#ffff00,#ffff99,2,0.1507889439022212
 'ÖPNV',de,Stadt,#ffff00,#ffff99,3,0.149340797634627
@@ -20,6 +20,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Notunterkunft',de,Stadt,#ffff00,#ffff99,1,0.0935773199609802
 'Tau',de,Wetterereignisse,#e81818,#e51515,2,0.0912000579270298
 'Kältebus',de,Stadt,#ffff00,#ffff99,1,0.0879348624563336
-'Tempolimit',de,Energie,#1818e8,#1515e5,2,0.04009742279295757
+'Tempolimit',de,Energie,#1818e8,#1515e5,2,0.0400974227929575
 'Pendlerpauschale',de,Energie,#1818e8,#1515e5,1,0.0275291781577181
 'Folientunnel',de,Landwirtschaft,#18e818,#15e515,1,0.0002228318830352
