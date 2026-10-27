@@ -19,7 +19,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Tau',de,Wetterereignisse,#e81818,#e51515,2,0.0961071028743389
 'Ackerbau',de,Landwirtschaft,#18e818,#15e515,1,0.0939788155228979
 'Notunterkunft',de,Stadt,#ffff00,#ffff99,2,0.0835911269668331
-'Kältebus',de,Stadt,#ffff00,#ffff99,1,0.07519467808788355
+'Kältebus',de,Stadt,#ffff00,#ffff99,1,0.06436552137470097
 'Tempolimit',de,Energie,#1818e8,#1515e5,3,0.0623212993740138
 'Pendlerpauschale',de,Energie,#1818e8,#1515e5,1,0.0234977197189512
 'Folientunnel',de,Landwirtschaft,#18e818,#15e515,1,0.0002228318830352
