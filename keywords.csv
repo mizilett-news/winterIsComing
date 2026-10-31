@@ -12,13 +12,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kälte',de,Wetterereignisse,#e81818,#e51515,3,0.1335971388443705
 'Energiekosten',de,Energie,#1818e8,#1515e5,3,0.1316306951067775
 'Wohnungslose',de,Stadt,#ffff00,#ffff99,3,0.1298112464658168
-'Rohrbruch',de,Energie,#1818e8,#1515e5,1,0.1237576026616063
+'Rohrbruch',de,Energie,#1818e8,#1515e5,2,0.1250616386416757
 'Not',de,Stadt,#ffff00,#ffff99,3,0.1225591524535124
 'Wärmepumpe',de,Energie,#1818e8,#1515e5,3,0.1212148757417126
 'Bewässerung',de,Landwirtschaft,#15e815,#15e515,2,0.1132001163511399
 'Tau',de,Wetterereignisse,#e81818,#e51515,2,0.0961071028743389
 'Ackerbau',de,Landwirtschaft,#18e818,#15e515,1,0.0939788155228979
-'Wärmebus',de,Stadt,#ffff00,#ffff99,1,0.09288079876145158
+'Wärmebus',de,Stadt,#ffff00,#ffff99,1,0.0928807987614515
 'Notunterkunft',de,Stadt,#ffff00,#ffff99,2,0.0835911269668331
 'Tempolimit',de,Energie,#1818e8,#1515e5,3,0.0623212993740138
 'Pendlerpauschale',de,Energie,#1818e8,#1515e5,1,0.0179037979974008
