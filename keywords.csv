@@ -12,9 +12,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kälte',de,Wetterereignisse,#e81818,#e51515,3,0.1335971388443705
 'Energiekosten',de,Energie,#1818e8,#1515e5,3,0.1316306951067775
 'Wohnungslose',de,Stadt,#ffff00,#ffff99,3,0.1298112464658168
+'Wärmepumpe',de,Energie,#1818e8,#1515e5,3,0.12658607938045568
 'Rohrbruch',de,Energie,#1818e8,#1515e5,2,0.1250616386416757
 'Not',de,Stadt,#ffff00,#ffff99,3,0.1225591524535124
-'Wärmepumpe',de,Energie,#1818e8,#1515e5,3,0.1212148757417126
 'Bewässerung',de,Landwirtschaft,#15e815,#15e515,2,0.1132001163511399
 'Tau',de,Wetterereignisse,#e81818,#e51515,2,0.0961071028743389
 'Wärmebus',de,Stadt,#ffff00,#ffff99,1,0.0928807987614515
