@@ -18,8 +18,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bewässerung',de,Landwirtschaft,#15e815,#15e515,2,0.1132001163511399
 'Tau',de,Wetterereignisse,#e81818,#e51515,2,0.0961071028743389
 'Wärmebus',de,Stadt,#ffff00,#ffff99,1,0.0928807987614515
-'Notunterkunft',de,Stadt,#ffff00,#ffff99,2,0.0835911269668331
-'Tempolimit',de,Energie,#1818e8,#1515e5,3,0.07656397976201063
+'Notunterkunft',de,Stadt,#ffff00,#ffff99,2,0.08509404201271722
+'Tempolimit',de,Energie,#1818e8,#1515e5,3,0.0765639797620106
 'Ackerbau',de,Landwirtschaft,#18e818,#15e515,1,0.0614238609579996
 'Pendlerpauschale',de,Energie,#1818e8,#1515e5,1,0.0156682732977906
 'Folientunnel',de,Landwirtschaft,#18e818,#15e515,1,0.0008002879676689
