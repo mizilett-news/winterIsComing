@@ -4,6 +4,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas',de,Energie,#1818e8,#1515e5,3,0.1797087706886507
 'Dürre',de,Wetterereignisse,#e81818,#e51515,3,0.1736019809000353
 'Heizung',de,Energie,#1818e8,#1515e5,3,0.1706631832922272
+'Wärmebus',de,Stadt,#ffff00,#ffff99,2,0.15454873894723375
 'ÖPNV',de,Stadt,#ffff00,#ffff99,3,0.149340797634627
 'Landwirtschaft',de,Landwirtschaft,#18e818,#15e515,3,0.1421136121595383
 'Wein',de,Landwirtschaft,#18e818,#15e515,3,0.1406261603509289
@@ -17,8 +18,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bewässerung',de,Landwirtschaft,#15e815,#15e515,2,0.1132001163511399
 'Kältebus',de,Stadt,#ffff00,#ffff99,1,0.1126137743267381
 'Tau',de,Wetterereignisse,#e81818,#e51515,2,0.0961071028743389
-'Wärmebus',de,Stadt,#ffff00,#ffff99,1,0.0928807987614515
-'Notunterkunft',de,Stadt,#ffff00,#ffff99,2,0.08182608025626416
+'Notunterkunft',de,Stadt,#ffff00,#ffff99,2,0.0818260802562641
 'Tempolimit',de,Energie,#1818e8,#1515e5,3,0.0765639797620106
 'Ackerbau',de,Landwirtschaft,#18e818,#15e515,1,0.0535604168142996
 'Pendlerpauschale',de,Energie,#1818e8,#1515e5,1,0.0148006754576537
